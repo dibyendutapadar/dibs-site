@@ -2,60 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dibs-site-vault/content/</loc>
+    <loc>https://dibyendupm.netlify.app/work/work-experience-planful/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://dibyendupm.netlify.app/work/work-experience-brane/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/work/work-experience-byjus/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/work/work-experience-khan-academy/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/work/work-experience-mahindra/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/work/work-experience-tata-motors/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/content/work/brane/</loc>
+    <loc>https://dibyendupm.netlify.app/tags/ai/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/content/work/byjus/</loc>
+    <loc>https://dibyendupm.netlify.app/categories/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://dibyendupm.netlify.app/categories/experience/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/</loc>
+    <loc>https://dibyendupm.netlify.app/tags/productmanagement/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://dibyendupm.netlify.app/tags/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/content/work/khan-academy/</loc>
+    <loc>https://dibyendupm.netlify.app/categories/work/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/content/work/mahindra/</loc>
+    <loc>https://dibyendupm.netlify.app/tags/work/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/content/work/work-experience-planful/</loc>
+    <loc>https://dibyendupm.netlify.app/work/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/productmanagement/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.netlify.app/tags/nocode/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.netlify.app/tags/edtech/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/content/work/tata-motors/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.netlify.app/tags/automotive/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/work/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.netlify.app/tags/analytics/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/work/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.netlify.app/tags/operations/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/content/work/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.netlify.app/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/content/blog/</loc>
+    <loc>https://dibyendupm.netlify.app/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/content/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/_templates/tp.file.title.replace/%5Cs&#43;/g-.tolowercase/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/_templates/tp.file.title.replace/%5Cs&#43;/g-.tolowercase/</loc>
+    <loc>https://dibyendupm.netlify.app/resume/</loc>
   </url>
 </urlset>

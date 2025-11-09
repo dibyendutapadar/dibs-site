@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EdTech on Dibyendu Tapadar</title>
+    <link>https://dibyendupm.netlify.app/tags/edtech/</link>
+    <description>Recent content in EdTech on Dibyendu Tapadar</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dibyendupm.netlify.app/tags/edtech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sr. Product Manager @BYJU’S</title>
+      <link>https://dibyendupm.netlify.app/work/work-experience-byjus/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/work/work-experience-byjus/</guid>
+      <description>Shipped AI-powered offline assessment platform and unified systems reducing infra costs by 58%.</description>
+    </item>
+    <item>
+      <title>Sr. Product Manager @Khan Academy</title>
+      <link>https://dibyendupm.netlify.app/work/work-experience-khan-academy/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/work/work-experience-khan-academy/</guid>
+      <description>Partnered with state governments to grow users 10× and launched a WhatsApp chatbot.</description>
+    </item>
+  </channel>
+</rss>

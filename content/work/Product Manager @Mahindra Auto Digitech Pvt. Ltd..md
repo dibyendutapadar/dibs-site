@@ -1,0 +1,17 @@
+---
+title: Product Manager @Mahindra Auto Digitech Pvt. Ltd.
+date: 2019-03-01
+tags: ["Work", "Automotive", "ProductManagement"]
+categories: ["Work", "Experience"]
+draft: false
+slug: work-experience-mahindra
+company: Mahindra Auto Digitech Pvt. Ltd.
+position: Product Manager
+location: Mumbai
+from: Feb 2016
+to: Mar 2019
+weight: 5
+summary: Launched Carworkz.com and DearO SaaS earning two Mahindra innovation awards.
+---
+
+• Launched **Carworkz.com** (4k monthly bookings in six months) and **DearO SaaS** (1.5k paying workshops), earning **two Mahindra Innovation Awards**
