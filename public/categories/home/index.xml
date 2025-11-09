@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on Dibyendu</title>
-    <link>https://example.org/categories/home/</link>
-    <description>Recent content in Home on Dibyendu</description>
+    <title>Home on Dibyendu Tapadar</title>
+    <link>http://localhost:1313/categories/home/</link>
+    <description>Recent content in Home on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/categories/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://example.org/dibs-site-vault/content/about/about-me/</link>
+      <link>http://localhost:1313/dibs-site-vault/content/about/about-me/</link>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/dibs-site-vault/content/about/about-me/</guid>
+      <guid>http://localhost:1313/dibs-site-vault/content/about/about-me/</guid>
       <description>About Me</description>
     </item>
   </channel>

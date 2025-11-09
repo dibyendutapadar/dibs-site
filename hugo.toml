@@ -1,4 +1,64 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Dibyendu'
+baseURL = "https://dibyendupm.netlify.app/"
+languageCode = "en-us"
+title = "Dibyendu Tapadar"
 theme = "PaperMod"
+
+[params]
+  env = "production"  # to enable Google Analytics, OpenGraph, Twitter Cards
+  description = "Personal site and blog by Dibyendu Tapadar"
+  author = "Dibyendu Tapadar"
+  keywords = ["AI", "Product Management", "Technology"]
+  defaultTheme = "auto"  # options: dark, light, auto
+  disableThemeToggle = false
+
+  [params.profileMode]
+    enabled = true
+    title = "Dibyendu Tapadar"
+    subtitle = "AI Product Manager | Building at the intersection of Tech and Strategy"
+    imageUrl = "img/profile_pic.jpg"
+    imageTitle = "Me"
+    imageWidth = 120
+    imageHeight = 120
+
+  [params.homeInfoParams]
+    Title = "Welcome to my world of ideas"
+    Content = "I write about AI, Business, and Product Management."
+
+  [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/dibyendutapadar/"
+
+  [[params.socialIcons]]
+    name = "GitHub"
+    url = "https://github.com/dibyendutapadar"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "work"
+    name = "Work Ex"
+    url = "/work/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Personal Projects"
+    url = "/projects/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume.pdf"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
