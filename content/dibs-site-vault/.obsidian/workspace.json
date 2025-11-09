@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brane.md",
+                "file": "content/work/brane.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "khan academy.md",
+                "file": "content/work/brane.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "khan academy"
+              "title": "brane"
             }
           }
         ],
@@ -325,15 +325,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2ab26019cb4c0e6",
+  "active": "901966771f31312d",
   "lastOpenFiles": [
-    "byjus.md",
-    "planful.md",
-    "brane.md",
+    "content/work/khan academy.md",
+    "content/work/byjus.md",
+    "content/work/planful.md",
+    "content/work/brane.md",
     "content/work/_index.md",
-    "tata motors.md",
-    "mahindra.md",
-    "khan academy.md",
+    "content/work/tata motors.md",
+    "content/work/mahindra.md",
     "_templates/blog.md",
     "_templates/workex.md",
     "content/_index.md",
