@@ -10,6 +10,8 @@ theme = "PaperMod"
   keywords = ["AI", "Product Management", "Technology"]
   defaultTheme = "auto"  # options: dark, light, auto
   disableThemeToggle = false
+  ShowDate = false
+  ShowSummary = true
 
   [params.profileMode]
     enabled = true
@@ -19,6 +21,7 @@ theme = "PaperMod"
     imageTitle = "Me"
     imageWidth = 120
     imageHeight = 120
+    ShowDate = false
 
   [params.homeInfoParams]
     Title = "Welcome to my world of ideas"

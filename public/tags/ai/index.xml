@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on Dibyendu Tapadar</title>
+    <link>https://dibyendupm.netlify.app/tags/ai/</link>
+    <description>Recent content in AI on Dibyendu Tapadar</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dibyendupm.netlify.app/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lead Product Manager - AI @Planful</title>
+      <link>https://dibyendupm.netlify.app/work/work-experience-planful/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/work/work-experience-planful/</guid>
+      <description>Implementing practical use of AI/ML in FP&amp;amp;A and Performance Management (CPM/FPM) at Planful.</description>
+    </item>
+    <item>
+      <title>Sr. Product Manager @BYJU’S</title>
+      <link>https://dibyendupm.netlify.app/work/work-experience-byjus/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/work/work-experience-byjus/</guid>
+      <description>Shipped AI-powered offline assessment platform and unified systems reducing infra costs by 58%.</description>
+    </item>
+  </channel>
+</rss>
