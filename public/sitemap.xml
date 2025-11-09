@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dibs-site-vault/content/about/about-me/</loc>
+    <loc>http://localhost:1313/dibs-site-vault/content/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dibs-site-vault/brane/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dibs-site-vault/byjus/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -14,15 +23,39 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/home/</loc>
+    <loc>http://localhost:1313/dibs-site-vault/khan-academy/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/home/</loc>
+    <loc>http://localhost:1313/dibs-site-vault/mahindra/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dibs-site-vault/work-experience-planful/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/productmanagement/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/dibs-site-vault/welcome/</loc>
+    <loc>http://localhost:1313/dibs-site-vault/tata-motors/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/work/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/work/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dibs-site-vault/content/work/</loc>
+    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/dibs-site-vault/content/blog/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dibs-site-vault/content/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dibs-site-vault/_templates/tp.file.title.replace/%5Cs&#43;/g-.tolowercase/</loc>
+  </url><url>
+    <loc>http://localhost:1313/dibs-site-vault/_templates/tp.file.title.replace/%5Cs&#43;/g-.tolowercase/</loc>
   </url>
 </urlset>
