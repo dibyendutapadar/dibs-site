@@ -1,6 +1,5 @@
 ---
 title: Lead Product Manager - AI @Planful
-date: 2025-11-09
 tags: ["Work", "AI", "ProductManagement"]
 categories: ["Work", "Experience"]
 draft: false

@@ -2,70 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dibyendupm.netlify.app/projects/chat-with-local-documents/</loc>
+  </url><url>
     <loc>https://dibyendupm.netlify.app/work/work-experience-planful/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/projects/ai-travel-agent-for-stay-and-itinerary-planning/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/work/work-experience-brane/</loc>
-    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/projects/image-analysis-with-llava-and-llama/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/work/work-experience-byjus/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/projects/adaptive-learning-without-question-answer-dataset/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/blog/automated-assessments/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/work/work-experience-khan-academy/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dibyendupm.netlify.app/work/work-experience-mahindra/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/projects/time-series-forecasting-app/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/work/work-experience-tata-motors/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/projects/llm-driven-hotel-booking-chatbot/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/projects/automated-traffic-signal-duration-simulator/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/projects/delivery-route-optimization/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/projects/pm-interview-simulator/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/ai/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dibyendupm.netlify.app/categories/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dibyendupm.netlify.app/categories/experience/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/productmanagement/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dibyendupm.netlify.app/categories/work/</loc>
-    <lastmod>2025-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/work/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dibyendupm.netlify.app/work/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/nocode/</loc>
-    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.netlify.app/blog/</loc>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/edtech/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.netlify.app/tags/adaptive-learning/</loc>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/automotive/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.netlify.app/categories/ai/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/ai/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/ai-image-analysis/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/categories/analytics/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/analytics/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/automotive/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/chatbot/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/crewai/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/categories/edtech/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/edtech/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/categories/experience/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/forecasting/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/genai/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/gpt/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/groq-api/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/holt-winters/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/interview-simulation/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/langchain/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/llama/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/llamaindex/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/llava/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/llm/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/logistics/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/maps/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/nocode/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/ollama/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/operations/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/blog/</loc>
+    <loc>https://dibyendupm.netlify.app/categories/optimization/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/or-tools/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/ota/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/projects/</loc>
   </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/productmanagement/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/categories/projects/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/prompt-engineering/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/python/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/rag/</loc>
+  </url><url>
     <loc>https://dibyendupm.netlify.app/resume/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/route-optimization/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/sarimax/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/categories/smartcity/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/smartcity/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/streamlit/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/time-series/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/trafficsignal/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/traveltech/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/categories/work/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/work/</loc>
   </url>
 </urlset>

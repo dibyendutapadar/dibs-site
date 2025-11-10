@@ -1,6 +1,5 @@
 ---
 title: Product Manager @Mahindra Auto Digitech Pvt. Ltd.
-date: 2019-03-01
 tags: ["Work", "Automotive", "ProductManagement"]
 categories: ["Work", "Experience"]
 draft: false

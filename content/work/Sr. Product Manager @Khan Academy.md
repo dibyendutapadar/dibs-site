@@ -1,6 +1,5 @@
 ---
 title: Sr. Product Manager @Khan Academy
-date: 2022-02-01
 tags: ["Work", "EdTech", "ProductManagement"]
 categories: ["Work", "Experience"]
 draft: false

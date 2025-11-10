@@ -1,6 +1,5 @@
 ---
 title: Sr. Product Lead @Brane Enterprises Pvt. Ltd.
-date: 2024-09-30
 tags: ["Work", "ProductManagement", "NoCode"]
 categories: ["Work", "Experience"]
 draft: false
