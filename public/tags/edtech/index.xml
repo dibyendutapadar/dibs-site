@@ -6,19 +6,35 @@
     <description>Recent content in EdTech on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dibyendupm.netlify.app/tags/edtech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sr. Product Manager @BYJU’S</title>
       <link>https://dibyendupm.netlify.app/work/work-experience-byjus/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/work/work-experience-byjus/</guid>
       <description>Shipped AI-powered offline assessment platform and unified systems reducing infra costs by 58%.</description>
     </item>
     <item>
+      <title>Adaptive Learning without Question-Answer Dataset</title>
+      <link>https://dibyendupm.netlify.app/projects/adaptive-learning-without-question-answer-dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/projects/adaptive-learning-without-question-answer-dataset/</guid>
+      <description>Generates adaptive learning assessments dynamically using GenAI and proficiency tracking.</description>
+    </item>
+    <item>
+      <title>Revolutionizing Education with Automated Assessment - A Journey in Innovation in Byjus</title>
+      <link>https://dibyendupm.netlify.app/blog/automated-assessments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/blog/automated-assessments/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In the ever-evolving landscape of education, the integration of technology has become paramount. My journey as a product manager at Byju&amp;rsquo;s, a leading ed-tech company, reflects this transformation. I led the development of an automation tool that revolutionized the traditional methods of test creation and assessment, aligning perfectly with the modern educational needs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;ree&#34; loading=&#34;lazy&#34; src=&#34;https://static.wixstatic.com/media/f3d706_48f46023467c490fa5aa7e25517a838d~mv2.png/v1/fill/w_1480,h_846,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/f3d706_48f46023467c490fa5aa7e25517a838d~mv2.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;my-role&#34;&gt;My Role:&lt;/h2&gt;
+&lt;p&gt;As a product manager, my role was multifaceted. I was not only the brainchild behind this initiative but also the driving force in its execution. My responsibility encompassed everything from conceptualization to overseeing the development and implementation of the tool.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Sr. Product Manager @Khan Academy</title>
       <link>https://dibyendupm.netlify.app/work/work-experience-khan-academy/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/work/work-experience-khan-academy/</guid>
       <description>Partnered with state governments to grow users 10× and launched a WhatsApp chatbot.</description>
     </item>

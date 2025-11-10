@@ -1,6 +1,5 @@
 ---
 title: Assistant Manager @Tata Motors
-date: 2016-01-01
 tags: ["Work", "Operations", "Analytics"]
 categories: ["Work", "Experience"]
 draft: false

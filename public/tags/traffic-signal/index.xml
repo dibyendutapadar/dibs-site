@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Traffic Signal on Dibyendu Tapadar</title>
+    <link>http://localhost:1313/tags/traffic-signal/</link>
+    <description>Recent content in Traffic Signal on Dibyendu Tapadar</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/traffic-signal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automated Traffic Signal Duration Simulator</title>
+      <link>http://localhost:1313/projects/automated-traffic-signal-duration-simulator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/automated-traffic-signal-duration-simulator/</guid>
+      <description>Simulates optimal signal durations using real-time Bing Maps traffic data.</description>
+    </item>
+  </channel>
+</rss>

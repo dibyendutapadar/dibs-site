@@ -6,62 +6,271 @@
     <description>Recent content in Tags on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dibyendupm.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adaptive Learning</title>
+      <link>https://dibyendupm.netlify.app/tags/adaptive-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/adaptive-learning/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>https://dibyendupm.netlify.app/tags/ai/</link>
-      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/tags/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>ProductManagement</title>
-      <link>https://dibyendupm.netlify.app/tags/productmanagement/</link>
-      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/productmanagement/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Work</title>
-      <link>https://dibyendupm.netlify.app/tags/work/</link>
-      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/work/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NoCode</title>
-      <link>https://dibyendupm.netlify.app/tags/nocode/</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/nocode/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>EdTech</title>
-      <link>https://dibyendupm.netlify.app/tags/edtech/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/edtech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automotive</title>
-      <link>https://dibyendupm.netlify.app/tags/automotive/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/automotive/</guid>
+      <title>AI Image Analysis</title>
+      <link>https://dibyendupm.netlify.app/tags/ai-image-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/ai-image-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Analytics</title>
       <link>https://dibyendupm.netlify.app/tags/analytics/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/tags/analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automotive</title>
+      <link>https://dibyendupm.netlify.app/tags/automotive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/automotive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chatbot</title>
+      <link>https://dibyendupm.netlify.app/tags/chatbot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/chatbot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CrewAI</title>
+      <link>https://dibyendupm.netlify.app/tags/crewai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/crewai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EdTech</title>
+      <link>https://dibyendupm.netlify.app/tags/edtech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/edtech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forecasting</title>
+      <link>https://dibyendupm.netlify.app/tags/forecasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/forecasting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenAI</title>
+      <link>https://dibyendupm.netlify.app/tags/genai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/genai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPT</title>
+      <link>https://dibyendupm.netlify.app/tags/gpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/gpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groq API</title>
+      <link>https://dibyendupm.netlify.app/tags/groq-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/groq-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Holt-Winters</title>
+      <link>https://dibyendupm.netlify.app/tags/holt-winters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/holt-winters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interview Simulation</title>
+      <link>https://dibyendupm.netlify.app/tags/interview-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/interview-simulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LangChain</title>
+      <link>https://dibyendupm.netlify.app/tags/langchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/langchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLaMA</title>
+      <link>https://dibyendupm.netlify.app/tags/llama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/llama/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LlamaIndex</title>
+      <link>https://dibyendupm.netlify.app/tags/llamaindex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/llamaindex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLaVA</title>
+      <link>https://dibyendupm.netlify.app/tags/llava/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/llava/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://dibyendupm.netlify.app/tags/llm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logistics</title>
+      <link>https://dibyendupm.netlify.app/tags/logistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/logistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maps</title>
+      <link>https://dibyendupm.netlify.app/tags/maps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/maps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NoCode</title>
+      <link>https://dibyendupm.netlify.app/tags/nocode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/nocode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ollama</title>
+      <link>https://dibyendupm.netlify.app/tags/ollama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/ollama/</guid>
       <description></description>
     </item>
     <item>
       <title>Operations</title>
       <link>https://dibyendupm.netlify.app/tags/operations/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/tags/operations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OR-Tools</title>
+      <link>https://dibyendupm.netlify.app/tags/or-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/or-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OTA</title>
+      <link>https://dibyendupm.netlify.app/tags/ota/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/ota/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ProductManagement</title>
+      <link>https://dibyendupm.netlify.app/tags/productmanagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/productmanagement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prompt Engineering</title>
+      <link>https://dibyendupm.netlify.app/tags/prompt-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/prompt-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://dibyendupm.netlify.app/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RAG</title>
+      <link>https://dibyendupm.netlify.app/tags/rag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/rag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Route Optimization</title>
+      <link>https://dibyendupm.netlify.app/tags/route-optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/route-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SARIMAX</title>
+      <link>https://dibyendupm.netlify.app/tags/sarimax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/sarimax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SmartCity</title>
+      <link>https://dibyendupm.netlify.app/tags/smartcity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/smartcity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streamlit</title>
+      <link>https://dibyendupm.netlify.app/tags/streamlit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time Series</title>
+      <link>https://dibyendupm.netlify.app/tags/time-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/time-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TrafficSignal</title>
+      <link>https://dibyendupm.netlify.app/tags/trafficsignal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/trafficsignal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TravelTech</title>
+      <link>https://dibyendupm.netlify.app/tags/traveltech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/traveltech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>https://dibyendupm.netlify.app/tags/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/work/</guid>
       <description></description>
     </item>
   </channel>
