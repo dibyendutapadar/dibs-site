@@ -5,6 +5,9 @@ tags: ["LLaMA", "LLaVA", "CrewAI", "Streamlit", "AI Image Analysis"]
 categories: ["Projects", "AI"]
 draft: false
 weight: 3
+cover:
+  image: "/img/20251109185651.png"    
+  alt: "Cover image alt text"
 ---
 
 ✔ Use multiple Local LLMs to analyse images and perform industry-specific tasks using CrewAI.

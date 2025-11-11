@@ -12,6 +12,7 @@ theme = "PaperMod"
   disableThemeToggle = false
   ShowDate = false
   ShowSummary = true
+ 
 
   [params.profileMode]
     enabled = true

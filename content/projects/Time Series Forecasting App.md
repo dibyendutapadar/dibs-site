@@ -5,6 +5,9 @@ tags: ["Time Series", "Forecasting", "SARIMAX", "Holt-Winters"]
 categories: ["Projects", "Analytics"]
 draft: false
 weight: 5
+cover:
+  image: "/img/20251109185651.png"    
+  alt: "Cover image alt text"
 ---
 
 ✔ A Streamlit app for demand forecasting with an intuitive, interactive interface.

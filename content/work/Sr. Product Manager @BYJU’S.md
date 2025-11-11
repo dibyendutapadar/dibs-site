@@ -11,6 +11,9 @@ from: Mar 2022
 to: Oct 2023
 weight: 3
 summary: Shipped AI-powered offline assessment platform and unified systems reducing infra costs by 58%.
+cover:
+  image: "/img/20251109185651.png"    
+  alt: "Cover image alt text"
 ---
 
 • Shipped an **AI-powered offline assessment platform** that served **200k students**, slashed grading turnaround from **11 to 2 days**, and lifted test scores by **5pp**  

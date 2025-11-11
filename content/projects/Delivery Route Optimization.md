@@ -5,6 +5,9 @@ tags: ["Route Optimization", "OR-Tools", "Logistics", "Python"]
 categories: ["Projects", "Optimization"]
 draft: false
 weight: 8
+cover:
+  image: "/img/20251109185651.png"    
+  alt: "Cover image alt text"
 ---
 
 ✔ Application to optimize delivery routes across multiple agents in a city.

@@ -5,8 +5,11 @@ tags: ["LLM", "RAG", "LangChain", "Streamlit", "Ollama"]
 categories: ["Projects", "AI"]
 draft: false
 weight: 1
+cover:
+  image: "/img/20251109185651.png"    
+  alt: "Cover image alt text"
 ---
-[![LinkedIn Article Preview](/img/20251109185651.png)](https://www.linkedin.com/pulse/using-open-source-llms-chat-internal-company-dibyendu-tapadar-5gvyc/)
+
 The project enables chatting and extracting information and insights from internal documents using a locally deployed LLM.
 
 **Key Features**
