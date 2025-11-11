@@ -5,24 +5,47 @@ tags: ["LLM", "LangChain", "Ollama", "CrewAI", "TravelTech", "OTA"]
 categories: ["Projects", "AI"]
 draft: false
 weight: 2
+cover:
+  image: "/img/20251111222941.png"    
+  alt: "Cover image alt text"
 ---
 
-✔ Traditional OTAs like MakeMyTrip and Booking limit users to fixed filters.  
-This project offers an unrestricted AI search experience based on user intent.
+### 🧭 AI Travel Search Agent
 
-**Key Features**
-- **Personalized Search**: Users describe their travel needs naturally.  
-  Example: “A secluded stay by a riverside within 200 km from Bangalore with Wi-Fi and parking.”  
-- **AI-Powered Recommendations**: Agents parse intent and fetch tailored options.  
-- **Detailed Itineraries**: Generated using specialized agents.  
+_Traditional OTAs like MakeMyTrip and Booking limit users to fixed filters.  
+This project offers an unrestricted AI search experience based on user intent. An unrestricted AI-powered search experience driven by user intent._
 
-💡 **How it Works**
-- Intent Mapper Agent → extracts key details  
-- Finder Agent → searches suitable options  
-- Formatter Agent → refines presentation  
-- Itinerary Agent → builds full itinerary  
+---
 
-**Technologies Used**: Ollama, CrewAI, Streamlit  
+#### 🔑 Key Features
 
-🔗 [GitHub](#)  
-📝 [Article](#)
+**• Personalized Search** — Users describe their travel needs naturally.
+
+> _Example:_ “A secluded stay by a riverside within 200 km from Bangalore with Wi-Fi and parking.”
+
+**• AI-Powered Recommendations** — Specialized agents interpret intent and fetch the most relevant options.
+
+**• Detailed Itineraries** — Automatically generated using dedicated itinerary agents for end-to-end trip planning.
+
+---
+
+#### 💡 How It Works
+
+|**Agent**|**Role**|**Description**|
+|:--|:--|:--|
+|🧩 **Intent Mapper Agent**|🧠 Understanding|Extracts key details and user preferences from natural language queries.|
+|🔍 **Finder Agent**|🌐 Discovery|Searches for destinations, stays, or activities that best match the extracted intent.|
+|🪄 **Formatter Agent**|✨ Presentation|Structures and refines results into a clean, readable format.|
+|🗺️ **Itinerary Agent**|🧳 Planning|Builds a complete travel itinerary, including suggestions and timelines.|
+
+---
+> **ℹ️ Technologies Used**  
+> **Ollama** ·  **CrewAI** · **Streamlit**
+---
+**Resources** 
+🔗 [GitHub](https://github.com/dibyendutapadar/travel-agent-crewai)  
+📝 [LinkedIn Article](https://www.linkedin.com/pulse/ai-travel-agent-crewai-ollama-dibyendu-tapadar-dvyxc)
+
+---
+
+

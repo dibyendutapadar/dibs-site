@@ -5,6 +5,9 @@ tags: ["LLM", "Chatbot", "Groq API", "Streamlit"]
 categories: ["Projects", "AI"]
 draft: false
 weight: 6
+cover:
+  image: "/img/20251109185651.png"    
+  alt: "Cover image alt text"
 ---
 
 ✔ A chatbot powered by an LLM to assist guests with queries and bookings.

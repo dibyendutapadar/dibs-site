@@ -1,7 +1,12 @@
 ---
 title: Lead Product Manager - AI @Planful
-tags: ["Work", "AI", "ProductManagement"]
-categories: ["Work", "Experience"]
+tags:
+  - Work
+  - AI
+  - ProductManagement
+categories:
+  - Work
+  - Experience
 draft: false
 slug: work-experience-planful
 company: Planful
@@ -11,6 +16,9 @@ from: Nov 2024
 to: Now
 weight: 1
 summary: Implementing practical use of AI/ML in FP&A and Performance Management (CPM/FPM) at Planful.
+cover:
+  image: "https://planful.com/static/planful-logo-latest-svg-12c7cee2bf3ea0aa0d255f2c604ac67a.svg"    
+  alt: "Cover image alt text"
 ---
 
 • Implementing practical use of AI/ML in Financial Planning, Analysis (FP&A) and Performance Management (CPM, FPM)  

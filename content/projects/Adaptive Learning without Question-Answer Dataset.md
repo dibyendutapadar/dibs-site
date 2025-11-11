@@ -5,6 +5,9 @@ tags: ["Adaptive Learning", "GenAI", "LlamaIndex", "EdTech"]
 categories: ["Projects", "AI", "EdTech"]
 draft: false
 weight: 4
+cover:
+  image: "/img/20251109185651.png"    
+  alt: "Cover image alt text"
 ---
 
 ✔ Generates multiple-choice questions based on a student's topic, grade, and proficiency.
