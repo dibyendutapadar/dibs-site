@@ -7,7 +7,7 @@ draft: false
 weight: 1
 cover:
   image: "/img/20251109185651.png"    
-  alt: "Cover image alt text"
+  alt: "Chat with Local Documents"
 ---
 
 The project enables chatting and extracting information and insights from internal documents using a locally deployed LLM.
@@ -22,6 +22,6 @@ The project enables chatting and extracting information and insights from intern
 **Technologies Used**: LLM, RAG, LangChain, Streamlit, Ollama  
 
 🔗 [GitHub](https://github.com/dibyendutapadar/chat-with-pdf)  
-📝 [Article](https://www.linkedin.com/pulse/using-open-source-llms-chat-internal-company-dibyendu-tapadar-5gvyc/)
+📝 [Read on LinkedIn](https://www.linkedin.com/pulse/using-open-source-llms-chat-internal-company-dibyendu-tapadar-5gvyc/)
 
 

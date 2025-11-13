@@ -12,8 +12,8 @@ to: Mar 2019
 weight: 5
 summary: Launched Carworkz.com and DearO SaaS earning two Mahindra innovation awards.
 cover:
-  image: "/img/20251109185651.png"    
-  alt: "Cover image alt text"
+  image: "/img/mahindra-logo.png"    
+  alt: "Mahindra AutoDigitech"
 ---
 
 • Launched **Carworkz.com** (4k monthly bookings in six months) and **DearO SaaS** (1.5k paying workshops), earning **two Mahindra Innovation Awards**

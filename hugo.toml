@@ -17,20 +17,16 @@ theme = "PaperMod"
   [params.profileMode]
     enabled = true
     title = "Dibyendu Tapadar"
-    subtitle = "AI Product Manager | Building at the intersection of Tech and Strategy"
+    subtitle = "AI Product Manager | Building at the intersection of Tech, Users and Business Strategy"
     imageUrl = "img/profile_pic.jpg"
     imageTitle = "Me"
     imageWidth = 120
     imageHeight = 120
     ShowDate = false
 
-  [params.homeInfoParams]
-    Title = "Welcome to my world of ideas"
-    Content = "I write about AI, Business, and Product Management."
-
   [[params.socialIcons]]
     name = "LinkedIn"
-    url = "https://www.linkedin.com/in/dibyendutapadar/"
+    url = "https://www.linkedin.com/in/dibyendu-tapadar/"
 
   [[params.socialIcons]]
     name = "GitHub"
@@ -45,9 +41,12 @@ theme = "PaperMod"
 
   [[menu.main]]
     identifier = "work"
-    name = "Work Ex"
+    name = "Experience"
+    pre = '<i class="fa-solid fa-briefcase"></i>'
     url = "/work/"
     weight = 2
+    [menus.main.params]
+      class = 'center'
 
   [[menu.main]]
     identifier = "projects"

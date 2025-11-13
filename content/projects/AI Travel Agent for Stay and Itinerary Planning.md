@@ -6,11 +6,12 @@ categories: ["Projects", "AI"]
 draft: false
 weight: 2
 cover:
-  image: "/img/20251111222941.png"    
-  alt: "Cover image alt text"
+  image: "/img/20251113212623.png"    
+  alt: "AI Travel Agent for Stay and Itinerary Planning"
 ---
 
-### 🧭 AI Travel Search Agent
+# AI Travel Agent with crewAI and Ollama
+
 
 _Traditional OTAs like MakeMyTrip and Booking limit users to fixed filters.  
 This project offers an unrestricted AI search experience based on user intent. An unrestricted AI-powered search experience driven by user intent._
@@ -44,7 +45,7 @@ This project offers an unrestricted AI search experience based on user intent. A
 ---
 **Resources** 
 🔗 [GitHub](https://github.com/dibyendutapadar/travel-agent-crewai)  
-📝 [LinkedIn Article](https://www.linkedin.com/pulse/ai-travel-agent-crewai-ollama-dibyendu-tapadar-dvyxc)
+📝 [Read on LinkedIn](https://www.linkedin.com/pulse/ai-travel-agent-crewai-ollama-dibyendu-tapadar-dvyxc)
 
 ---
 

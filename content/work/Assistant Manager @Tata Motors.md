@@ -12,8 +12,8 @@ to: Jan 2016
 weight: 6
 summary: Managed 15 workshops, achieved 97% customer satisfaction, and upgraded three workshops.
 cover:
-  image: "/img/20251109185651.png"    
-  alt: "Cover image alt text"
+  image: "/img/tata-logo.png"    
+  alt: "Tata Motors"
 ---
 
 • Managing **15 workshops**, applied lean operations and CX analytics to hit **97% customer satisfaction**  

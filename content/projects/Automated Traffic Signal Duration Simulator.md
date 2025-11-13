@@ -7,7 +7,7 @@ draft: false
 weight: 7
 cover:
   image: "/img/20251109185651.png"    
-  alt: "Cover image alt text"
+  alt: "Automated Traffic Signal Duration Simulator"
 ---
 
 
