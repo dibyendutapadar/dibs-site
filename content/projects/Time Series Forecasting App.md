@@ -7,7 +7,7 @@ draft: false
 weight: 5
 cover:
   image: "/img/20251109185651.png"    
-  alt: "Cover image alt text"
+  alt: "Time Series Forecasting App"
 ---
 
 ✔ A Streamlit app for demand forecasting with an intuitive, interactive interface.
@@ -19,5 +19,5 @@ cover:
 
 **Technologies Used**: SARIMAX, Holt-Winters, Python, Streamlit  
 
-🔗 [GitHub](#)  
-📱 [App Link](#)
+🔗 [GitHub](https://github.com/dibyendutapadar/time-series-forecasting)  
+📱 [App Link](https://time-series-forecasting-simple.streamlit.app/)

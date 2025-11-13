@@ -12,8 +12,8 @@ to: Sept 2024
 weight: 2
 summary: Led 52 engineers to build a no-code Site-Builder tool reducing UI development time by 50%.
 cover:
-  image: "/img/20251109185651.png"    
-  alt: "Cover image alt text"
+  image: "/img/Brane-logo.png"    
+  alt: "Brane Enterprises"
 ---
 
 • Led **52 engineers** to build and integrate a “Site-Builder” tool on a no-code architecture that cut UI development time by **50%**

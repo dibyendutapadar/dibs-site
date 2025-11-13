@@ -6,9 +6,10 @@ categories: ["Projects", "AI"]
 draft: false
 weight: 9
 cover:
-  image: "/img/20251109185651.png"    
-  alt: "Cover image alt text"
+  image: "/img/20251113212112.png"    
+  alt: "Interview Simulator"
 ---
+# Introducing ‘Product Management Interview Simulator’ - A Custom GPT
 
 In case you want to skip everything and try the simulator:
 
