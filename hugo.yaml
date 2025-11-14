@@ -37,9 +37,6 @@ params:
       - name: "Download Resume"
         url: "/resume.pdf"
         style: "primary"
-      - name: "Contact Me"
-        url: "/contact/"
-        style: "secondary"
 
   socialIcons:
     - name: "LinkedIn"
