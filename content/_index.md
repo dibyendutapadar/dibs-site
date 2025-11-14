@@ -1,1 +1,46 @@
-Seasoned Product Manager with **10+ years** of total experience, including **7 years in Product Management**. Proven Track Record in **leading cross-functional teams**, fostering **innovation**, **scaling** products, driving **user engagement** and **growth**. In addition to my Product Management experience, I have a hands-on proficiency in data science (ML, GenAI) and analytics, building applications to serve industry use cases (check out Personal Projects section)
+---
+title: "Work Experience"
+description: "Professional experience across AI, Product, and Enterprise platforms."
+date: 2025-01-01
+draft: false
+---
+
+# Work Experience
+
+## ![[company1-logo.png|100]]  
+**Position @ Company Name**  
+**(YYYY — YYYY)**  
+*One-line summary of what you actually did.*  
+**Work Samples:**  
+- [Link Title 1](https://example.com)  
+- [Link Title 2](https://example.com)  
+- [Link Title 3](https://example.com)
+
+---
+
+## ![[company2-logo.png|100]]  
+**Position @ Company Name**  
+**(YYYY — YYYY)**  
+*One-line summary of what you actually did.*  
+**Work Samples:**  
+- [Link Title 1](https://example.com)  
+- [Link Title 2](https://example.com)
+
+---
+
+## ![[company3-logo.png|100]]  
+**Position @ Company Name**  
+**(YYYY — YYYY)**  
+*One-line summary of what you actually did.*  
+**Work Samples:**  
+- [Link Title 1](https://example.com)
+
+---
+
+## ![[company4-logo.png|100]]  
+**Position @ Company Name**  
+**(YYYY — YYYY)**  
+*One-line summary of what you actually did.*  
+**Work Samples:**  
+- [Link Title 1](https://example.com)  
+- [Link Title 2](https://example.com)

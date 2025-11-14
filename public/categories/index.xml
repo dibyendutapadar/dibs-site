@@ -22,17 +22,17 @@
       <description></description>
     </item>
     <item>
+      <title>AutoTech</title>
+      <link>https://dibyendupm.netlify.app/categories/autotech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/categories/autotech/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>EdTech</title>
       <link>https://dibyendupm.netlify.app/categories/edtech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/categories/edtech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Experience</title>
-      <link>https://dibyendupm.netlify.app/categories/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/categories/experience/</guid>
       <description></description>
     </item>
     <item>
@@ -54,13 +54,6 @@
       <link>https://dibyendupm.netlify.app/categories/smartcity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/categories/smartcity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Work</title>
-      <link>https://dibyendupm.netlify.app/categories/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/categories/work/</guid>
       <description></description>
     </item>
   </channel>
