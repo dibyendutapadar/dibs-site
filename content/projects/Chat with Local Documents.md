@@ -3,6 +3,8 @@ title: Chat with Local Documents
 summary: Enables intelligent chat and data extraction from internal documents using a locally deployed LLM with RAG and LangChain.
 tags: ["LLM", "RAG", "LangChain", "Streamlit", "Ollama"]
 categories: ["Projects", "AI"]
+description: "Product Manager Portfolio showcasing my work"
+keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
 draft: false
 weight: 1
 cover:

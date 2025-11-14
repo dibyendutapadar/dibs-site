@@ -4,6 +4,8 @@ summary: Uses multimodal LLMs for domain-specific image understanding in marketi
 tags: ["LLaMA", "LLaVA", "CrewAI", "Streamlit", "AI Image Analysis"]
 categories: ["Projects", "AI"]
 draft: false
+description: "Product Manager Portfolio showcasing my work"
+keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
 weight: 3
 cover:
   image: "/img/20251113212749.png"    

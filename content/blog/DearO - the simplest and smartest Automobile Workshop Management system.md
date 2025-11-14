@@ -3,6 +3,8 @@ title: DearO - the simplest and smartest Automobile Workshop Management system
 summary: 
 tags: ["AutoTech"]
 categories: ["Projects", "AutoTech"]
+description: "Product Manager Portfolio showcasing my work"
+keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
 draft: false
 weight: 4
 slug: dearo-wms

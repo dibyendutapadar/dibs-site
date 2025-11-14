@@ -4,6 +4,8 @@ summary: Real-time conversational booking assistant powered by Groq API and Stre
 tags: ["LLM", "Chatbot", "Groq API", "Streamlit"]
 categories: ["Projects", "AI"]
 draft: false
+description: "Product Manager Portfolio showcasing my work"
+keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
 weight: 6
 cover:
   image: "/img/20251113212301.png"    

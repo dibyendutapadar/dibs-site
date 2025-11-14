@@ -3,6 +3,8 @@ title: AI Travel Agent for Stay and Itinerary Planning
 summary: AI-driven travel planner that provides unrestricted, natural-language-based search and itinerary generation.
 tags: ["LLM", "LangChain", "Ollama", "CrewAI", "TravelTech", "OTA"]
 categories: ["Projects", "AI"]
+description: "Product Manager Portfolio showcasing my work"
+keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
 draft: false
 weight: 2
 cover:

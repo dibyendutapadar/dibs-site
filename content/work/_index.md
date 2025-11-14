@@ -1,9 +1,10 @@
 ---
 title: "Work Experience"
-description: ""
 date: 2025-11-09
 draft: false
 summary: "A decade of building and scaling data-driven products — from automotive to AI-driven enterprise platforms."
+description: "Product Manager Portfolio showcasing my work"
+keywords: ["AI PM", "Tech for PM","Product Manager Portfolio","PM Portfolio"]
 slug: "work-experience"
 ---
 
@@ -89,4 +90,4 @@ The real satisfaction comes when users - unprompted- tell me the product actuall
 >
 > Managed a network of Tata-authorized workshops, in Punjab-Himachal Pradesh Region lifting three from C to A grade while maintaining a 95% CSS.
 > 
-> [Tata Motors today received an order for 780 nos. from HRTC ](https://auto.economictimes.indiatimes.com/news/commercial-vehicle/mhcv/tata-motors-wins-2700-bus-order-under-jnnurn-ii-scheme/41524713)]
+> [Tata Motors today received an order for 780 nos. from HRTC ](https://auto.economictimes.indiatimes.com/news/commercial-vehicle/mhcv/tata-motors-wins-2700-bus-order-under-jnnurn-ii-scheme/41524713)

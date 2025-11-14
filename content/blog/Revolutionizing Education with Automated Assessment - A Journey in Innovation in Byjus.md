@@ -3,6 +3,8 @@ title: Revolutionizing Education with Automated Assessment - A Journey in Innova
 summary: 
 tags: ["EdTech"]
 categories: ["Projects", "EdTech"]
+description: "Product Manager Portfolio showcasing my work"
+keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
 draft: false
 weight: 4
 slug: automated-assessments

@@ -23,6 +23,11 @@ params:
   ShowBreadcrumb: true
   ShowPagination: true
   ShowSearch: true
+  assets:
+    favicon: "img/favicon.ico"
+    favicon16X16: "img/favicon-16x16.png"
+    favicon32X32: "img/favicon-32x32.png"
+    apple_touch_icon: "img/apple-touch-icon.png"
 
   profileMode:
     enabled: true

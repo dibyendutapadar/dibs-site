@@ -4,6 +4,8 @@ summary: Optimizes last-mile delivery routes using OR-Tools and Streamlit.
 tags: ["Route Optimization", "OR-Tools", "Logistics", "Python"]
 categories: ["Projects", "Optimization"]
 draft: false
+description: "Product Manager Portfolio showcasing my work"
+keywords: [ "AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
 weight: 8
 cover:
   image: "/img/20251113214025.png"    

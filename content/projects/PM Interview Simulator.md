@@ -4,6 +4,8 @@ summary: Custom GPT model simulating realistic product management interviews.
 tags: ["GPT", "Interview Simulation", "Prompt Engineering"]
 categories: ["Projects", "AI"]
 draft: false
+description: "Product Manager Portfolio showcasing my work"
+keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
 weight: 9
 cover:
   image: "/img/20251113212112.png"    
