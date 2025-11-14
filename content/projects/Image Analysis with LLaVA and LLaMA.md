@@ -108,7 +108,11 @@ It can also be used in other sectors where information is absolutely confidentia
 ### Insurance
 
 - **Claims Processing**: Quickly assess damages with image evaluation.
+
+---
+
 **Technologies Used**: LLaMA, LLaVA, CrewAI, Streamlit  
 
 🔗 [GitHub](#)  
+
 📝 [Read on LinkedIn](https://www.linkedin.com/pulse/ai-agent-analyze-your-snaps-dibyendu-tapadar-ib3uc)

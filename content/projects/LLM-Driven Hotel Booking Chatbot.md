@@ -76,8 +76,12 @@ The applications of this technology extend far beyond the hospitality industry. 
 - The chatbot will respond naturally, so users won't feel like they're talking to a bot or navigating an IVR system. The user won't be prompted to select one from the below options. The LLM can adapt to the conversation and provide personalized responses each time, enhancing the user experience.
 - We don't need to have huge set of data/ sample interactions to train the chatbots. Though they certainly be beneficial, but we can start fast, reducing the time to market. The bot can be provided with basic context and data, and it would perform quite well. This wouldn't have been possible without this open sourced LLMs.
 
+---
+
 **Technologies Used**: LLM, Groq API, Streamlit  
 
 🔗 [GitHub](https://github.com/dibyendutapadar/streamlit_groq_chatbot)  
+
 📝 [Article](https://www.linkedin.com/pulse/experiment-disguise-open-source-llm-hotel-bookings-agent-tapadar-osnfc)  
+
 📱 [App Link](https://hotel-chatbot.streamlit.app/)

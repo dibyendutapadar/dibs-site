@@ -33,12 +33,16 @@ However, this can be tackled with **𝗥𝗔𝗚 𝘁𝗲𝗰𝗵𝗻𝗶𝗾�
   
 AI's (Specifically GenAI's) impact on education is being debated heavily, and rightly so. But can we ignore its potential? I don’t think we can! 🤖✨
 
-**Technologies Used**: Python, Groq, LlamaIndex, Llama 3.1-8B, SQLite, Streamlit, Pydantic  
+
 
 ---
 
+**Technologies Used**: Python, Groq, LlamaIndex, Llama 3.1-8B, SQLite, Streamlit, Pydantic  
+
 🔗 [GitHub](https://github.com/dibyendutapadar/adaptive-learning)  
-📝 [Read on ](https://www.linkedin.com/posts/dibyendu-tapadar_ai-edtech-genai-activity-7232618708748095489-7lRV/)  
+
+📝 [Read on LinkedIn ](https://www.linkedin.com/posts/dibyendu-tapadar_ai-edtech-genai-activity-7232618708748095489-7lRV/)  
+
 📱 [App Link](https://adaptive-learning.streamlit.app/)
 
 ---
