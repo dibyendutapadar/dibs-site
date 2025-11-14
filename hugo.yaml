@@ -1,0 +1,102 @@
+baseURL : "https://dibyendupm.netlify.app/"
+languageCode : "en-us"
+title : "Dibyendu Tapadar"
+theme : "PaperMod"
+
+params:
+  env: "production"
+  description: "Personal site and blog by Dibyendu Tapadar"
+  author: "Dibyendu Tapadar"
+  keywords:
+    - "AI"
+    - "Product Management"
+    - "Technology"
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowDate: false
+  ShowSummary: true
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowComments: true
+  ShowToc: true
+  ShowLastMod: true
+  ShowBreadcrumb: true
+  ShowPagination: true
+  ShowSearch: true
+
+  profileMode:
+    enabled: true
+    title: "Dibyendu Tapadar"
+    subtitle: "AI Product Manager | Building at the intersection of Tech, Users and Business Strategy"
+    imageUrl: "img/profile_pic.jpg"
+    imageTitle: "Me"
+    imageWidth: 240
+    imageHeight: 240
+    ShowDate: false
+    buttons:
+      - name: "Download Resume"
+        url: "/resume.pdf"
+        style: "primary"
+      - name: "Contact Me"
+        url: "/contact/"
+        style: "secondary"
+
+  socialIcons:
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/dibyendu-tapadar/"
+    - name: "GitHub"
+      url: "https://github.com/dibyendutapadar"
+
+menu:
+  main:
+    - identifier: "home"
+      name: "Home"
+      url: "/"
+      weight: 1
+
+    - identifier: "work"
+      name: "Experience"
+      pre: '<i class="fa-solid fa-briefcase"></i>'
+      url: "/work/"
+      weight: 2
+      params:
+        class: "center"
+
+    - identifier: "projects"
+      name: "Personal Projects"
+      url: "/projects/"
+      weight: 3
+
+    - identifier: "techForPM"
+      name: "Tech for PM"
+      url: "/tech-for-pm/"
+      weight: 4
+
+    - identifier: "search"
+      name: "Search"
+      url: "/search/"
+      weight: 5
+
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  section:
+    - HTML
+    - RSS
+  page:
+    - HTML
+  taxonomy:
+    - HTML
+    - RSS
+  taxonomyTerm:
+    - HTML
+
+cascade:
+    - _target:
+        section: "work"
+      cover:
+        hidden: true

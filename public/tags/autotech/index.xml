@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AutoTech on Dibyendu Tapadar</title>
+    <link>https://dibyendupm.netlify.app/tags/autotech/</link>
+    <description>Recent content in AutoTech on Dibyendu Tapadar</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <atom:link href="https://dibyendupm.netlify.app/tags/autotech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DearO - the simplest and smartest Automobile Workshop Management system</title>
+      <link>https://dibyendupm.netlify.app/blog/dearo-wms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/blog/dearo-wms/</guid>
+      <description>&lt;h2 id=&#34;origin-story&#34;&gt;Origin Story&lt;/h2&gt;
+&lt;p&gt;In 2016, despite holding over 50% of the market share, the unauthorized car repair workshops relied on manual pen and paper processes. They failed to follow the digital trend, missing out on benefits that the taxis and food delivery industry was gaining. As a consequence, they were unable to provide their customers with an improved and transparent experience, and they also failed to optimize their daily operations by harnessing the power of technology.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

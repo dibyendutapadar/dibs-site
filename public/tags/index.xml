@@ -15,13 +15,6 @@
       <description></description>
     </item>
     <item>
-      <title>AI</title>
-      <link>https://dibyendupm.netlify.app/tags/ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>AI Image Analysis</title>
       <link>https://dibyendupm.netlify.app/tags/ai-image-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,17 +22,10 @@
       <description></description>
     </item>
     <item>
-      <title>Analytics</title>
-      <link>https://dibyendupm.netlify.app/tags/analytics/</link>
+      <title>AutoTech</title>
+      <link>https://dibyendupm.netlify.app/tags/autotech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/analytics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Automotive</title>
-      <link>https://dibyendupm.netlify.app/tags/automotive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/automotive/</guid>
+      <guid>https://dibyendupm.netlify.app/tags/autotech/</guid>
       <description></description>
     </item>
     <item>
@@ -155,24 +141,10 @@
       <description></description>
     </item>
     <item>
-      <title>NoCode</title>
-      <link>https://dibyendupm.netlify.app/tags/nocode/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/nocode/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ollama</title>
       <link>https://dibyendupm.netlify.app/tags/ollama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/tags/ollama/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Operations</title>
-      <link>https://dibyendupm.netlify.app/tags/operations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/operations/</guid>
       <description></description>
     </item>
     <item>
@@ -187,13 +159,6 @@
       <link>https://dibyendupm.netlify.app/tags/ota/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/tags/ota/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ProductManagement</title>
-      <link>https://dibyendupm.netlify.app/tags/productmanagement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/productmanagement/</guid>
       <description></description>
     </item>
     <item>
@@ -264,13 +229,6 @@
       <link>https://dibyendupm.netlify.app/tags/traveltech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/tags/traveltech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Work</title>
-      <link>https://dibyendupm.netlify.app/tags/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/work/</guid>
       <description></description>
     </item>
   </channel>
