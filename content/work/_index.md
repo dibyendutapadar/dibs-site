@@ -1,6 +1,6 @@
 ---
 title: "Work Experience"
-description: "A look at my professional journey across industries — creating impact through product thinking, AI-driven systems, and pragmatic innovation."
+description: ""
 date: 2025-11-09
 draft: false
 summary: "A decade of building and scaling data-driven products — from automotive to AI-driven enterprise platforms."
@@ -14,8 +14,6 @@ My strength lies in taking **chaotic environments**, understanding them end-to-e
 I enjoy the unglamorous parts of product work and sometimes get lost in **data analysis**, **pattern-hunting**, and building small **internal tools** to speed up my own workflows. I like digging into the **users’ world** until their constraints make sense, and I’m at my best when those **insights quietly turn into features** that make someone’s day a little easier. 
 
 The real satisfaction comes when users - unprompted- tell me the product actually **removed friction from their work.** and improved their life even if a little bit.
-
-<p><a href="/resume.pdf">Download Resume ⬇️ </a></p>
 
 ---
 
