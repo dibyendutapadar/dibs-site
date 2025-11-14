@@ -42,11 +42,17 @@ This project offers an unrestricted AI search experience based on user intent. A
 |🗺️ **Itinerary Agent**|🧳 Planning|Builds a complete travel itinerary, including suggestions and timelines.|
 
 ---
+
 > **ℹ️ Technologies Used**  
+> 
 > **Ollama** ·  **CrewAI** · **Streamlit**
+
 ---
+
 **Resources** 
+
 🔗 [GitHub](https://github.com/dibyendutapadar/travel-agent-crewai)  
+
 📝 [Read on LinkedIn](https://www.linkedin.com/pulse/ai-travel-agent-crewai-ollama-dibyendu-tapadar-dvyxc)
 
 ---

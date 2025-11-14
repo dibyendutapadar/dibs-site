@@ -31,4 +31,5 @@ The algorithm ensures that the delivery routes are optimized for minimal travel 
 **Technologies Used**: OR-Tools, Python, Streamlit  
 
 🔗 [GitHub](https://github.com/dibyendutapadar/delivery-routing-optimization)  
+
 📱 [App Link](https://delivery-routing-optimization.streamlit.app/)

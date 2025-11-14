@@ -24,6 +24,7 @@ The project enables chatting and extracting information and insights from intern
 **Technologies Used**: LLM, RAG, LangChain, Streamlit, Ollama  
 
 🔗 [GitHub](https://github.com/dibyendutapadar/chat-with-pdf)  
+
 📝 [Read on LinkedIn](https://www.linkedin.com/pulse/using-open-source-llms-chat-internal-company-dibyendu-tapadar-5gvyc/)
 
 

@@ -19,7 +19,10 @@ cover:
 - Allows live parameter configuration  
 - Provides real-time visualizations  
 
+---
+
 **Technologies Used**: SARIMAX, Holt-Winters, Python, Streamlit  
 
 🔗 [GitHub](https://github.com/dibyendutapadar/time-series-forecasting)  
+
 📱 [App Link](https://time-series-forecasting-simple.streamlit.app/)
