@@ -3,6 +3,8 @@ title: Time Series Forecasting App
 summary: Interactive forecasting app using SARIMAX and Holt-Winters models with real-time visualizations.
 tags: ["Time Series", "Forecasting", "SARIMAX", "Holt-Winters"]
 categories: ["Projects", "Analytics"]
+description: "Product Manager Portfolio showcasing my work"
+keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
 draft: false
 weight: 5
 cover:
