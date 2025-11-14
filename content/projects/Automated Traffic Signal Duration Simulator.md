@@ -8,7 +8,7 @@ keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
 draft: false
 weight: 7
 cover:
-  image: "/img/20251109185651.png"    
+  image: "/img/20251114191517.png"    
   alt: "Automated Traffic Signal Duration Simulator"
 ---
 

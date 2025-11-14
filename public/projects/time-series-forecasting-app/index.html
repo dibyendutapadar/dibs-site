@@ -96,9 +96,9 @@
     <meta property="article:tag" content="Forecasting">
     <meta property="article:tag" content="SARIMAX">
     <meta property="article:tag" content="Holt-Winters">
-    <meta property="og:image" content="https://dibyendupm.netlify.app/img/20251109185651.png">
+    <meta property="og:image" content="https://dibyendupm.netlify.app/img/20251114192211.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://dibyendupm.netlify.app/img/20251109185651.png">
+<meta name="twitter:image" content="https://dibyendupm.netlify.app/img/20251114192211.png">
 <meta name="twitter:title" content="Time Series Forecasting App">
 <meta name="twitter:description" content="Product Manager Portfolio showcasing my work">
 
@@ -133,10 +133,10 @@
   "keywords": [
     "AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"
   ],
-  "articleBody": "✔ A Streamlit app for demand forecasting with an intuitive, interactive interface.\nKey Features\nUses SARIMAX and Holt-Winters methods Allows live parameter configuration Provides real-time visualizations Technologies Used: SARIMAX, Holt-Winters, Python, Streamlit\n🔗 GitHub 📱 App Link ",
-  "wordCount" : "37",
+  "articleBody": "A Streamlit app for demand forecasting with an intuitive, interactive interface. 📱 App Link Key Features\nUses SARIMAX and Holt-Winters methods Allows live parameter configuration Provides real-time visualizations This app allows users to upload time series data and forecast using ARIMA and Holt-Winters (Triple Exponential Smoothing) methods. Navigate to the Forecast page to get started.\nHolt-Winters Triple Exponential Smoothing Holt-Winters Triple Exponential Smoothing, also known as Holt-Winters Method, is used for forecasting time series data that exhibits both trend and seasonality. The model requires you to set values for trend, seasonal, and seasonal_periods. Here’s a guide on how to determine these values:\nUnderstanding the Parameters: Trend (trend): This parameter indicates whether a trend component is included in the model. It can be: 'add' (additive): When the trend is expected to increase or decrease by a constant amount. 'mul' (multiplicative): When the trend increases or decreases by a percentage or ratio. None: When there is no trend. Seasonal (seasonal): This parameter indicates whether a seasonal component is included in the model. It can be: 'add' (additive): When seasonal variations are roughly constant over time. 'mul' (multiplicative): When seasonal variations change proportionally to the level of the time series. None: When there is no seasonality. Seasonal Periods (seasonal_periods): This parameter indicates the length of the seasonality cycle (e.g., 12 for monthly data with annual seasonality). Selecting the Parameters: a. Identify Trend and Seasonality: Visual Inspection: Plot your time series data. Look for patterns in the data: A consistent upward or downward slope suggests a trend. Repeating patterns at regular intervals suggest seasonality. Statistical Tests: Use autocorrelation plots (ACF) and partial autocorrelation plots (PACF) to identify seasonality. Significant spikes at lags corresponding to the seasonal period can indicate seasonality. b. Determine Seasonal Periods: Domain Knowledge: Use domain knowledge to identify the seasonal cycle. For instance, monthly data often has an annual seasonality period of 12 months. Autocorrelation: Significant autocorrelations at specific lags can help identify the seasonal period. c. Choosing Trend and Seasonal Types: Additive vs. Multiplicative: Use additive ('add') if the seasonal variations are roughly constant over time (the difference between high and low seasonality periods is constant). Use multiplicative ('mul') if the seasonal variations change proportionally with the level of the series (the percentage change is constant). SARIMAX Model SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors) is an extension of the ARIMA model that supports both seasonality and exogenous variables. It is used for forecasting time series data. The model parameters need to be carefully chosen to fit the data well. Here’s a guide on understanding and selecting these parameters:\nUnderstanding the Parameters: Non-Seasonal Components: p: The number of lag observations included in the model (autoregressive part). d: The number of times that the raw observations are differenced (integrated part). q: The size of the moving average window. Seasonal Components: P: The number of lag observations in the seasonal model (seasonal autoregressive part). D: The number of times that the seasonal differences are applied (seasonal integrated part). Q: The size of the moving average window in the seasonal model. m: The number of time steps for a single seasonal period. Exogenous Variables (X): These are additional variables that can be included in the model to provide more information that might affect the time series. Selecting the Parameters: a. Identify Non-Seasonal Parameters (p, d, q):\nVisual Inspection: Plot your time series data to look for trends and seasonality. ACF and PACF Plots: ACF (Autocorrelation Function): Helps in identifying the number of MA (q) terms. Significant spikes outside the confidence interval suggest the lag values. PACF (Partial Autocorrelation Function): Helps in identifying the number of AR (p) terms. Significant spikes outside the confidence interval suggest the lag values. Differencing: If the time series is non-stationary, apply differencing and observe the ACF and PACF plots again. Differencing helps to stabilize the mean of the time series by removing changes in the level of a time series, thereby eliminating (or reducing) trend and seasonality. b. Identify Seasonal Parameters (P, D, Q, m):\nSeasonal Differencing: If seasonality is present, seasonal differencing may be necessary. Seasonal ACF and PACF: Look at the ACF and PACF plots of the seasonally differenced series to identify seasonal AR (P) and MA (Q) terms. The seasonal period (m) should be known from the data (e.g., m = 12 for monthly data with yearly seasonality). c. Combining the Parameters:\nUse the identified non-seasonal and seasonal parameters to build the SARIMAX model. Exogenous Variables: Include any relevant external variables (X) if they are believed to influence the time series. Technologies Used: SARIMAX, Holt-Winters, Python, Streamlit\n🔗 GitHub ",
+  "wordCount" : "766",
   "inLanguage": "en",
-  "image":"https://dibyendupm.netlify.app/img/20251109185651.png","datePublished": "0001-01-01T00:00:00Z",
+  "image":"https://dibyendupm.netlify.app/img/20251114192211.png","datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
   "author":{
     "@type": "Person",
@@ -225,30 +225,171 @@
     <div class="post-description">
       Product Manager Portfolio showcasing my work
     </div>
-    <div class="post-meta"><span>1 min</span>&nbsp;·&nbsp;<span>Dibyendu Tapadar</span>
+    <div class="post-meta"><span>4 min</span>&nbsp;·&nbsp;<span>Dibyendu Tapadar</span>
 
 </div>
   </header> 
 <figure class="entry-cover">
-        <img loading="eager" src="https://dibyendupm.netlify.app/img/20251109185651.png" alt="Time Series Forecasting App">
+        <img loading="eager" src="https://dibyendupm.netlify.app/img/20251114192211.png" alt="Time Series Forecasting App">
         
-</figure>
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
 
-  <div class="post-content"><p>✔ A Streamlit app for demand forecasting with an intuitive, interactive interface.</p>
+        <div class="inner"><ul>
+                <li>
+                    <a href="#a-streamlit-app-for-demand-forecasting-with-an-intuitive-interactive-interface" aria-label="A Streamlit app for demand forecasting with an intuitive, interactive interface.">A Streamlit app for demand forecasting with an intuitive, interactive interface.</a><ul>
+                        <ul>
+                        
+                <li>
+                    <a href="#holt-winters-triple-exponential-smoothing" aria-label="Holt-Winters Triple Exponential Smoothing">Holt-Winters Triple Exponential Smoothing</a></li>
+                <li>
+                    <a href="#sarimax-model" aria-label="SARIMAX Model">SARIMAX Model</a>
+                </li>
+            </ul>
+            </ul>
+            </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h1 id="a-streamlit-app-for-demand-forecasting-with-an-intuitive-interactive-interface">A Streamlit app for demand forecasting with an intuitive, interactive interface.<a hidden class="anchor" aria-hidden="true" href="#a-streamlit-app-for-demand-forecasting-with-an-intuitive-interactive-interface">#</a></h1>
+<p>📱 <a href="https://time-series-forecasting-simple.streamlit.app/"target="_blank" rel="noopener">
+    App Link
+</a>
+</p>
 <p><strong>Key Features</strong></p>
 <ul>
 <li>Uses SARIMAX and Holt-Winters methods</li>
 <li>Allows live parameter configuration</li>
 <li>Provides real-time visualizations</li>
 </ul>
+<p>This app allows users to upload time series data and forecast using ARIMA and Holt-Winters (Triple Exponential Smoothing) methods. Navigate to the Forecast page to get started.</p>
+<h3 id="holt-winters-triple-exponential-smoothing">Holt-Winters Triple Exponential Smoothing<a hidden class="anchor" aria-hidden="true" href="#holt-winters-triple-exponential-smoothing">#</a></h3>
+<p>Holt-Winters Triple Exponential Smoothing, also known as Holt-Winters Method, is used for forecasting time series data that exhibits both trend and seasonality. The model requires you to set values for trend, seasonal, and seasonal_periods. Here’s a guide on how to determine these values:</p>
+<ol>
+<li><strong>Understanding the Parameters</strong>:</li>
+</ol>
+<ul>
+<li><strong>Trend (<code>trend</code>)</strong>: This parameter indicates whether a trend component is included in the model. It can be:
+<ul>
+<li><code>'add'</code> (additive): When the trend is expected to increase or decrease by a constant amount.</li>
+<li><code>'mul'</code> (multiplicative): When the trend increases or decreases by a percentage or ratio.</li>
+<li><code>None</code>: When there is no trend.</li>
+</ul>
+</li>
+<li><strong>Seasonal (<code>seasonal</code>)</strong>: This parameter indicates whether a seasonal component is included in the model. It can be:
+<ul>
+<li><code>'add'</code> (additive): When seasonal variations are roughly constant over time.</li>
+<li><code>'mul'</code> (multiplicative): When seasonal variations change proportionally to the level of the time series.</li>
+<li><code>None</code>: When there is no seasonality.</li>
+</ul>
+</li>
+<li><strong>Seasonal Periods (<code>seasonal_periods</code>)</strong>: This parameter indicates the length of the seasonality cycle (e.g., 12 for monthly data with annual seasonality).</li>
+</ul>
+<ol start="2">
+<li><strong>Selecting the Parameters</strong>:</li>
+</ol>
+<ul>
+<li><strong>a. Identify Trend and Seasonality</strong>:
+<ul>
+<li><strong>Visual Inspection</strong>: Plot your time series data. Look for patterns in the data:
+<ul>
+<li>A consistent upward or downward slope suggests a trend.</li>
+<li>Repeating patterns at regular intervals suggest seasonality.</li>
+</ul>
+</li>
+<li><strong>Statistical Tests</strong>: Use autocorrelation plots (ACF) and partial autocorrelation plots (PACF) to identify seasonality. Significant spikes at lags corresponding to the seasonal period can indicate seasonality.</li>
+</ul>
+</li>
+<li><strong>b. Determine Seasonal Periods</strong>:
+<ul>
+<li><strong>Domain Knowledge</strong>: Use domain knowledge to identify the seasonal cycle. For instance, monthly data often has an annual seasonality period of 12 months.</li>
+<li><strong>Autocorrelation</strong>: Significant autocorrelations at specific lags can help identify the seasonal period.</li>
+</ul>
+</li>
+<li><strong>c. Choosing Trend and Seasonal Types</strong>:
+<ul>
+<li><strong>Additive vs. Multiplicative</strong>:
+<ul>
+<li>Use additive (<code>'add'</code>) if the seasonal variations are roughly constant over time (the difference between high and low seasonality periods is constant).</li>
+<li>Use multiplicative (<code>'mul'</code>) if the seasonal variations change proportionally with the level of the series (the percentage change is constant).</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h3 id="sarimax-model">SARIMAX Model<a hidden class="anchor" aria-hidden="true" href="#sarimax-model">#</a></h3>
+<p>SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors) is an extension of the ARIMA model that supports both seasonality and exogenous variables. It is used for forecasting time series data. The model parameters need to be carefully chosen to fit the data well. Here’s a guide on understanding and selecting these parameters:</p>
+<ol>
+<li><strong>Understanding the Parameters</strong>:</li>
+</ol>
+<ul>
+<li><strong>Non-Seasonal Components</strong>:
+<ul>
+<li><strong>p</strong>: The number of lag observations included in the model (autoregressive part).</li>
+<li><strong>d</strong>: The number of times that the raw observations are differenced (integrated part).</li>
+<li><strong>q</strong>: The size of the moving average window.</li>
+</ul>
+</li>
+<li><strong>Seasonal Components</strong>:
+<ul>
+<li><strong>P</strong>: The number of lag observations in the seasonal model (seasonal autoregressive part).</li>
+<li><strong>D</strong>: The number of times that the seasonal differences are applied (seasonal integrated part).</li>
+<li><strong>Q</strong>: The size of the moving average window in the seasonal model.</li>
+<li><strong>m</strong>: The number of time steps for a single seasonal period.</li>
+</ul>
+</li>
+<li><strong>Exogenous Variables (X)</strong>: These are additional variables that can be included in the model to provide more information that might affect the time series.</li>
+</ul>
+<ol start="2">
+<li><strong>Selecting the Parameters</strong>:</li>
+</ol>
+<ul>
+<li>
+<p><strong>a. Identify Non-Seasonal Parameters (p, d, q)</strong>:</p>
+<ul>
+<li><strong>Visual Inspection</strong>: Plot your time series data to look for trends and seasonality.</li>
+<li><strong>ACF and PACF Plots</strong>:
+<ul>
+<li><strong>ACF (Autocorrelation Function)</strong>: Helps in identifying the number of MA (q) terms. Significant spikes outside the confidence interval suggest the lag values.</li>
+<li><strong>PACF (Partial Autocorrelation Function)</strong>: Helps in identifying the number of AR (p) terms. Significant spikes outside the confidence interval suggest the lag values.</li>
+</ul>
+</li>
+<li><strong>Differencing</strong>:
+<ul>
+<li>If the time series is non-stationary, apply differencing and observe the ACF and PACF plots again. Differencing helps to stabilize the mean of the time series by removing changes in the level of a time series, thereby eliminating (or reducing) trend and seasonality.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>b. Identify Seasonal Parameters (P, D, Q, m)</strong>:</p>
+<ul>
+<li><strong>Seasonal Differencing</strong>: If seasonality is present, seasonal differencing may be necessary.</li>
+<li><strong>Seasonal ACF and PACF</strong>:
+<ul>
+<li>Look at the ACF and PACF plots of the seasonally differenced series to identify seasonal AR (P) and MA (Q) terms.</li>
+<li>The seasonal period (m) should be known from the data (e.g., m = 12 for monthly data with yearly seasonality).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>c. Combining the Parameters</strong>:</p>
+<ul>
+<li>Use the identified non-seasonal and seasonal parameters to build the SARIMAX model.</li>
+<li><strong>Exogenous Variables</strong>: Include any relevant external variables (X) if they are believed to influence the time series.</li>
+</ul>
+</li>
+</ul>
 <hr>
 <p><strong>Technologies Used</strong>: SARIMAX, Holt-Winters, Python, Streamlit</p>
 <p>🔗 <a href="https://github.com/dibyendutapadar/time-series-forecasting"target="_blank" rel="noopener">
     GitHub
-</a>
-</p>
-<p>📱 <a href="https://time-series-forecasting-simple.streamlit.app/"target="_blank" rel="noopener">
-    App Link
 </a>
 </p>
 
