@@ -35,6 +35,12 @@
 {{- if site.Params.analytics.naver.SiteVerificationTag }}
 <meta name="naver-site-verification" content="{{ site.Params.analytics.naver.SiteVerificationTag }}">
 {{- end }}
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Params.description | default .Summary }}">
+<meta property="og:image" content="{{ .Params.image }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="google-site-verification" content="Ksm-dFTFzTkmFmz7MeabjBSLn7pUf19yeCjIFhQXPUM" />
 
 {{- /* Styles */}}
 
