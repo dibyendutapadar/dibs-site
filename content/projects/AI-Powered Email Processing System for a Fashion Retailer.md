@@ -45,7 +45,7 @@ Automatically read incoming emails, understand whether they are **order requests
 
 Everything runs through a modular chain of LLM-based “micro-agents,” each responsible for a small, verifiable task. This keeps the system interpretable instead of becoming a mysterious black box.
 
-Repo: 
+[Github Repo:](https://github.com/dibyendutapadar/ai-fashion-store-email-automation)
 
 ---
 
