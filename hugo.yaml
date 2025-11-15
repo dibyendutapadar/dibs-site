@@ -5,12 +5,23 @@ theme : "PaperMod"
 
 params:
   env: "production"
-  description: "Personal site and blog by Dibyendu Tapadar"
+  title: "Dibyendu Tapadar – AI Product Manager Portfolio & Blog"
+  description: Portfolio and blog of Dibyendu Tapadar, AI Product Manager. Writing on Product Management, AI use cases, GenAI, enterprise PM, and personal AI projects."
   author: "Dibyendu Tapadar"
   keywords:
-    - "AI"
+    - "Dibyendu"
+    - "Dibyendu Tapadar"
+    - "Dibyendu portfolio"
+    - "AI Product Manager"
+    - "Product Manager portfolio"
+    - "Tech for PM"
+    - "AI use cases"
+    - "GenAI use cases"
     - "Product Management"
-    - "Technology"
+    - "Enterprise Finance AI"
+    - "Personal AI projects"
+    - "AI PM career"
+    - "AI and Product Management blog"
   defaultTheme: auto
   disableThemeToggle: false
   ShowDate: false
@@ -28,6 +39,11 @@ params:
     favicon16X16: "img/favicon-16x16.png"
     favicon32X32: "img/favicon-32x32.png"
     apple_touch_icon: "img/apple-touch-icon.png"
+  schema:
+    publisherType: "Person"
+    sameAs:
+      - "https://www.linkedin.com/in/dibyendu-tapadar"
+      - "https://github.com/dibyendutapadar"
 
   profileMode:
     enabled: true
@@ -95,6 +111,10 @@ outputs:
     - HTML
     - RSS
 
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
 cascade:
     - _target:
         section: "work"
@@ -107,3 +127,8 @@ markup:
       unsafe: true
 
 googleAnalytics: "G-83JNZXFBJD"
+
+sitemap:
+  changefreq: "weekly"
+  priority: 0.8
+  filename: "sitemap.xml"
