@@ -94,11 +94,14 @@ outputs:
   taxonomy:
     - HTML
     - RSS
-  taxonomyTerm:
-    - HTML
 
 cascade:
     - _target:
         section: "work"
       cover:
         hidden: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
