@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GenAI on Dibyendu Tapadar</title>
-    <link>https://dibyendupm.netlify.app/tags/genai/</link>
+    <link>https://dibyendupm.com/tags/genai/</link>
     <description>Recent content in GenAI on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="https://dibyendupm.netlify.app/tags/genai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dibyendupm.com/tags/genai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-Powered Email Processing System for a Fashion Retailer</title>
-      <link>https://dibyendupm.netlify.app/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
+      <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
+      <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Chat with Local Documents</title>
-      <link>https://dibyendupm.netlify.app/projects/chat-with-local-documents/</link>
+      <link>https://dibyendupm.com/projects/chat-with-local-documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/projects/chat-with-local-documents/</guid>
+      <guid>https://dibyendupm.com/projects/chat-with-local-documents/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>AI Travel Agent for Stay and Itinerary Planning</title>
-      <link>https://dibyendupm.netlify.app/projects/ai-travel-agent-for-stay-and-itinerary-planning/</link>
+      <link>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/projects/ai-travel-agent-for-stay-and-itinerary-planning/</guid>
+      <guid>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Image Analysis with LLaVA and LLaMA</title>
-      <link>https://dibyendupm.netlify.app/projects/image-analysis-with-llava-and-llama/</link>
+      <link>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/projects/image-analysis-with-llava-and-llama/</guid>
+      <guid>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Adaptive Learning without Question-Answer Dataset</title>
-      <link>https://dibyendupm.netlify.app/projects/adaptive-learning-without-question-answer-dataset/</link>
+      <link>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/projects/adaptive-learning-without-question-answer-dataset/</guid>
+      <guid>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>LLM-Driven Hotel Booking Chatbot</title>
-      <link>https://dibyendupm.netlify.app/projects/llm-driven-hotel-booking-chatbot/</link>
+      <link>https://dibyendupm.com/projects/llm-driven-hotel-booking-chatbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/projects/llm-driven-hotel-booking-chatbot/</guid>
+      <guid>https://dibyendupm.com/projects/llm-driven-hotel-booking-chatbot/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Interview Simulator</title>
-      <link>https://dibyendupm.netlify.app/projects/product-manager-interview-simulator/</link>
+      <link>https://dibyendupm.com/projects/product-manager-interview-simulator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/projects/product-manager-interview-simulator/</guid>
+      <guid>https://dibyendupm.com/projects/product-manager-interview-simulator/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
   </channel>
