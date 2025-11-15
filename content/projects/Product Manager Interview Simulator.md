@@ -1,15 +1,26 @@
 ---
 title: Interview Simulator
 summary: Custom GPT model simulating realistic product management interviews.
-tags: ["GPT", "Interview Simulation", "Prompt Engineering"]
-categories: ["Projects", "AI"]
+tags:
+  - PromptEngineering
+  - ProductManagement
+  - CustomGPT
+  - GenAI
+categories:
+  - Projects
+  - AI
 draft: false
-description: "Product Manager Portfolio showcasing my work"
-keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
+description: Product Manager Portfolio showcasing my work
+keywords:
+  - AI PM
+  - Tech for PM
+  - Product Manager Portfolio
+  - PM Portfolio
+  - Generative AI Use Cases
 weight: 9
 cover:
-  image: "/img/20251113212112.png"    
-  alt: "Interview Simulator"
+  image: /img/20251113212112.png
+  alt: Interview Simulator
 ---
 # Introducing ‘Product Management Interview Simulator’ - A Custom GPT
 

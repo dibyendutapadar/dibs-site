@@ -1,15 +1,28 @@
 ---
 title: Delivery Route Optimization
 summary: Optimizes last-mile delivery routes using OR-Tools and Streamlit.
-tags: ["Route Optimization", "OR-Tools", "Logistics", "Python"]
-categories: ["Projects", "Optimization"]
+tags:
+  - OR-Tools
+  - Logistics
+  - Python
+  - SupplyChain
+  - Optimization
+  - VRP
+categories:
+  - Projects
+  - Optimization
 draft: false
-description: "Product Manager Portfolio showcasing my work"
-keywords: [ "AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
+description: Product Manager Portfolio showcasing my work
+keywords:
+  - AI PM
+  - Tech for PM
+  - Product Manager Portfolio
+  - PM Portfolio
+  - Intelligent Process Automation
 weight: 8
 cover:
-  image: "/img/20251113214025.png"    
-  alt: "Delivery Route Optimization"
+  image: /img/20251113214025.png
+  alt: Delivery Route Optimization
 ---
 
 This application simulates the planning of delivery routes for a specified number of locations and delivery agents within Bangalore. The algorithm used is the Vehicle Routing Problem (VRP) solver provided by [OR-Tools](https://developers.google.com/optimization), an optimization library developed by Google.
