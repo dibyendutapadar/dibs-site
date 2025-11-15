@@ -1,15 +1,27 @@
 ---
 title: Time Series Forecasting App
 summary: Interactive forecasting app using SARIMAX and Holt-Winters models with real-time visualizations.
-tags: ["Time Series", "Forecasting", "SARIMAX", "Holt-Winters"]
-categories: ["Projects", "Analytics"]
-description: "Product Manager Portfolio showcasing my work"
-keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
+tags:
+  - Forecasting
+  - SARIMAX
+  - Holt-Winters
+  - TimeSeries
+  - Python
+categories:
+  - Projects
+  - Analytics
+description: Product Manager Portfolio showcasing my work
+keywords:
+  - AI PM
+  - Tech for PM
+  - Product Manager Portfolio
+  - PM Portfolio
+  - Time Series Forecasting
 draft: false
 weight: 5
 cover:
-  image: "/img/20251114192211.png"    
-  alt: "Time Series Forecasting App"
+  image: /img/20251114192211.png
+  alt: Time Series Forecasting App
 ---
 
 # A Streamlit app for demand forecasting with an intuitive, interactive interface.

@@ -28,7 +28,7 @@
   </url><url>
     <loc>https://dibyendupm.netlify.app/projects/delivery-route-optimization/</loc>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/projects/pm-interview-simulator/</loc>
+    <loc>https://dibyendupm.netlify.app/projects/product-manager-interview-simulator/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
@@ -40,17 +40,17 @@
   </url><url>
     <loc>https://dibyendupm.netlify.app/tech-for-pm/</loc>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/adaptive-learning/</loc>
-  </url><url>
     <loc>https://dibyendupm.netlify.app/categories/ai/</loc>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/ai-image-analysis/</loc>
+    <loc>https://dibyendupm.netlify.app/tags/ai/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/categories/analytics/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/categories/autotech/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/autotech/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/bingmaps/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/categories/</loc>
   </url><url>
@@ -60,6 +60,8 @@
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/crewai/</loc>
   </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/customgpt/</loc>
+  </url><url>
     <loc>https://dibyendupm.netlify.app/categories/edtech/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/edtech/</loc>
@@ -68,13 +70,11 @@
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/genai/</loc>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/gpt/</loc>
-  </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/groq-api/</loc>
+    <loc>https://dibyendupm.netlify.app/tags/groq/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/holt-winters/</loc>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/interview-simulation/</loc>
+    <loc>https://dibyendupm.netlify.app/tags/imageanalysis/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/langchain/</loc>
   </url><url>
@@ -90,11 +90,15 @@
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/maps/</loc>
   </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/multimodal/</loc>
+  </url><url>
     <loc>https://dibyendupm.netlify.app/tags/ollama/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/openai/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/categories/optimization/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/optimization/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/or-tools/</loc>
   </url><url>
@@ -102,9 +106,11 @@
   </url><url>
     <loc>https://dibyendupm.netlify.app/projects/</loc>
   </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/productmanagement/</loc>
+  </url><url>
     <loc>https://dibyendupm.netlify.app/categories/projects/</loc>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/prompt-engineering/</loc>
+    <loc>https://dibyendupm.netlify.app/tags/promptengineering/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/python/</loc>
   </url><url>
@@ -114,7 +120,7 @@
   </url><url>
     <loc>https://dibyendupm.netlify.app/categories/retail/</loc>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/route-optimization/</loc>
+    <loc>https://dibyendupm.netlify.app/tags/retailtech/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/sarimax/</loc>
   </url><url>
@@ -126,12 +132,16 @@
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/streamlit/</loc>
   </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/supplychain/</loc>
+  </url><url>
     <loc>https://dibyendupm.netlify.app/tags/</loc>
   </url><url>
-    <loc>https://dibyendupm.netlify.app/tags/time-series/</loc>
+    <loc>https://dibyendupm.netlify.app/tags/timeseries/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/trafficsignal/</loc>
   </url><url>
     <loc>https://dibyendupm.netlify.app/tags/traveltech/</loc>
+  </url><url>
+    <loc>https://dibyendupm.netlify.app/tags/vrp/</loc>
   </url>
 </urlset>

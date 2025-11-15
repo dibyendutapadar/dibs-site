@@ -4,6 +4,9 @@ summary: Turning chaotic inboxes into structured, automated order & inquiry work
 tags:
   - GenAI
   - openai
+  - RetailTech
+  - AI
+  - RAG
 categories:
   - Projects
   - AI

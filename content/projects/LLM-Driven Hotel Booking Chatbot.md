@@ -1,15 +1,29 @@
 ---
 title: LLM-Driven Hotel Booking Chatbot
 summary: Real-time conversational booking assistant powered by Groq API and Streamlit.
-tags: ["LLM", "Chatbot", "Groq API", "Streamlit"]
-categories: ["Projects", "AI"]
+tags:
+  - LLM
+  - Chatbot
+  - Streamlit
+  - Groq
+  - GenAI
+categories:
+  - Projects
+  - AI
 draft: false
-description: "Product Manager Portfolio showcasing my work"
-keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
+description: Product Manager Portfolio showcasing my work
+keywords:
+  - AI PM
+  - Tech for PM
+  - Product Manager Portfolio
+  - PM Portfolio
+  - AI in Travel
+  - GenAI in Travel
+  - Generative AI Use Cases
 weight: 6
 cover:
-  image: "/img/20251113212301.png"    
-  alt: "LLM-Driven Hotel Booking Chatbot"
+  image: /img/20251113212301.png
+  alt: LLM-Driven Hotel Booking Chatbot
 ---
 # An Experiment to disguise Open Source LLM as a Hotel Bookings Agent!!
 

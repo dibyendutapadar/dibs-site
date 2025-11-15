@@ -1,15 +1,30 @@
 ---
 title: Automated Traffic Signal Duration Simulator
 summary: Simulates optimal signal durations using real-time Bing Maps traffic data.
-tags: ["SmartCity", "TrafficSignal","Maps"]
-categories: ["Projects", "SmartCity"]
-description: "Product Manager Portfolio showcasing my work"
-keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
+tags:
+  - SmartCity
+  - TrafficSignal
+  - Maps
+  - TravelTech
+  - Python
+  - BingMaps
+categories:
+  - Projects
+  - SmartCity
+description: Product Manager Portfolio showcasing my work
+keywords:
+  - AI PM
+  - Tech for PM
+  - Product Manager Portfolio
+  - PM Portfolio
+  - Smart City
+  - AI Automation
+  - Intelligent Process Automation
 draft: false
 weight: 7
 cover:
-  image: "/img/20251114191517.png"    
-  alt: "Automated Traffic Signal Duration Simulator"
+  image: /img/20251114191517.png
+  alt: Automated Traffic Signal Duration Simulator
 ---
 
 

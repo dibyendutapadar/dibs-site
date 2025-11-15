@@ -1,15 +1,28 @@
 ---
 title: Adaptive Learning without Question-Answer Dataset
 summary: Generates adaptive learning assessments dynamically using GenAI and proficiency tracking.
-tags: ["Adaptive Learning", "GenAI", "LlamaIndex", "EdTech"]
-categories: ["Projects", "AI", "EdTech"]
-description: "Product Manager Portfolio showcasing my work"
-keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
+tags:
+  - GenAI
+  - LlamaIndex
+  - EdTech
+categories:
+  - Projects
+  - AI
+  - EdTech
+description: Product Manager Portfolio showcasing my work
+keywords:
+  - AI PM
+  - Tech for PM
+  - Product Manager Portfolio
+  - PM Portfolio
+  - AI in Education
+  - EdTech
+  - AI Automation
 draft: false
 weight: 4
 cover:
-  image: "/img/20251113213630.png"    
-  alt: "Adaptive Learning without Question-Answer Dataset"
+  image: /img/20251113213630.png
+  alt: Adaptive Learning without Question-Answer Dataset
 ---
 
 

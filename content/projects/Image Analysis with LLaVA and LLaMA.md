@@ -1,15 +1,31 @@
 ---
 title: Image Analysis with LLaVA and LLaMA
 summary: Uses multimodal LLMs for domain-specific image understanding in marketing, education, and healthcare.
-tags: ["LLaMA", "LLaVA", "CrewAI", "Streamlit", "AI Image Analysis"]
-categories: ["Projects", "AI"]
+tags:
+  - LLaMA
+  - LLaVA
+  - CrewAI
+  - Streamlit
+  - GenAI
+  - MultiModal
+  - ImageAnalysis
+categories:
+  - Projects
+  - AI
 draft: false
-description: "Product Manager Portfolio showcasing my work"
-keywords: ["AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio"]
+description: Product Manager Portfolio showcasing my work
+keywords:
+  - AI PM
+  - Tech for PM
+  - Product Manager Portfolio
+  - PM Portfolio
+  - AI Automation
+  - Generative AI Use Cases
+  - MultiModal Models
 weight: 3
 cover:
-  image: "/img/20251113212749.png"    
-  alt: "Image Analysis"
+  image: /img/20251113212749.png
+  alt: Image Analysis
 ---
 # AI Agent to analyze your snaps.
 

@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Interview Simulator | Dibyendu Tapadar</title>
+<meta name="keywords" content="AI PM, Tech for PM, Product Manager Portfolio, PM Portfolio, Generative AI Use Cases">
+<meta name="description" content="Product Manager Portfolio showcasing my work">
+<meta name="author" content="Dibyendu Tapadar">
+<link rel="canonical" href="https://dibyendupm.netlify.app/projects/product-manager-interview-simulator/">
+<meta property="og:title" content="Interview Simulator">
+<meta property="og:description" content="Product Manager Portfolio showcasing my work">
+<meta property="og:image" content="">
+<meta property="og:url" content="https://dibyendupm.netlify.app/projects/product-manager-interview-simulator/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="google-site-verification" content="Ksm-dFTFzTkmFmz7MeabjBSLn7pUf19yeCjIFhQXPUM" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.35c784fd2ecf3d33c8c2a9f1f6b7bcc261b53b48312204ff0457675db27b6c67.css" integrity="sha256-NceE/S7PPTPIwqnx9re8wmG1O0gxIgT/BFdnXbJ7bGc=" rel="preload stylesheet" as="style">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TJTELRQR4M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TJTELRQR4M');
+</script>
+<link rel="icon" href="https://dibyendupm.netlify.app/img/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://dibyendupm.netlify.app/img/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://dibyendupm.netlify.app/img/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://dibyendupm.netlify.app/img/apple-touch-icon.png">
+<link rel="mask-icon" href="https://dibyendupm.netlify.app/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://dibyendupm.netlify.app/projects/product-manager-interview-simulator/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({ startOnLoad: true });</script><meta property="og:url" content="https://dibyendupm.netlify.app/projects/product-manager-interview-simulator/">
+  <meta property="og:site_name" content="Dibyendu Tapadar">
+  <meta property="og:title" content="Interview Simulator">
+  <meta property="og:description" content="Product Manager Portfolio showcasing my work">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="projects">
+    <meta property="article:tag" content="PromptEngineering">
+    <meta property="article:tag" content="ProductManagement">
+    <meta property="article:tag" content="CustomGPT">
+    <meta property="article:tag" content="GenAI">
+    <meta property="og:image" content="https://dibyendupm.netlify.app/img/20251113212112.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://dibyendupm.netlify.app/img/20251113212112.png">
+<meta name="twitter:title" content="Interview Simulator">
+<meta name="twitter:description" content="Product Manager Portfolio showcasing my work">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Personal Projects",
+      "item": "https://dibyendupm.netlify.app/projects/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Interview Simulator",
+      "item": "https://dibyendupm.netlify.app/projects/product-manager-interview-simulator/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Interview Simulator",
+  "name": "Interview Simulator",
+  "description": "Product Manager Portfolio showcasing my work",
+  "keywords": [
+    "AI PM", "Tech for PM", "Product Manager Portfolio", "PM Portfolio", "Generative AI Use Cases"
+  ],
+  "articleBody": "Introducing ‘Product Management Interview Simulator’ - A Custom GPT In case you want to skip everything and try the simulator:\nPM interview simulator Practice makes perfect, and nowhere is this truer than in the realm of interviews. The more you practice, read, and learn, the more adept you become. For those preparing for product management interviews at junior and assistant levels, two books often come highly recommended: Cracking the PM Interview and Decode and Conquer. These books are celebrated for their conversational examples between interviewers and candidates, which help readers grasp the interview dynamics effectively. With the advent of powerful tools like ChatGPT, one would expect interview preparation to be easier. Why did I create this? While preparing for PM interviews, we noticed that the responses from general GPTs often lacked the realistic flow and format expected by interviewers. So, we decided to create a solution that bridges this gap, helping you practice effectively and confidently.\nLet’s try out the most popular vanilla GPTs with a generic design question Design an alarm clock for the blind\nHere is the response from ChatGPT-4o. And here’s the same question posted to Claude: Let’s try one more, this time an RCA question\nOla is experiencing a 25% decrease in daily ride bookings. How would you identify the root cause of this decline and propose solutions?\nLet’s see how chatgpt performs And here’s how Claude performs Though these are valuable insights, but not exactly how the interviewer expects the answer structure. Let’s try to prompt to act as a PM interview candidate and answer the question.\nIt’s clear that the responses are quite generic, lacking the structured and realistic flow expected in an actual interview.\nBridging the Gap: Introducing the ‘Product Management Interview Simulator’ To address this gap, I created a custom GPT tailored specifically to help PM aspirants prepare for interviews. I’ve named it the ‘Product Management Interview Simulator’. Let’s see how the custom GPT handles the same questions: What to expect?\nDetailed and Structured Responses: Get answers that follow the proper format, including clarifying questions and realistic scenarios enacting the interviewer and the interviewee.\nThe Design Question If you have ever prepared for PM interviews, this response looks much more realistic and acceptable right?\nThe RCA Question As you can see, this simulator closely mimics real-world scenarios, asking clarifying questions and following a proper flow and format.\nHow Did I Train the GPT? Creating this custom GPT involved leveraging ChatGPT’s capabilities for training with prompts and custom data. For the training data, I scraped a wealth of mock interviews from various sources:\nPDFs of relevant books\nTranscripts of YouTube videos\nPosts from product management communities\nBlogs dedicated to PM topics\nI then cleaned and structured this data into a JSON format, a snippet as below:\nThe JSON file includes the question, related product, product type, question keyword, question type, and a detailed interaction between the interviewer and interviewee.\nFocus Areas I initially focused on five key question types, which are commonly asked for in PM interviews\nProduct Design\nRoot Cause Analysis (RCA)\nProblem Solving\nProduct Improvement\nProduct Metrics\nBy providing detailed context and employing few-shot prompting techniques, I configured the GPT to understand and format responses appropriately for the approach to different types of questions.\nYour Feedback Matters to Me While the GPT is still a work in progress, I am eager for feedback from the Product Management Community. If you’re interested, please visit the custom GPT, try it out with different types of questions [out of the question-types mentioned above], and share your thoughts.\nHere is the link to the custom GPT:\nPM Interview Simulator Your input will not only help improve the tool but also help to reach fellow PM aspirants in their journey towards acing their interviews. Happy practicing!\nFeedback Your feedback (whether in my inbox, comments, or through a rating) will be immensely valuable.\nYou can click on the down arrow beside the GPT name on top left, and click on ‘Review GPT’ to post a rating Though you need to be a premium member to rate, however you just need to login to ChatGPT to use the simulator.\nDisclaimer These are LLMs and they can make mistake. They are not a replacement of creative, cognitive. logical and strategic thinking. The responses should only be taken as food for thought while practicing and exploring different types of questions.\n",
+  "wordCount" : "730",
+  "inLanguage": "en",
+  "image":"https://dibyendupm.netlify.app/img/20251113212112.png","datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Dibyendu Tapadar"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dibyendupm.netlify.app/projects/product-manager-interview-simulator/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Dibyendu Tapadar",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://dibyendupm.netlify.app/img/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://dibyendupm.netlify.app/" accesskey="h" title="Dibyendu Tapadar (Alt + H)">Dibyendu Tapadar</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://dibyendupm.netlify.app/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.netlify.app/work/" title="Experience">
+                    <span><i class="fa-solid fa-briefcase"></i>Experience</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.netlify.app/projects/" title="Personal Projects">
+                    <span>Personal Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.netlify.app/tech-for-pm/" title="Tech for PM">
+                    <span>Tech for PM</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.netlify.app/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Interview Simulator
+    </h1>
+    
+    <div class="post-meta"><span>4 min</span>&nbsp;·&nbsp;<span>Dibyendu Tapadar</span>
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" src="https://dibyendupm.netlify.app/img/20251113212112.png" alt="Interview Simulator">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#introducing-product-management-interview-simulator---a-custom-gpt" aria-label="Introducing ‘Product Management Interview Simulator’ - A Custom GPT">Introducing ‘Product Management Interview Simulator’ - A Custom GPT</a><ul>
+                        <ul>
+                        
+                <li>
+                    <a href="#lets-try-out-the-most-popular-vanilla-gpts-with-a-generic-design-question" aria-label="Let&rsquo;s try out the most popular vanilla GPTs with a generic design question ">Let&rsquo;s try out the most popular vanilla GPTs with a generic design question </a><ul>
+                        <ul>
+                        <ul>
+                        
+                <li>
+                    <a href="#here-is-the-response-fromchatgpt-4o" aria-label="Here is the response from ChatGPT-4o.">Here is the response from ChatGPT-4o.</a></li>
+                <li>
+                    <a href="#and-heres-the-same-question-posted-toclaude" aria-label="And here’s the same question posted to Claude: ">And here’s the same question posted to Claude: </a></li>
+                <li>
+                    <a href="#lets-see-how-chatgpt-performs" aria-label="Let&rsquo;s see how chatgpt performs">Let&rsquo;s see how chatgpt performs</a></li>
+                <li>
+                    <a href="#and-heres-how-claude-performs" aria-label="And here&rsquo;s how Claude performs">And here&rsquo;s how Claude performs</a></li></ul>
+                    </ul>
+                    </ul>
+                </li></ul>
+                    
+                <li>
+                    <a href="#bridging-the-gap-introducing-the-product-management-interview-simulator" aria-label="Bridging the Gap: Introducing the ‘Product Management Interview Simulator’">Bridging the Gap: Introducing the ‘Product Management Interview Simulator’</a></li>
+                <li>
+                    <a href="#lets-see-how-the-custom-gpt-handles-the-same-questions" aria-label="Let’s see how the custom GPT handles the same questions: ">Let’s see how the custom GPT handles the same questions: </a><ul>
+                        
+                <li>
+                    <a href="#the-design-question" aria-label="The Design Question">The Design Question</a></li>
+                <li>
+                    <a href="#the-rca-question" aria-label="The RCA Question">The RCA Question</a></li>
+                <li>
+                    <a href="#how-did-i-train-the-gpt" aria-label="How Did I Train the GPT?">How Did I Train the GPT?</a></li>
+                <li>
+                    <a href="#focus-areas" aria-label="Focus Areas">Focus Areas</a></li>
+                <li>
+                    <a href="#your-feedback-matters-to-me" aria-label="Your Feedback Matters to Me">Your Feedback Matters to Me</a></li>
+                <li>
+                    <a href="#feedback" aria-label="Feedback">Feedback</a></li></ul>
+                </li>
+                <li>
+                    <a href="#disclaimer" aria-label="Disclaimer">Disclaimer</a>
+                </li>
+            </ul>
+            </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h1 id="introducing-product-management-interview-simulator---a-custom-gpt">Introducing ‘Product Management Interview Simulator’ - A Custom GPT<a hidden class="anchor" aria-hidden="true" href="#introducing-product-management-interview-simulator---a-custom-gpt">#</a></h1>
+<p>In case you want to skip everything and try the simulator:</p>
+<p><a href="https://chatgpt.com/g/g-9sJq1K1kg-product-management-interview-simulator"target="_blank" rel="noopener">
+    PM interview simulator
+</a>
+</p>
+<p>Practice makes perfect, and nowhere is this truer than in the realm of interviews. The more you practice, read, and learn, the more adept you become. For those preparing for product management interviews at junior and assistant levels, two books often come highly recommended: <strong>Cracking the PM Interview</strong> and <strong>Decode and Conquer</strong>. These books are celebrated for their conversational examples between interviewers and candidates, which help readers grasp the interview dynamics effectively. With the advent of powerful tools like ChatGPT, one would expect interview preparation to be easier. </p>
+<p><strong>Why did I create this?</strong> </p>
+<p>While preparing for PM interviews, we noticed that the responses from general GPTs often lacked the realistic flow and format expected by interviewers. So, we decided to create a solution that bridges this gap, helping you practice effectively and confidently.</p>
+<h3 id="lets-try-out-the-most-popular-vanilla-gpts-with-a-generic-design-question">Let&rsquo;s try out the most popular vanilla GPTs with a generic design question <a hidden class="anchor" aria-hidden="true" href="#lets-try-out-the-most-popular-vanilla-gpts-with-a-generic-design-question">#</a></h3>
+<blockquote>
+<p><strong>Design an alarm clock for the blind</strong></p>
+</blockquote>
+<h6 id="here-is-the-response-fromchatgpt-4o">Here is the response from <strong>ChatGPT-4o.</strong><a hidden class="anchor" aria-hidden="true" href="#here-is-the-response-fromchatgpt-4o">#</a></h6>
+<p><img alt="ree" loading="lazy" src="https://static.wixstatic.com/media/f3d706_2b89e072aa98457c9548b3984dbc8416~mv2.png/v1/fill/w_966,h_1000,al_c,q_90,enc_avif,quality_auto/f3d706_2b89e072aa98457c9548b3984dbc8416~mv2.png"></p>
+<h6 id="and-heres-the-same-question-posted-toclaude">And here’s the same question posted to Claude: <a hidden class="anchor" aria-hidden="true" href="#and-heres-the-same-question-posted-toclaude">#</a></h6>
+<p><img alt="ree" loading="lazy" src="https://static.wixstatic.com/media/f3d706_05feb095f5f64090a7a2f2ddbbd752ea~mv2.png/v1/fill/w_1480,h_824,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/f3d706_05feb095f5f64090a7a2f2ddbbd752ea~mv2.png"></p>
+<p>Let&rsquo;s try one more, this time an RCA question</p>
+<blockquote>
+<p>Ola is experiencing a 25% decrease in daily ride bookings. How would you identify the root cause of this decline and propose solutions?</p>
+</blockquote>
+<h6 id="lets-see-how-chatgpt-performs">Let&rsquo;s see how chatgpt performs<a hidden class="anchor" aria-hidden="true" href="#lets-see-how-chatgpt-performs">#</a></h6>
+<p><img alt="ree" loading="lazy" src="https://static.wixstatic.com/media/f3d706_0a41d05b24c44ae888166f8f8a5614c5~mv2.png/v1/fill/w_924,h_1000,al_c,q_90,enc_avif,quality_auto/f3d706_0a41d05b24c44ae888166f8f8a5614c5~mv2.png"></p>
+<h6 id="and-heres-how-claude-performs">And here&rsquo;s how Claude performs<a hidden class="anchor" aria-hidden="true" href="#and-heres-how-claude-performs">#</a></h6>
+<p><img alt="ree" loading="lazy" src="https://static.wixstatic.com/media/f3d706_e83128155ed344ba91889530f6977630~mv2.png/v1/fill/w_1252,h_1000,al_c,q_90,enc_avif,quality_auto/f3d706_e83128155ed344ba91889530f6977630~mv2.png"></p>
+<p>Though these are valuable insights, but not exactly how the interviewer expects the answer structure. Let&rsquo;s try to <strong>prompt to act as a PM interview candidate</strong> and answer the question.</p>
+<p><img alt="ree" loading="lazy" src="https://static.wixstatic.com/media/f3d706_fe41aadd9065431a8970b6b30bb46a5d~mv2.png/v1/fill/w_970,h_1000,al_c,q_90,enc_avif,quality_auto/f3d706_fe41aadd9065431a8970b6b30bb46a5d~mv2.png"></p>
+<p>It’s clear that the responses are quite generic, lacking the structured and realistic flow expected in an actual interview.</p>
+<h2 id="bridging-the-gap-introducing-the-product-management-interview-simulator">Bridging the Gap: Introducing the ‘Product Management Interview Simulator’<a hidden class="anchor" aria-hidden="true" href="#bridging-the-gap-introducing-the-product-management-interview-simulator">#</a></h2>
+<p>To address this gap, I created a custom GPT tailored specifically to help PM aspirants prepare for interviews. I’ve named it the <strong>‘Product Management Interview Simulator’</strong>. </p>
+<h2 id="lets-see-how-the-custom-gpt-handles-the-same-questions">Let’s see how the custom GPT handles the same questions: <a hidden class="anchor" aria-hidden="true" href="#lets-see-how-the-custom-gpt-handles-the-same-questions">#</a></h2>
+<p><strong>What to expect?</strong></p>
+<p><strong>Detailed and Structured Responses:</strong> Get answers that follow the proper format, including clarifying questions and realistic scenarios enacting the interviewer and the interviewee.</p>
+<h3 id="the-design-question">The Design Question<a hidden class="anchor" aria-hidden="true" href="#the-design-question">#</a></h3>
+<p><img alt="ree" loading="lazy" src="https://static.wixstatic.com/media/f3d706_db576b22bec84e2e9184e7f866024592~mv2.png/v1/fill/w_956,h_1000,al_c,q_90,enc_avif,quality_auto/f3d706_db576b22bec84e2e9184e7f866024592~mv2.png"></p>
+<p>If you have ever prepared for PM interviews, this response looks much more realistic and acceptable right?</p>
+<h3 id="the-rca-question">The RCA Question<a hidden class="anchor" aria-hidden="true" href="#the-rca-question">#</a></h3>
+<p><img alt="ree" loading="lazy" src="https://static.wixstatic.com/media/f3d706_5bafb51265864ba6897cab060b6275c9~mv2.png/v1/fill/w_1069,h_1000,al_c,q_90,enc_avif,quality_auto/f3d706_5bafb51265864ba6897cab060b6275c9~mv2.png"></p>
+<p>As you can see, this simulator closely mimics real-world scenarios, asking clarifying questions and following a proper flow and format.</p>
+<h3 id="how-did-i-train-the-gpt">How Did I Train the GPT?<a hidden class="anchor" aria-hidden="true" href="#how-did-i-train-the-gpt">#</a></h3>
+<p>Creating this custom GPT involved leveraging ChatGPT’s capabilities for training with prompts and custom data. For the training data, I scraped a wealth of mock interviews from various sources:</p>
+<ul>
+<li>
+<p>PDFs of relevant books</p>
+</li>
+<li>
+<p>Transcripts of YouTube videos</p>
+</li>
+<li>
+<p>Posts from product management communities</p>
+</li>
+<li>
+<p>Blogs dedicated to PM topics</p>
+</li>
+</ul>
+<p>I then cleaned and structured this data into a JSON format, a snippet as below:</p>
+<p>The JSON file includes the question, related product, product type, question keyword, question type, and a detailed interaction between the interviewer and interviewee.</p>
+<h3 id="focus-areas">Focus Areas<a hidden class="anchor" aria-hidden="true" href="#focus-areas">#</a></h3>
+<p>I initially focused on five key question types, which are commonly asked for in PM interviews</p>
+<ol>
+<li>
+<p><strong>Product Design</strong></p>
+</li>
+<li>
+<p><strong>Root Cause Analysis (RCA)</strong></p>
+</li>
+<li>
+<p><strong>Problem Solving</strong></p>
+</li>
+<li>
+<p><strong>Product Improvement</strong></p>
+</li>
+<li>
+<p><strong>Product Metrics</strong></p>
+</li>
+</ol>
+<p>By providing detailed context and employing few-shot prompting techniques, I configured the GPT to understand and format responses appropriately for the approach to different types of questions.</p>
+<h3 id="your-feedback-matters-to-me">Your Feedback Matters to Me<a hidden class="anchor" aria-hidden="true" href="#your-feedback-matters-to-me">#</a></h3>
+<p>While the GPT is still a work in progress, I am eager for feedback from the Product Management Community. </p>
+<p>If you’re interested, please visit the custom GPT, try it out with different types of questions [out of the question-types mentioned above], and share your thoughts.</p>
+<p>Here is the link to the custom GPT:</p>
+<p><a href="https://chatgpt.com/g/g-9sJq1K1kg-product-management-interview-simulator"target="_blank" rel="noopener">
+    PM Interview Simulator
+</a>
+</p>
+<p>Your input will not only help improve the tool but also help to reach fellow PM aspirants in their journey towards acing their interviews. Happy practicing!</p>
+<h3 id="feedback">Feedback<a hidden class="anchor" aria-hidden="true" href="#feedback">#</a></h3>
+<p>Your feedback (whether in my inbox, comments, or through a rating) will be immensely valuable.</p>
+<p>You can click on the down arrow beside the GPT name on top left, and click on <strong>&lsquo;Review GPT&rsquo;</strong> to post a rating </p>
+<p>Though you need to be a premium member to rate, however you just need to login to ChatGPT to use the simulator.</p>
+<h2 id="disclaimer">Disclaimer<a hidden class="anchor" aria-hidden="true" href="#disclaimer">#</a></h2>
+<p>These are LLMs and they can make mistake. They are not a replacement of creative, cognitive. logical and strategic thinking. The responses should only be taken as food for thought while practicing and exploring different types of questions.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://dibyendupm.netlify.app/tags/promptengineering/">PromptEngineering</a></li>
+      <li><a href="https://dibyendupm.netlify.app/tags/productmanagement/">ProductManagement</a></li>
+      <li><a href="https://dibyendupm.netlify.app/tags/customgpt/">CustomGPT</a></li>
+      <li><a href="https://dibyendupm.netlify.app/tags/genai/">GenAI</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://dibyendupm.netlify.app/">Dibyendu Tapadar</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

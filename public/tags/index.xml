@@ -8,17 +8,10 @@
     <language>en-us</language>
     <atom:link href="https://dibyendupm.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Adaptive Learning</title>
-      <link>https://dibyendupm.netlify.app/tags/adaptive-learning/</link>
+      <title>AI</title>
+      <link>https://dibyendupm.netlify.app/tags/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/adaptive-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI Image Analysis</title>
-      <link>https://dibyendupm.netlify.app/tags/ai-image-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/ai-image-analysis/</guid>
+      <guid>https://dibyendupm.netlify.app/tags/ai/</guid>
       <description></description>
     </item>
     <item>
@@ -26,6 +19,13 @@
       <link>https://dibyendupm.netlify.app/tags/autotech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/tags/autotech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BingMaps</title>
+      <link>https://dibyendupm.netlify.app/tags/bingmaps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/bingmaps/</guid>
       <description></description>
     </item>
     <item>
@@ -40,6 +40,13 @@
       <link>https://dibyendupm.netlify.app/tags/crewai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/tags/crewai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CustomGPT</title>
+      <link>https://dibyendupm.netlify.app/tags/customgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/customgpt/</guid>
       <description></description>
     </item>
     <item>
@@ -64,17 +71,10 @@
       <description></description>
     </item>
     <item>
-      <title>GPT</title>
-      <link>https://dibyendupm.netlify.app/tags/gpt/</link>
+      <title>Groq</title>
+      <link>https://dibyendupm.netlify.app/tags/groq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/gpt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Groq API</title>
-      <link>https://dibyendupm.netlify.app/tags/groq-api/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/groq-api/</guid>
+      <guid>https://dibyendupm.netlify.app/tags/groq/</guid>
       <description></description>
     </item>
     <item>
@@ -85,10 +85,10 @@
       <description></description>
     </item>
     <item>
-      <title>Interview Simulation</title>
-      <link>https://dibyendupm.netlify.app/tags/interview-simulation/</link>
+      <title>ImageAnalysis</title>
+      <link>https://dibyendupm.netlify.app/tags/imageanalysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/interview-simulation/</guid>
+      <guid>https://dibyendupm.netlify.app/tags/imageanalysis/</guid>
       <description></description>
     </item>
     <item>
@@ -141,6 +141,13 @@
       <description></description>
     </item>
     <item>
+      <title>MultiModal</title>
+      <link>https://dibyendupm.netlify.app/tags/multimodal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/multimodal/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ollama</title>
       <link>https://dibyendupm.netlify.app/tags/ollama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -152,6 +159,13 @@
       <link>https://dibyendupm.netlify.app/tags/openai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/tags/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>https://dibyendupm.netlify.app/tags/optimization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/optimization/</guid>
       <description></description>
     </item>
     <item>
@@ -169,10 +183,17 @@
       <description></description>
     </item>
     <item>
-      <title>Prompt Engineering</title>
-      <link>https://dibyendupm.netlify.app/tags/prompt-engineering/</link>
+      <title>ProductManagement</title>
+      <link>https://dibyendupm.netlify.app/tags/productmanagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/prompt-engineering/</guid>
+      <guid>https://dibyendupm.netlify.app/tags/productmanagement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PromptEngineering</title>
+      <link>https://dibyendupm.netlify.app/tags/promptengineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/promptengineering/</guid>
       <description></description>
     </item>
     <item>
@@ -190,10 +211,10 @@
       <description></description>
     </item>
     <item>
-      <title>Route Optimization</title>
-      <link>https://dibyendupm.netlify.app/tags/route-optimization/</link>
+      <title>RetailTech</title>
+      <link>https://dibyendupm.netlify.app/tags/retailtech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/route-optimization/</guid>
+      <guid>https://dibyendupm.netlify.app/tags/retailtech/</guid>
       <description></description>
     </item>
     <item>
@@ -218,10 +239,17 @@
       <description></description>
     </item>
     <item>
-      <title>Time Series</title>
-      <link>https://dibyendupm.netlify.app/tags/time-series/</link>
+      <title>SupplyChain</title>
+      <link>https://dibyendupm.netlify.app/tags/supplychain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.netlify.app/tags/time-series/</guid>
+      <guid>https://dibyendupm.netlify.app/tags/supplychain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TimeSeries</title>
+      <link>https://dibyendupm.netlify.app/tags/timeseries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/timeseries/</guid>
       <description></description>
     </item>
     <item>
@@ -236,6 +264,13 @@
       <link>https://dibyendupm.netlify.app/tags/traveltech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.netlify.app/tags/traveltech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VRP</title>
+      <link>https://dibyendupm.netlify.app/tags/vrp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.netlify.app/tags/vrp/</guid>
       <description></description>
     </item>
   </channel>
