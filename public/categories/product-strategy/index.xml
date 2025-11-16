@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ProductManagement on Dibyendu Tapadar</title>
-    <link>https://dibyendupm.com/tags/productmanagement/</link>
-    <description>Recent content in ProductManagement on Dibyendu Tapadar</description>
+    <title>Product Strategy on Dibyendu Tapadar</title>
+    <link>https://dibyendupm.com/categories/product-strategy/</link>
+    <description>Recent content in Product Strategy on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dibyendupm.com/tags/productmanagement/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Evolution of Product Management</title>
-      <link>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</link>
-      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</guid>
-      <description>The Evolution of Product Management - A Brief History and How the Future Looks Like</description>
-    </item>
+    <atom:link href="https://dibyendupm.com/categories/product-strategy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Do you have a Product Strategy?</title>
       <link>https://dibyendupm.com/art-of-pm/do-you-have-a-product-strategy/</link>
@@ -50,13 +43,6 @@
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/art-of-pm/4-books-every-product-manager-should-read/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s be honest. As a product manager, your to-do list is already miles long, and finding time to read books might seem like a luxury you can&amp;rsquo;t afford. I get it. I&amp;rsquo;ve been there too. But before you dismiss the idea completely, let me share four books that have managed to change my perspective on product management and books in general. These aren&amp;rsquo;t your typical run-of-the-mill, generic recommendations at the CEO or founder level like &amp;ldquo;Lean Product&amp;rdquo;, &amp;ldquo;Hooked&amp;rdquo;, &amp;ldquo;Launch&amp;rdquo; or &amp;ldquo;Ship it&amp;rdquo;, No. these four books provide the kind of food for thought and actionable ideas that you can start thinking about, experimenting with, and implementing right away, regardless of the stage you are currently in your product management career.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Interview Simulator</title>
-      <link>https://dibyendupm.com/projects/product-manager-interview-simulator/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/product-manager-interview-simulator/</guid>
-      <description>Product Manager Portfolio showcasing my work</description>
     </item>
   </channel>
 </rss>

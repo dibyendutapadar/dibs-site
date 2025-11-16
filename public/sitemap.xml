@@ -20,12 +20,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://dibyendupm.com/art-of-pm/impact-outcome-output/</loc>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://dibyendupm.com/art-of-pm/is-product-management-bs-job/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/art-of-pm/a-pm-always-pays-his-tech-debt/</loc>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -50,6 +60,11 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/blog/automated-assessments/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/art-of-pm/4-books-every-product-manager-should-read/</loc>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -78,11 +93,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/ai/</loc>
-    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://dibyendupm.com/categories/ai-pm/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,6 +104,11 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/</loc>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/categories/product-strategy/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -127,6 +142,10 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/categories/ai/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/tags/ai/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
