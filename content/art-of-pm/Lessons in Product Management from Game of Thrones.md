@@ -21,7 +21,7 @@ cover:
 
 
 If Westeros taught us anything beyond political murder and dragons, it’s that strategy, storytelling, and ruthless clarity matter, especially when you’re shipping products instead of heirs. 
-Lets check some direct, and maybe sometimes uncomfortable mappings from iconic _Game of Thrones_ lines to what a product manager actually does (and shouldn’t do). No fluff. Real lessons and blunt takeaways.
+Lets check some direct, and maybe sometimes uncomfortable mappings from the iconic _Game of Thrones_ lines to what a product manager actually does and shouldn’t do.
 
 ---
 
