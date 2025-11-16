@@ -1,0 +1,25 @@
+:root {
+  --violet-accent: #8a5cf5;
+}
+
+
+
+/* H2 headings */
+h2 {
+  color: var(--violet-accent) !important;
+}
+
+/* Hyperlinks */
+a {
+  color: var(--violet-accent) !important;
+}
+a:hover {
+  opacity: 0.85;
+}
+
+
+
+blockquote {
+  border-left: 4px solid #8a5cf5 !important; /* violet shade */
+  padding-left: 1rem !important;
+}
