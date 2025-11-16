@@ -3,16 +3,15 @@ title: Do you have a Product Strategy?
 date: 2025-11-16
 summary:
 tags:
-  - AI
-description:
+  - ProductManagement
+description: An intuitive take on what Product strategy is. How strategy it is one of the most misunderstood and miscommunicated word.
 keywords:
-  - AI PM
-  - Tech for PM
+  - Product Strategy
+  - Product Management
   - Product Manager Portfolio
 draft: false
 categories:
-  - AI PM
-  - Tech for PM
+  - Product Strategy
 slug: do-you-have-a-product-strategy?
 weight: 2
 cover:
