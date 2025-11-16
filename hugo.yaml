@@ -81,13 +81,18 @@ menu:
         class: "center"
 
     - identifier: "projects"
-      name: "Personal Projects"
+      name: "Side Projects"
       url: "/projects/"
       weight: 3
 
     - identifier: "techForPM"
       name: "Tech for PM"
       url: "/tech-for-pm/"
+      weight: 4
+
+    - identifier: "artOfPM"
+      name: "Art of PMing"
+      url: "/art-of-pm/"
       weight: 4
 
     - identifier: "search"
@@ -125,6 +130,15 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      typographer: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      definitionList: true
+      footnote: true
+      highlight: true
 
 googleAnalytics: "G-83JNZXFBJD"
 
