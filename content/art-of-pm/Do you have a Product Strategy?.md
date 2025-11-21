@@ -12,7 +12,7 @@ keywords:
 draft: false
 categories:
   - Product Strategy
-slug: do-you-have-a-product-strategy?
+slug: do-you-have-a-product-strategy
 weight: 2
 cover:
   image: /img/2025-11-16-1.png
