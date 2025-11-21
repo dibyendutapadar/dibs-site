@@ -6,8 +6,54 @@
     <description>Recent content in Tech for PM on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dibyendupm.com/categories/tech-for-pm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI ain&#39;t Magic, its Math</title>
+      <link>https://dibyendupm.com/tech-for-pm/ai-aint-magic-its-math/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/tech-for-pm/ai-aint-magic-its-math/</guid>
+      <description>&lt;p&gt;Let&amp;rsquo;s call it what it is- underneath all the glam and hype, 𝗶𝘁’𝘀 𝘀𝘁𝗶𝗹𝗹 𝗺𝗮𝘁𝗵.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A network of numbers.&lt;/li&gt;
+&lt;li&gt;Patterns learned from numbers.&lt;/li&gt;
+&lt;li&gt;Spitting out more numbers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Very simply put, it’s a complex network of if-else; running on vectors.  At least that&amp;rsquo;s where it all started, from rule based engines:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://dibyendupm.com/tech-for-pm/an-intuition-for-machine-learning&#34;&gt;
+    An intuition for Machine Learning
+&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s pretty simple, so what&amp;rsquo;s the path we had to cover to reach the world as we know it of LLM, GPT, autonomous agents?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>An Intuition for Machine Learning</title>
+      <link>https://dibyendupm.com/tech-for-pm/an-intuition-for-machine-learning/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/tech-for-pm/an-intuition-for-machine-learning/</guid>
+      <description>&lt;h3 id=&#34;part-1-of-ai-aint-magic-its-math&#34;&gt;Part 1 of &amp;ldquo;AI ain&amp;rsquo;t Magic, It&amp;rsquo;s Math&amp;rdquo;&lt;/h3&gt;
+&lt;p&gt;Before AI became what it is today, machines behaved like bureaucrats: they only did what you explicitly told them to do.
+Software was ==Rules Based==.
+Meaning: you wrote conditions, and the machine reacted to those conditions.&lt;/p&gt;
+&lt;p&gt;First you create the rules mentally&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If  A happens then  X, If B and C happends then do Y, If A and D and E Happens then Do Z
+Then hard code it&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brief History of AI</title>
+      <link>https://dibyendupm.com/tech-for-pm/brief-history-of-ai/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/tech-for-pm/brief-history-of-ai/</guid>
+      <description>&lt;p&gt;..coming soon&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Types of problems where ML can be applied</title>
+      <link>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</guid>
+      <description></description>
+    </item>
     <item>
       <title>The Evolution of Product Management</title>
       <link>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</link>
