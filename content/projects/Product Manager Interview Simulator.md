@@ -17,16 +17,17 @@ keywords:
   - Product Manager Portfolio
   - PM Portfolio
   - Generative AI Use Cases
-weight: 9
+weight: 2
 cover:
   image: /img/20251113212112.png
   alt: Interview Simulator
 ---
-# Introducing ‘Product Management Interview Simulator’ - A Custom GPT
 
-In case you want to skip everything and try the simulator:
+![Article content](/img/customgpt-simulator.png)
 
 [PM interview simulator](https://chatgpt.com/g/g-9sJq1K1kg-product-management-interview-simulator)
+
+In case you want to skip everything and try the simulator: ☝️
 
 Practice makes perfect, and nowhere is this truer than in the realm of interviews. The more you practice, read, and learn, the more adept you become. For those preparing for product management interviews at junior and assistant levels, two books often come highly recommended: **Cracking the PM Interview** and **Decode and Conquer**. These books are celebrated for their conversational examples between interviewers and candidates, which help readers grasp the interview dynamics effectively. With the advent of powerful tools like ChatGPT, one would expect interview preparation to be easier. 
 

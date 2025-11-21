@@ -39,6 +39,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://dibyendupm.com/projects/product-manager-interview-simulator/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://dibyendupm.com/art-of-pm/a-pm-always-pays-his-tech-debt/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,10 +90,6 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/projects/delivery-route-optimization/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/projects/product-manager-interview-simulator/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
