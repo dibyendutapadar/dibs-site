@@ -9,6 +9,20 @@
     <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dibyendupm.com/categories/ai-pm/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Authentication vs. Authorization - What’s the Difference?</title>
+      <link>https://dibyendupm.com/tech-for-pm/authentication-vs-authorization-whats-the-difference/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/tech-for-pm/authentication-vs-authorization-whats-the-difference/</guid>
+      <description>&lt;p&gt;You hear these two words thrown around all the time, and they’re almost always used together. But here’s the thing: they do two completely different jobs. Getting them right is the foundation of all digital security.&lt;/p&gt;
+&lt;p&gt;So what&amp;rsquo;s the deal, exactly?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Authentication is the bouncer at the club door checking your ID.&lt;/strong&gt;  Its only job is to answer one question:  &lt;strong&gt;“Who are you?”&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Authorization is the VIP wristband you get after you&amp;rsquo;re inside.&lt;/strong&gt;  It tells the bouncer which rooms you’re allowed into. Its job is to answer:  &lt;strong&gt;“What are you allowed to do?”&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Authentication  &lt;em&gt;always&lt;/em&gt;  comes first. You can&amp;rsquo;t figure out what someone is allowed to do until you know who they are.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That’s it. One proves your identity, the other checks your permissions. Let&amp;rsquo;s break down the most common ways apps do both.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>How AI Re-Engineered Product Management</title>
       <link>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
