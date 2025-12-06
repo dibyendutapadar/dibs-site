@@ -21,7 +21,7 @@ categories:
   - Tech for PM
   - AI Agents
 slug: simple-analytics-agent-motherduck-openai-agents-sdk
-weight: 1
+weight: 5
 cover:
   image: /img/motherduck_openai_agents.png
   alt: simple-analytics-agent-motherduck-openai-agents-sdk
@@ -115,4 +115,4 @@ With this minimal setup, you already get a natural-language → structured-data 
 For a full working code with a little enhancements such as adding a schema definition, query guidance which makes the agent response time shorter, crisper and cleaner, checkout the repo here:
 
 
-[GitHub](https://github.com/dibyendutapadar/simple-data-analytics-motherduck-openai-agents)
+[GitHub]](https://github.com/dibyendutapadar/simple-data-analytics-motherduck-openai-agents)
