@@ -14,7 +14,7 @@ categories:
   - AI PM
   - Tech for PM
 slug: brief-history-of-ai
-weight: 1
+weight: 2
 cover:
   image: /img/tech-for-pm.png
   alt: brief-history-of-ai

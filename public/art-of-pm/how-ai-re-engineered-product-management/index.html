@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>How AI Re-Engineered Product Management | Dibyendu Tapadar</title>
+<meta name="keywords" content="AI PM, Tech for PM, Product Manager Portfolio">
+<meta name="description" content="Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind.  Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn&rsquo;t just a trend; it&rsquo;s a fundamental shift that&rsquo;s re-engineering what it means to be a PM, all thanks to AI&rsquo;s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.">
+<meta name="author" content="Dibyendu Tapadar">
+<link rel="canonical" href="https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/">
+<meta property="og:title" content="How AI Re-Engineered Product Management">
+<meta property="og:description" content="Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind.  Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn&rsquo;t just a trend; it&rsquo;s a fundamental shift that&rsquo;s re-engineering what it means to be a PM, all thanks to AI&rsquo;s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.">
+<meta property="og:image" content="">
+<meta property="og:url" content="https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="google-site-verification" content="Ksm-dFTFzTkmFmz7MeabjBSLn7pUf19yeCjIFhQXPUM" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.778196ed6ea6927001e4ec13975e74bafb253d50a9dced5b03a16af10f443477.css" integrity="sha256-d4GW7W6mknAB5OwTl150uvslPVCp3O1bA6Fq8Q9ENHc=" rel="preload stylesheet" as="style">
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5HCHJ7G6');</script>
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TJTELRQR4M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TJTELRQR4M');
+</script>
+<link rel="icon" href="https://dibyendupm.com/img/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://dibyendupm.com/img/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://dibyendupm.com/img/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://dibyendupm.com/img/apple-touch-icon.png">
+<link rel="mask-icon" href="https://dibyendupm.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({ startOnLoad: true });</script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-83JNZXFBJD"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-83JNZXFBJD');
+        }
+      </script><meta property="og:url" content="https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/">
+  <meta property="og:site_name" content="Dibyendu Tapadar">
+  <meta property="og:title" content="How AI Re-Engineered Product Management">
+  <meta property="og:description" content="Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind. Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn’t just a trend; it’s a fundamental shift that’s re-engineering what it means to be a PM, all thanks to AI’s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="art-of-pm">
+    <meta property="article:published_time" content="2025-12-06T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-12-06T00:00:00+00:00">
+    <meta property="article:tag" content="AI">
+    <meta property="og:image" content="https://dibyendupm.com/img/ai-engineer-pm.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://dibyendupm.com/img/ai-engineer-pm.png">
+<meta name="twitter:title" content="How AI Re-Engineered Product Management">
+<meta name="twitter:description" content="Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind.  Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn&rsquo;t just a trend; it&rsquo;s a fundamental shift that&rsquo;s re-engineering what it means to be a PM, all thanks to AI&rsquo;s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Art of PMing",
+      "item": "https://dibyendupm.com/art-of-pm/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "How AI Re-Engineered Product Management",
+      "item": "https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How AI Re-Engineered Product Management",
+  "name": "How AI Re-Engineered Product Management",
+  "description": "Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind. Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn\u0026rsquo;t just a trend; it\u0026rsquo;s a fundamental shift that\u0026rsquo;s re-engineering what it means to be a PM, all thanks to AI\u0026rsquo;s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.\n",
+  "keywords": [
+    "AI PM", "Tech for PM", "Product Manager Portfolio"
+  ],
+  "articleBody": "Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind. Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn’t just a trend; it’s a fundamental shift that’s re-engineering what it means to be a PM, all thanks to AI’s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.\nWe’ve always talked a good game about the core of PM:\nnavigating the organizational labyrinth, guiding the product ship to deliver value.\nBut the reality? Most of our time was eaten alive by a pile of manual, recurring, and frankly, soul-crushing tasks. These were the “unloved tasks,” the necessary evils that diluted our focus from strategy, innovation, and actually understanding our users.\nTake the Product Requirements Document (PRD). You’ve got the vision locked in your head, the user needs crystal clear. But translating that into a comprehensive, meticulously detailed PRD – one that anticipates every possible stakeholder question and engineering gotcha – was a monumental, laborious effort. Hours spent writing, formatting, agonizing. Then came generating user stories from that behemoth. Critical for development, sure, but an iterative process that could drag on for days. Data synthesis – not deep analysis, mind you, but the sheer grunt work of pulling disparate numbers into digestible formats for the execs – was another bottleneck. You needed the data to look “data-driven,” a staple in practically every PM job description. But getting that data often felt like pulling teeth. And who can forget the weekly presentation ritual? Compiling updates from a dozen sources, wrestling with slide formatting, ensuring each pixel was just right. Then, the ad-hoc presentations for the CEO, the CTO, the sales team – each with slightly different needs, demanding multiple revisions, rework, and a delicate dance to satisfy conflicting demands. This wasn’t the stuff of strategic genius; it was the stuff of burnout. This is where GenAI, especially Large Language Models (LLMs), has stepped in like a superhero. These tools are the ultimate task automators, directly targeting that “mindless, laborious grind” that defined so much of the PM workflow.\nIt’s a pattern we’ve seen before. History is littered with technologies that succeeded by automating the unloved tasks, freeing humans for what they actually valued:\nThe Industrial Revolution: Machines took over the back-breaking manual labor. We didn’t miss the grind; we loved managing the machines. Computers: Early computing and later spreadsheet software automated complex calculations. The appeal wasn’t in the tedious arithmetic but in the insights derived from the numbers. We loved the answers, not the calculation. The Washing Machine: This domestic marvel automated a chore that consumed hours. People embraced the convenience, choosing to spend their time on more engaging pursuits. We loved clean clothes, not the scrub. Now, LLMs are doing the same for Product Managers. They’re automating the laborious aspects of documentation, data aggregation, and presentation creation. This means PMs can reclaim their time and mental energy for the tasks that truly define their strategic value: crafting product strategy, making critical decisions, and deeply understanding and solving user problems.\nThe “Junior PM” Effect: Enter AI as Your New APM The impact of this automation is so profound that LLMs are effectively acting as a “junior PM” or an Associate Product Manager (APM). This has massive implications for the traditional APM role. Instead of spending their early careers drowning in document creation, data compilation, and basic task management, APMs can now leverage AI to handle these foundational elements.\nThis frees them to focus on what truly matters for their growth: genuine learning, in-depth user research, and a deep dive into problem areas. The emphasis shifts from being a document manager to becoming a true problem solver and strategic thinker from day one. Companies are already adapting, experimenting with roles that blend traditional PM skills with AI-assisted execution.\nThe future of product management lies not in a human versus AI battle, but in a powerful synergy. The most successful PMs will be those who can effectively blend AI-driven insights with their own deeply honed human judgment. The focus is shifting from the mechanics of managing backlogs to the art of managing intelligence. This requires critical discernment: knowing when AI genuinely adds transformative value and when it risks overcomplicating processes or providing superficial answers. The revolution is here, and it demands that product managers become masters of this new human-AI collaboration.\n",
+  "wordCount" : "754",
+  "inLanguage": "en",
+  "image":"https://dibyendupm.com/img/ai-engineer-pm.png","datePublished": "2025-12-06T00:00:00Z",
+  "dateModified": "2025-12-06T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Dibyendu Tapadar"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Dibyendu Tapadar",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://dibyendupm.com/img/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+<body id="top">
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HCHJ7G6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://dibyendupm.com/" accesskey="h" title="Dibyendu Tapadar (Alt + H)">Dibyendu Tapadar</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://dibyendupm.com/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.com/work/" title="Experience">
+                    <span><i class="fa-solid fa-briefcase"></i>Experience</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.com/projects/" title="Side Projects">
+                    <span>Side Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.com/art-of-pm/" title="Art of PMing">
+                    <span>Art of PMing</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.com/tech-for-pm/" title="Tech for PM">
+                    <span>Tech for PM</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.com/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      How AI Re-Engineered Product Management
+    </h1>
+    
+    <div class="post-meta"><span title='2025-12-06 00:00:00 +0000 UTC'>December 6, 2025</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>Dibyendu Tapadar</span>
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" src="https://dibyendupm.com/img/ai-engineer-pm.png" alt="alt">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#the-junior-pm-effect-enter-ai-as-your-new-apm" aria-label="The &ldquo;Junior PM&rdquo; Effect: Enter AI as Your New APM">The &ldquo;Junior PM&rdquo; Effect: Enter AI as Your New APM</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><p>Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind.  Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn&rsquo;t just a trend; it&rsquo;s a fundamental shift that&rsquo;s re-engineering what it means to be a PM, all thanks to AI&rsquo;s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.</p>
+<p>We’ve always talked a good game about the core of PM:</p>
+<blockquote>
+<p>navigating the organizational labyrinth, guiding the product ship to deliver value.</p>
+</blockquote>
+<p>But the reality? Most of our time was eaten alive by a pile of manual, recurring, and frankly, soul-crushing tasks. These were the &ldquo;unloved tasks,&rdquo; the necessary evils that diluted our focus from strategy, innovation, and actually understanding our users.</p>
+<ul>
+<li>Take the <strong>Product Requirements Document (PRD)</strong>. You’ve got the vision locked in your head, the user needs crystal clear. But translating that into a comprehensive, meticulously detailed PRD – one that anticipates every possible stakeholder question and engineering gotcha – was a monumental, laborious effort. Hours spent writing, formatting, agonizing.</li>
+<li>Then came generating <strong>user stories</strong> from that behemoth. Critical for development, sure, but an iterative process that could drag on for days.</li>
+<li><strong>Data synthesis</strong> – not deep analysis, mind you, but the sheer grunt work of pulling disparate numbers into digestible formats for the execs – was another bottleneck. You <em>needed</em> the data to look &ldquo;data-driven,&rdquo; a staple in practically every PM job description. But getting that data often felt like pulling teeth.</li>
+<li>And who can forget the <strong>weekly presentation ritual</strong>? Compiling updates from a dozen sources, wrestling with slide formatting, ensuring each pixel was just right.</li>
+<li>Then, the <strong>ad-hoc presentations</strong> for the CEO, the CTO, the sales team – each with slightly different needs, demanding multiple revisions, rework, and a delicate dance to satisfy conflicting demands. This wasn&rsquo;t the stuff of strategic genius; it was the stuff of burnout.</li>
+</ul>
+<hr>
+<p>This is where GenAI, especially Large Language Models (LLMs), has stepped in like a superhero. These tools are the ultimate task automators, directly targeting that &ldquo;mindless, laborious grind&rdquo; that defined so much of the PM workflow.</p>
+<p>It’s a pattern we’ve seen before. History is littered with technologies that succeeded by automating the unloved tasks, freeing humans for what they <em>actually</em> valued:</p>
+<ul>
+<li><strong>The Industrial Revolution:</strong> Machines took over the back-breaking manual labor. We didn’t miss the grind; we loved managing the machines.</li>
+<li><strong>Computers:</strong> Early computing and later spreadsheet software automated complex calculations. The appeal wasn&rsquo;t in the tedious arithmetic but in the <em>insights</em> derived from the numbers. We loved the answers, not the calculation.</li>
+<li><strong>The Washing Machine:</strong> This domestic marvel automated a chore that consumed hours. People embraced the convenience, choosing to spend their time on more engaging pursuits. We loved clean clothes, not the scrub.</li>
+</ul>
+<p>Now, LLMs are doing the same for Product Managers. They&rsquo;re automating the laborious aspects of documentation, data aggregation, and presentation creation. This means PMs can reclaim their time and mental energy for the tasks that truly define their strategic value: crafting product strategy, making critical decisions, and deeply understanding and solving user problems.</p>
+<h3 id="the-junior-pm-effect-enter-ai-as-your-new-apm">The &ldquo;Junior PM&rdquo; Effect: Enter AI as Your New APM<a hidden class="anchor" aria-hidden="true" href="#the-junior-pm-effect-enter-ai-as-your-new-apm">#</a></h3>
+<p>The impact of this automation is so profound that LLMs are effectively acting as a &ldquo;junior PM&rdquo; or an Associate Product Manager (APM). This has massive implications for the traditional APM role. Instead of spending their early careers drowning in document creation, data compilation, and basic task management, APMs can now leverage AI to handle these foundational elements.</p>
+<p>This frees them to focus on what truly matters for their growth: genuine learning, in-depth user research, and a deep dive into problem areas. The emphasis shifts from being a document manager to becoming a true problem solver and strategic thinker from day one. Companies are already adapting, experimenting with roles that blend traditional PM skills with AI-assisted execution.</p>
+<hr>
+<p>The future of product management lies not in a human versus AI battle, but in a powerful synergy. The most successful PMs will be those who can effectively blend AI-driven insights with their own deeply honed human judgment. The focus is shifting from the mechanics of managing backlogs to the art of managing intelligence. This requires critical discernment: knowing when AI genuinely adds transformative value and when it risks overcomplicating processes or providing superficial answers. The revolution is here, and it demands that product managers become masters of this new human-AI collaboration.</p>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://dibyendupm.com/tags/ai/">AI</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://dibyendupm.com/">Dibyendu Tapadar</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> |
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a> |
+        <a href="https://obsidian.md/" rel="noopener" target="_blank">Obsidian</a> |
+        <a href="https://obsidian.md/" rel="noopener" target="_blank">Netlify</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+
+<script>
+document.querySelectorAll('p, li, h1, h2, h3, h4, h5, h6').forEach(node => {
+  node.innerHTML = node.innerHTML.replace(/==([^=]+)==/g, '<mark>$1</mark>');
+});
+</script>
+</body>
+
+</html>

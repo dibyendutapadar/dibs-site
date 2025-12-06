@@ -14,7 +14,7 @@ categories:
   - AI PM
   - Tech for PM
 slug: an-intuition-for-machine-learning
-weight: 1
+weight: 3
 cover:
   image: /img/ml-intuition-1.png
   alt: an-intuition-for-machine-learning
