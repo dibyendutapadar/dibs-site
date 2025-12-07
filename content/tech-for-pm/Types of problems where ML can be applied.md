@@ -14,7 +14,7 @@ categories:
   - AI PM
   - Tech for PM
 slug: types-of-problems-where-ml-can-be-applied
-weight: 3
+weight: 1
 cover:
   image: /img/ml.gif
   alt: types-of-problems-where-ml-can-be-applied

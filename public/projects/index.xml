@@ -6,7 +6,15 @@
     <description>Recent content in Personal Projects on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dibyendupm.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Built a Writing Agent using Google ADK to Match My Writing Style</title>
+      <link>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</guid>
+      <description>Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style</description>
+    </item>
     <item>
       <title>AI-Powered Email Processing System for a Fashion Retailer</title>
       <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
@@ -20,6 +28,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/chat-with-local-documents/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>Building a Simple Analytics Agent with MotherDuck &#43; OpenAI Agents SDK</title>
+      <link>https://dibyendupm.com/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</guid>
+      <description>Building a Simple Analytics Agent with MotherDuck + OpenAI Agents SDK</description>
     </item>
     <item>
       <title>AI Travel Agent for Stay and Itinerary Planning</title>

@@ -10,12 +10,10 @@
     <atom:link href="https://dibyendupm.com/tags/aiagent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Simple Analytics Agent with MotherDuck &#43; OpenAI Agents SDK</title>
-      <link>https://dibyendupm.com/tech-for-pm/simple-analytics-agent-motherduck-openai-agents-sdk/</link>
+      <link>https://dibyendupm.com/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/tech-for-pm/simple-analytics-agent-motherduck-openai-agents-sdk/</guid>
-      <description>&lt;p&gt;&lt;em&gt;The quickest and cleanest possible way&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Many teams today want to let non-technical users query data using plain English instead of writing SQL or dashboards. I have been playing around with multiple frameworks and techniques to achieve this, and finally I landed upon open ai agenst sdk + motherduck data warehouse, this is the quickest, cleanest, effective and at the same time thoroughly customizable way I could find.&lt;/p&gt;
-&lt;p&gt;Combining MotherDuck’s data-warehousing power with agents that can generate and run SQL makes that possible. In this post I walk you through a minimal end-to-end example — how to wire up a simple agent that queries a database on MotherDuck.&lt;/p&gt;</description>
+      <guid>https://dibyendupm.com/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</guid>
+      <description>Building a Simple Analytics Agent with MotherDuck + OpenAI Agents SDK</description>
     </item>
   </channel>
 </rss>
