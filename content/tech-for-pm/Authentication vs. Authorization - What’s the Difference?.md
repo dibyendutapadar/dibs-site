@@ -21,7 +21,7 @@ categories:
   - Tech for PM
   - Tech Basics
 slug: authentication-vs-authorization-whats-the-difference?
-weight: 1
+weight: 3
 cover:
   image: /img/authentication.png
   alt: alt

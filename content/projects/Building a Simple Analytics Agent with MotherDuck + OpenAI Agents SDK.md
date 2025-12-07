@@ -1,7 +1,7 @@
 ---
 title: Building a Simple Analytics Agent with MotherDuck + OpenAI Agents SDK
 date: 2025-12-01
-summary: 
+summary: Building a Simple Analytics Agent with MotherDuck + OpenAI Agents SDK
 tags:
   - AI
   - openai
@@ -21,7 +21,7 @@ categories:
   - Tech for PM
   - AI Agents
 slug: simple-analytics-agent-motherduck-openai-agents-sdk
-weight: 5
+weight: 2
 cover:
   image: /img/motherduck_openai_agents.png
   alt: simple-analytics-agent-motherduck-openai-agents-sdk
