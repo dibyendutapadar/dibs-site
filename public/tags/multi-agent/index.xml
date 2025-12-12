@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Multi-Agent on Dibyendu Tapadar</title>
-    <link>http://localhost:52022/tags/multi-agent/</link>
+    <link>https://dibyendupm.com/tags/multi-agent/</link>
     <description>Recent content in Multi-Agent on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52022/tags/multi-agent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dibyendupm.com/tags/multi-agent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Built a Writing Agent using Google ADK to Match My Writing Style</title>
-      <link>http://localhost:52022/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</link>
+      <link>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</guid>
+      <guid>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</guid>
       <description>Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style</description>
     </item>
   </channel>

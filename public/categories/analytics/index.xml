@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Analytics on Dibyendu Tapadar</title>
-    <link>http://localhost:52022/categories/analytics/</link>
+    <link>https://dibyendupm.com/categories/analytics/</link>
     <description>Recent content in Analytics on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:52022/categories/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dibyendupm.com/categories/analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Time Series Forecasting App</title>
-      <link>http://localhost:52022/projects/time-series-forecasting-app/</link>
+      <link>https://dibyendupm.com/projects/time-series-forecasting-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/projects/time-series-forecasting-app/</guid>
+      <guid>https://dibyendupm.com/projects/time-series-forecasting-app/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
   </channel>

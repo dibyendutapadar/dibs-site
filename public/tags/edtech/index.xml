@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>EdTech on Dibyendu Tapadar</title>
-    <link>http://localhost:52022/tags/edtech/</link>
+    <link>https://dibyendupm.com/tags/edtech/</link>
     <description>Recent content in EdTech on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:52022/tags/edtech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dibyendupm.com/tags/edtech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adaptive Learning without Question-Answer Dataset</title>
-      <link>http://localhost:52022/projects/adaptive-learning-without-question-answer-dataset/</link>
+      <link>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/projects/adaptive-learning-without-question-answer-dataset/</guid>
+      <guid>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>AssessEd - Bridging gap between the digital EdTech world and Offline Assessments.</title>
-      <link>http://localhost:52022/blog/byjus-assessed/</link>
+      <link>https://dibyendupm.com/blog/byjus-assessed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/blog/byjus-assessed/</guid>
+      <guid>https://dibyendupm.com/blog/byjus-assessed/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Khan Academy for Tutors</title>
-      <link>http://localhost:52022/blog/khan-for-tutors/</link>
+      <link>https://dibyendupm.com/blog/khan-for-tutors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/blog/khan-for-tutors/</guid>
+      <guid>https://dibyendupm.com/blog/khan-for-tutors/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Revolutionizing Education with Automated Assessment - A Journey in Innovation in Byjus</title>
-      <link>http://localhost:52022/blog/automated-assessments/</link>
+      <link>https://dibyendupm.com/blog/automated-assessments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/blog/automated-assessments/</guid>
+      <guid>https://dibyendupm.com/blog/automated-assessments/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
   </channel>

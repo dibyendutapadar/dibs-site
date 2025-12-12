@@ -2,311 +2,311 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Dibyendu Tapadar</title>
-    <link>http://localhost:52022/tags/</link>
+    <link>https://dibyendupm.com/tags/</link>
     <description>Recent content in Tags on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52022/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dibyendupm.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:52022/tags/ai/</link>
+      <link>https://dibyendupm.com/tags/ai/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/ai/</guid>
+      <guid>https://dibyendupm.com/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>DecisionTree</title>
-      <link>http://localhost:52022/tags/decisiontree/</link>
+      <link>https://dibyendupm.com/tags/decisiontree/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/decisiontree/</guid>
+      <guid>https://dibyendupm.com/tags/decisiontree/</guid>
       <description></description>
     </item>
     <item>
       <title>MachineLearning</title>
-      <link>http://localhost:52022/tags/machinelearning/</link>
+      <link>https://dibyendupm.com/tags/machinelearning/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/machinelearning/</guid>
+      <guid>https://dibyendupm.com/tags/machinelearning/</guid>
       <description></description>
     </item>
     <item>
       <title>Google-Adk</title>
-      <link>http://localhost:52022/tags/google-adk/</link>
+      <link>https://dibyendupm.com/tags/google-adk/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/google-adk/</guid>
+      <guid>https://dibyendupm.com/tags/google-adk/</guid>
       <description></description>
     </item>
     <item>
       <title>Multi-Agent</title>
-      <link>http://localhost:52022/tags/multi-agent/</link>
+      <link>https://dibyendupm.com/tags/multi-agent/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/multi-agent/</guid>
+      <guid>https://dibyendupm.com/tags/multi-agent/</guid>
       <description></description>
     </item>
     <item>
       <title>AIAgent</title>
-      <link>http://localhost:52022/tags/aiagent/</link>
+      <link>https://dibyendupm.com/tags/aiagent/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/aiagent/</guid>
+      <guid>https://dibyendupm.com/tags/aiagent/</guid>
       <description></description>
     </item>
     <item>
       <title>Openai</title>
-      <link>http://localhost:52022/tags/openai/</link>
+      <link>https://dibyendupm.com/tags/openai/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/openai/</guid>
+      <guid>https://dibyendupm.com/tags/openai/</guid>
       <description></description>
     </item>
     <item>
       <title>ProductManagement</title>
-      <link>http://localhost:52022/tags/productmanagement/</link>
+      <link>https://dibyendupm.com/tags/productmanagement/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/productmanagement/</guid>
+      <guid>https://dibyendupm.com/tags/productmanagement/</guid>
       <description></description>
     </item>
     <item>
       <title>AutoTech</title>
-      <link>http://localhost:52022/tags/autotech/</link>
+      <link>https://dibyendupm.com/tags/autotech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/autotech/</guid>
+      <guid>https://dibyendupm.com/tags/autotech/</guid>
       <description></description>
     </item>
     <item>
       <title>BingMaps</title>
-      <link>http://localhost:52022/tags/bingmaps/</link>
+      <link>https://dibyendupm.com/tags/bingmaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/bingmaps/</guid>
+      <guid>https://dibyendupm.com/tags/bingmaps/</guid>
       <description></description>
     </item>
     <item>
       <title>Chatbot</title>
-      <link>http://localhost:52022/tags/chatbot/</link>
+      <link>https://dibyendupm.com/tags/chatbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/chatbot/</guid>
+      <guid>https://dibyendupm.com/tags/chatbot/</guid>
       <description></description>
     </item>
     <item>
       <title>CrewAI</title>
-      <link>http://localhost:52022/tags/crewai/</link>
+      <link>https://dibyendupm.com/tags/crewai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/crewai/</guid>
+      <guid>https://dibyendupm.com/tags/crewai/</guid>
       <description></description>
     </item>
     <item>
       <title>CustomGPT</title>
-      <link>http://localhost:52022/tags/customgpt/</link>
+      <link>https://dibyendupm.com/tags/customgpt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/customgpt/</guid>
+      <guid>https://dibyendupm.com/tags/customgpt/</guid>
       <description></description>
     </item>
     <item>
       <title>EdTech</title>
-      <link>http://localhost:52022/tags/edtech/</link>
+      <link>https://dibyendupm.com/tags/edtech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/edtech/</guid>
+      <guid>https://dibyendupm.com/tags/edtech/</guid>
       <description></description>
     </item>
     <item>
       <title>Forecasting</title>
-      <link>http://localhost:52022/tags/forecasting/</link>
+      <link>https://dibyendupm.com/tags/forecasting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/forecasting/</guid>
+      <guid>https://dibyendupm.com/tags/forecasting/</guid>
       <description></description>
     </item>
     <item>
       <title>GenAI</title>
-      <link>http://localhost:52022/tags/genai/</link>
+      <link>https://dibyendupm.com/tags/genai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/genai/</guid>
+      <guid>https://dibyendupm.com/tags/genai/</guid>
       <description></description>
     </item>
     <item>
       <title>Groq</title>
-      <link>http://localhost:52022/tags/groq/</link>
+      <link>https://dibyendupm.com/tags/groq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/groq/</guid>
+      <guid>https://dibyendupm.com/tags/groq/</guid>
       <description></description>
     </item>
     <item>
       <title>Holt-Winters</title>
-      <link>http://localhost:52022/tags/holt-winters/</link>
+      <link>https://dibyendupm.com/tags/holt-winters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/holt-winters/</guid>
+      <guid>https://dibyendupm.com/tags/holt-winters/</guid>
       <description></description>
     </item>
     <item>
       <title>ImageAnalysis</title>
-      <link>http://localhost:52022/tags/imageanalysis/</link>
+      <link>https://dibyendupm.com/tags/imageanalysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/imageanalysis/</guid>
+      <guid>https://dibyendupm.com/tags/imageanalysis/</guid>
       <description></description>
     </item>
     <item>
       <title>LangChain</title>
-      <link>http://localhost:52022/tags/langchain/</link>
+      <link>https://dibyendupm.com/tags/langchain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/langchain/</guid>
+      <guid>https://dibyendupm.com/tags/langchain/</guid>
       <description></description>
     </item>
     <item>
       <title>LLaMA</title>
-      <link>http://localhost:52022/tags/llama/</link>
+      <link>https://dibyendupm.com/tags/llama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/llama/</guid>
+      <guid>https://dibyendupm.com/tags/llama/</guid>
       <description></description>
     </item>
     <item>
       <title>LlamaIndex</title>
-      <link>http://localhost:52022/tags/llamaindex/</link>
+      <link>https://dibyendupm.com/tags/llamaindex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/llamaindex/</guid>
+      <guid>https://dibyendupm.com/tags/llamaindex/</guid>
       <description></description>
     </item>
     <item>
       <title>LLaVA</title>
-      <link>http://localhost:52022/tags/llava/</link>
+      <link>https://dibyendupm.com/tags/llava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/llava/</guid>
+      <guid>https://dibyendupm.com/tags/llava/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>http://localhost:52022/tags/llm/</link>
+      <link>https://dibyendupm.com/tags/llm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/llm/</guid>
+      <guid>https://dibyendupm.com/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Logistics</title>
-      <link>http://localhost:52022/tags/logistics/</link>
+      <link>https://dibyendupm.com/tags/logistics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/logistics/</guid>
+      <guid>https://dibyendupm.com/tags/logistics/</guid>
       <description></description>
     </item>
     <item>
       <title>Maps</title>
-      <link>http://localhost:52022/tags/maps/</link>
+      <link>https://dibyendupm.com/tags/maps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/maps/</guid>
+      <guid>https://dibyendupm.com/tags/maps/</guid>
       <description></description>
     </item>
     <item>
       <title>MultiModal</title>
-      <link>http://localhost:52022/tags/multimodal/</link>
+      <link>https://dibyendupm.com/tags/multimodal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/multimodal/</guid>
+      <guid>https://dibyendupm.com/tags/multimodal/</guid>
       <description></description>
     </item>
     <item>
       <title>Ollama</title>
-      <link>http://localhost:52022/tags/ollama/</link>
+      <link>https://dibyendupm.com/tags/ollama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/ollama/</guid>
+      <guid>https://dibyendupm.com/tags/ollama/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
-      <link>http://localhost:52022/tags/optimization/</link>
+      <link>https://dibyendupm.com/tags/optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/optimization/</guid>
+      <guid>https://dibyendupm.com/tags/optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>OR-Tools</title>
-      <link>http://localhost:52022/tags/or-tools/</link>
+      <link>https://dibyendupm.com/tags/or-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/or-tools/</guid>
+      <guid>https://dibyendupm.com/tags/or-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>OTA</title>
-      <link>http://localhost:52022/tags/ota/</link>
+      <link>https://dibyendupm.com/tags/ota/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/ota/</guid>
+      <guid>https://dibyendupm.com/tags/ota/</guid>
       <description></description>
     </item>
     <item>
       <title>PromptEngineering</title>
-      <link>http://localhost:52022/tags/promptengineering/</link>
+      <link>https://dibyendupm.com/tags/promptengineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/promptengineering/</guid>
+      <guid>https://dibyendupm.com/tags/promptengineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:52022/tags/python/</link>
+      <link>https://dibyendupm.com/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/python/</guid>
+      <guid>https://dibyendupm.com/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>RAG</title>
-      <link>http://localhost:52022/tags/rag/</link>
+      <link>https://dibyendupm.com/tags/rag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/rag/</guid>
+      <guid>https://dibyendupm.com/tags/rag/</guid>
       <description></description>
     </item>
     <item>
       <title>RetailTech</title>
-      <link>http://localhost:52022/tags/retailtech/</link>
+      <link>https://dibyendupm.com/tags/retailtech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/retailtech/</guid>
+      <guid>https://dibyendupm.com/tags/retailtech/</guid>
       <description></description>
     </item>
     <item>
       <title>SARIMAX</title>
-      <link>http://localhost:52022/tags/sarimax/</link>
+      <link>https://dibyendupm.com/tags/sarimax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/sarimax/</guid>
+      <guid>https://dibyendupm.com/tags/sarimax/</guid>
       <description></description>
     </item>
     <item>
       <title>SmartCity</title>
-      <link>http://localhost:52022/tags/smartcity/</link>
+      <link>https://dibyendupm.com/tags/smartcity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/smartcity/</guid>
+      <guid>https://dibyendupm.com/tags/smartcity/</guid>
       <description></description>
     </item>
     <item>
       <title>Streamlit</title>
-      <link>http://localhost:52022/tags/streamlit/</link>
+      <link>https://dibyendupm.com/tags/streamlit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/streamlit/</guid>
+      <guid>https://dibyendupm.com/tags/streamlit/</guid>
       <description></description>
     </item>
     <item>
       <title>SupplyChain</title>
-      <link>http://localhost:52022/tags/supplychain/</link>
+      <link>https://dibyendupm.com/tags/supplychain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/supplychain/</guid>
+      <guid>https://dibyendupm.com/tags/supplychain/</guid>
       <description></description>
     </item>
     <item>
       <title>TimeSeries</title>
-      <link>http://localhost:52022/tags/timeseries/</link>
+      <link>https://dibyendupm.com/tags/timeseries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/timeseries/</guid>
+      <guid>https://dibyendupm.com/tags/timeseries/</guid>
       <description></description>
     </item>
     <item>
       <title>TrafficSignal</title>
-      <link>http://localhost:52022/tags/trafficsignal/</link>
+      <link>https://dibyendupm.com/tags/trafficsignal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/trafficsignal/</guid>
+      <guid>https://dibyendupm.com/tags/trafficsignal/</guid>
       <description></description>
     </item>
     <item>
       <title>TravelTech</title>
-      <link>http://localhost:52022/tags/traveltech/</link>
+      <link>https://dibyendupm.com/tags/traveltech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/traveltech/</guid>
+      <guid>https://dibyendupm.com/tags/traveltech/</guid>
       <description></description>
     </item>
     <item>
       <title>VRP</title>
-      <link>http://localhost:52022/tags/vrp/</link>
+      <link>https://dibyendupm.com/tags/vrp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tags/vrp/</guid>
+      <guid>https://dibyendupm.com/tags/vrp/</guid>
       <description></description>
     </item>
   </channel>

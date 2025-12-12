@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Dibyendu Tapadar</title>
-    <link>http://localhost:52022/categories/</link>
+    <link>https://dibyendupm.com/categories/</link>
     <description>Recent content in Categories on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52022/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dibyendupm.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI PM</title>
-      <link>http://localhost:52022/categories/ai-pm/</link>
+      <link>https://dibyendupm.com/categories/ai-pm/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/ai-pm/</guid>
+      <guid>https://dibyendupm.com/categories/ai-pm/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech for PM</title>
-      <link>http://localhost:52022/categories/tech-for-pm/</link>
+      <link>https://dibyendupm.com/categories/tech-for-pm/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/tech-for-pm/</guid>
+      <guid>https://dibyendupm.com/categories/tech-for-pm/</guid>
       <description></description>
     </item>
     <item>
       <title>AI Agents</title>
-      <link>http://localhost:52022/categories/ai-agents/</link>
+      <link>https://dibyendupm.com/categories/ai-agents/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/ai-agents/</guid>
+      <guid>https://dibyendupm.com/categories/ai-agents/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech Basics</title>
-      <link>http://localhost:52022/categories/tech-basics/</link>
+      <link>https://dibyendupm.com/categories/tech-basics/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/tech-basics/</guid>
+      <guid>https://dibyendupm.com/categories/tech-basics/</guid>
       <description></description>
     </item>
     <item>
       <title>Product Strategy</title>
-      <link>http://localhost:52022/categories/product-strategy/</link>
+      <link>https://dibyendupm.com/categories/product-strategy/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/product-strategy/</guid>
+      <guid>https://dibyendupm.com/categories/product-strategy/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:52022/categories/ai/</link>
+      <link>https://dibyendupm.com/categories/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/ai/</guid>
+      <guid>https://dibyendupm.com/categories/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Analytics</title>
-      <link>http://localhost:52022/categories/analytics/</link>
+      <link>https://dibyendupm.com/categories/analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/analytics/</guid>
+      <guid>https://dibyendupm.com/categories/analytics/</guid>
       <description></description>
     </item>
     <item>
       <title>AutoTech</title>
-      <link>http://localhost:52022/categories/autotech/</link>
+      <link>https://dibyendupm.com/categories/autotech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/autotech/</guid>
+      <guid>https://dibyendupm.com/categories/autotech/</guid>
       <description></description>
     </item>
     <item>
       <title>EdTech</title>
-      <link>http://localhost:52022/categories/edtech/</link>
+      <link>https://dibyendupm.com/categories/edtech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/edtech/</guid>
+      <guid>https://dibyendupm.com/categories/edtech/</guid>
       <description></description>
     </item>
     <item>
       <title>Optimization</title>
-      <link>http://localhost:52022/categories/optimization/</link>
+      <link>https://dibyendupm.com/categories/optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/optimization/</guid>
+      <guid>https://dibyendupm.com/categories/optimization/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:52022/categories/projects/</link>
+      <link>https://dibyendupm.com/categories/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/projects/</guid>
+      <guid>https://dibyendupm.com/categories/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Retail</title>
-      <link>http://localhost:52022/categories/retail/</link>
+      <link>https://dibyendupm.com/categories/retail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/retail/</guid>
+      <guid>https://dibyendupm.com/categories/retail/</guid>
       <description></description>
     </item>
     <item>
       <title>SmartCity</title>
-      <link>http://localhost:52022/categories/smartcity/</link>
+      <link>https://dibyendupm.com/categories/smartcity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/categories/smartcity/</guid>
+      <guid>https://dibyendupm.com/categories/smartcity/</guid>
       <description></description>
     </item>
   </channel>
