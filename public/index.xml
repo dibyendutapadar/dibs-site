@@ -2,81 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dibyendu Tapadar</title>
-    <link>https://dibyendupm.com/</link>
+    <link>http://localhost:52022/</link>
     <description>Recent content on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dibyendupm.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:52022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Decision Tree Works</title>
+      <link>http://localhost:52022/tech-for-pm/how-decision-tree-works/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:52022/tech-for-pm/how-decision-tree-works/</guid>
+      <description>How Decision tree Works</description>
+    </item>
     <item>
       <title>How I Built a Writing Agent using Google ADK to Match My Writing Style</title>
-      <link>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</link>
+      <link>http://localhost:52022/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</guid>
+      <guid>http://localhost:52022/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</guid>
       <description>Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style</description>
     </item>
     <item>
       <title>How AI Re-Engineered Product Management</title>
-      <link>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</link>
+      <link>http://localhost:52022/art-of-pm/how-ai-re-engineered-product-management/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</guid>
+      <guid>http://localhost:52022/art-of-pm/how-ai-re-engineered-product-management/</guid>
       <description>&lt;p&gt;Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind.  Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn&amp;rsquo;t just a trend; it&amp;rsquo;s a fundamental shift that&amp;rsquo;s re-engineering what it means to be a PM, all thanks to AI&amp;rsquo;s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Types of problems where ML can be applied</title>
-      <link>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</link>
+      <link>http://localhost:52022/tech-for-pm/types-of-problems-where-ml-can-be-applied/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</guid>
+      <guid>http://localhost:52022/tech-for-pm/types-of-problems-where-ml-can-be-applied/</guid>
       <description>&lt;p&gt;Ever wonder how your email app just  &lt;em&gt;knows&lt;/em&gt;  what spam is? Or how Netflix uncannily suggests the exact B-movie you were secretly in the mood for? The answer is Machine Learning (ML).&lt;/p&gt;
 &lt;p&gt;Before ML, software was a bit of a bureaucrat. You had to write explicit, rigid  &lt;code&gt;if-this-then-that&lt;/code&gt;  rules for every single possibility. This works fine until the real world, in all its messy glory, shows up. ML flips the script. Instead of feeding a machine rules, you feed it  &lt;em&gt;examples&lt;/em&gt;. The machine&amp;rsquo;s job is to look at thousands or millions of examples and figure out the patterns on its own.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lessons in Product Management from Game of Thrones</title>
-      <link>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</link>
+      <link>http://localhost:52022/art-of-pm/lessons-in-product-management-from-game-of-thrones/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</guid>
+      <guid>http://localhost:52022/art-of-pm/lessons-in-product-management-from-game-of-thrones/</guid>
       <description>&lt;p&gt;If Westeros taught us anything beyond political murder and dragons, it’s that strategy, storytelling, and ruthless clarity matter, especially when you’re shipping products instead of heirs.
 Lets check some direct, and maybe sometimes uncomfortable mappings from the iconic &lt;em&gt;Game of Thrones&lt;/em&gt; lines to what a product manager actually does and shouldn’t do.&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;h2 id=&#34;chaos-is-a-ladder---petyr-littlefinger-baelish&#34;&gt;“Chaos is a ladder.” - Petyr ‘Littlefinger’ Baelish&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://dibyendupm.com/img/chaos-is-a-ladder.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:52022/img/chaos-is-a-ladder.png&#34;&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;GOT context:&lt;/strong&gt; Littlefinger watches disorder and uses it as opportunity to climb.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Evolution of Product Management</title>
-      <link>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</link>
+      <link>http://localhost:52022/art-of-pm/the-evolution-of-product-management/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</guid>
+      <guid>http://localhost:52022/art-of-pm/the-evolution-of-product-management/</guid>
       <description>The Evolution of Product Management - A Brief History and How the Future Looks Like</description>
     </item>
     <item>
       <title>AI-Powered Email Processing System for a Fashion Retailer</title>
-      <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
+      <link>http://localhost:52022/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
+      <guid>http://localhost:52022/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Chat with Local Documents</title>
-      <link>https://dibyendupm.com/projects/chat-with-local-documents/</link>
+      <link>http://localhost:52022/projects/chat-with-local-documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/chat-with-local-documents/</guid>
+      <guid>http://localhost:52022/projects/chat-with-local-documents/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Building a Simple Analytics Agent with MotherDuck &#43; OpenAI Agents SDK</title>
-      <link>https://dibyendupm.com/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</link>
+      <link>http://localhost:52022/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</guid>
+      <guid>http://localhost:52022/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</guid>
       <description>Building a Simple Analytics Agent with MotherDuck + OpenAI Agents SDK</description>
     </item>
     <item>
       <title>An Intuition for Machine Learning</title>
-      <link>https://dibyendupm.com/tech-for-pm/an-intuition-for-machine-learning/</link>
+      <link>http://localhost:52022/tech-for-pm/an-intuition-for-machine-learning/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/tech-for-pm/an-intuition-for-machine-learning/</guid>
+      <guid>http://localhost:52022/tech-for-pm/an-intuition-for-machine-learning/</guid>
       <description>&lt;h3 id=&#34;part-1-of-ai-aint-magic-its-math&#34;&gt;Part 1 of &amp;ldquo;AI ain&amp;rsquo;t Magic, It&amp;rsquo;s Math&amp;rdquo;&lt;/h3&gt;
 &lt;p&gt;Before AI became what it is today, machines behaved like bureaucrats: they only did what you explicitly told them to do.
 Software was ==Rules Based==.
@@ -88,51 +95,51 @@ Then hard code it&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brief History of AI</title>
-      <link>https://dibyendupm.com/tech-for-pm/brief-history-of-ai/</link>
+      <link>http://localhost:52022/tech-for-pm/brief-history-of-ai/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/tech-for-pm/brief-history-of-ai/</guid>
+      <guid>http://localhost:52022/tech-for-pm/brief-history-of-ai/</guid>
       <description>&lt;p&gt;..coming soon&lt;/p&gt;</description>
     </item>
     <item>
       <title>Do you have a Product Strategy?</title>
-      <link>https://dibyendupm.com/art-of-pm/do-you-have-a-product-strategy/</link>
+      <link>http://localhost:52022/art-of-pm/do-you-have-a-product-strategy/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/do-you-have-a-product-strategy/</guid>
+      <guid>http://localhost:52022/art-of-pm/do-you-have-a-product-strategy/</guid>
       <description>An intuitive take on what Product strategy is. How strategy it is one of the most misunderstood and miscommunicated word.</description>
     </item>
     <item>
       <title>IMPACT, OUTCOME, OUTPUT - A use case</title>
-      <link>https://dibyendupm.com/art-of-pm/impact-outcome-output/</link>
+      <link>http://localhost:52022/art-of-pm/impact-outcome-output/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/impact-outcome-output/</guid>
+      <guid>http://localhost:52022/art-of-pm/impact-outcome-output/</guid>
       <description>A Use case based explanation and deep dive on what are impact, outcome, output in product management. Where they overlap, where they interrelate and how they are fundamentally different.</description>
     </item>
     <item>
       <title>Is Product Management a BS job?</title>
-      <link>https://dibyendupm.com/art-of-pm/is-product-management-bs-job/</link>
+      <link>http://localhost:52022/art-of-pm/is-product-management-bs-job/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/is-product-management-bs-job/</guid>
+      <guid>http://localhost:52022/art-of-pm/is-product-management-bs-job/</guid>
       <description>Why Product Management Might be a BS Job</description>
     </item>
     <item>
       <title>AI Travel Agent for Stay and Itinerary Planning</title>
-      <link>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</link>
+      <link>http://localhost:52022/projects/ai-travel-agent-for-stay-and-itinerary-planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</guid>
+      <guid>http://localhost:52022/projects/ai-travel-agent-for-stay-and-itinerary-planning/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Interview Simulator</title>
-      <link>https://dibyendupm.com/projects/product-manager-interview-simulator/</link>
+      <link>http://localhost:52022/projects/product-manager-interview-simulator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/product-manager-interview-simulator/</guid>
+      <guid>http://localhost:52022/projects/product-manager-interview-simulator/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Authentication vs. Authorization - What’s the Difference?</title>
-      <link>https://dibyendupm.com/tech-for-pm/authentication-vs-authorization-whats-the-difference/</link>
+      <link>http://localhost:52022/tech-for-pm/authentication-vs-authorization-whats-the-difference/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/tech-for-pm/authentication-vs-authorization-whats-the-difference/</guid>
+      <guid>http://localhost:52022/tech-for-pm/authentication-vs-authorization-whats-the-difference/</guid>
       <description>&lt;p&gt;You hear these two words thrown around all the time, and they’re almost always used together. But here’s the thing: they do two completely different jobs. Getting them right is the foundation of all digital security.&lt;/p&gt;
 &lt;p&gt;So what&amp;rsquo;s the deal, exactly?&lt;/p&gt;
 &lt;ul&gt;
@@ -144,87 +151,87 @@ Then hard code it&lt;/p&gt;</description>
     </item>
     <item>
       <title>A PM always pays his (Tech) Debt</title>
-      <link>https://dibyendupm.com/art-of-pm/a-pm-always-pays-his-tech-debt/</link>
+      <link>http://localhost:52022/art-of-pm/a-pm-always-pays-his-tech-debt/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/a-pm-always-pays-his-tech-debt/</guid>
+      <guid>http://localhost:52022/art-of-pm/a-pm-always-pays-his-tech-debt/</guid>
       <description>&lt;h2 id=&#34;some-intro&#34;&gt;Some Intro&lt;/h2&gt;
 &lt;p&gt;Think of it this way. You started working and earning in your early twenties. You were basking in the glory of the newfound financial freedom. You wanted more, and hence you toiled, you learned the industry, learned about business and consumers, and slowly you moved up the ladder, earning more and more. But there was something that kept building up - Taxes and EMIs, responsibilities, deteriorating health and relationships, creeping up depressions and anxieties. You didn’t pay much attention to it earlier and didn’t invest properly (in health, wealth and relationships). Now they have started hurting you. Though the ==influx of wealth has grown, you are not able to enjoy it like you used to do. You want to go out and party, roam the world, and live carefree like you used to do, but things keeps pulling you back.==&lt;/p&gt;</description>
     </item>
     <item>
       <title>Image Analysis with LLaVA and LLaMA</title>
-      <link>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</link>
+      <link>http://localhost:52022/projects/image-analysis-with-llava-and-llama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</guid>
+      <guid>http://localhost:52022/projects/image-analysis-with-llava-and-llama/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Adaptive Learning without Question-Answer Dataset</title>
-      <link>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</link>
+      <link>http://localhost:52022/projects/adaptive-learning-without-question-answer-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</guid>
+      <guid>http://localhost:52022/projects/adaptive-learning-without-question-answer-dataset/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>AssessEd - Bridging gap between the digital EdTech world and Offline Assessments.</title>
-      <link>https://dibyendupm.com/blog/byjus-assessed/</link>
+      <link>http://localhost:52022/blog/byjus-assessed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/blog/byjus-assessed/</guid>
+      <guid>http://localhost:52022/blog/byjus-assessed/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>DearO - the simplest and smartest Automobile Workshop Management system</title>
-      <link>https://dibyendupm.com/blog/dearo-wms/</link>
+      <link>http://localhost:52022/blog/dearo-wms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/blog/dearo-wms/</guid>
+      <guid>http://localhost:52022/blog/dearo-wms/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Khan Academy for Tutors</title>
-      <link>https://dibyendupm.com/blog/khan-for-tutors/</link>
+      <link>http://localhost:52022/blog/khan-for-tutors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/blog/khan-for-tutors/</guid>
+      <guid>http://localhost:52022/blog/khan-for-tutors/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Revolutionizing Education with Automated Assessment - A Journey in Innovation in Byjus</title>
-      <link>https://dibyendupm.com/blog/automated-assessments/</link>
+      <link>http://localhost:52022/blog/automated-assessments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/blog/automated-assessments/</guid>
+      <guid>http://localhost:52022/blog/automated-assessments/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>4 Books Every Product Manager Should Read (Even If You Hate Reading Books)</title>
-      <link>https://dibyendupm.com/art-of-pm/4-books-every-product-manager-should-read/</link>
+      <link>http://localhost:52022/art-of-pm/4-books-every-product-manager-should-read/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/4-books-every-product-manager-should-read/</guid>
+      <guid>http://localhost:52022/art-of-pm/4-books-every-product-manager-should-read/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s be honest. As a product manager, your to-do list is already miles long, and finding time to read books might seem like a luxury you can&amp;rsquo;t afford. I get it. I&amp;rsquo;ve been there too. But before you dismiss the idea completely, let me share four books that have managed to change my perspective on product management and books in general. These aren&amp;rsquo;t your typical run-of-the-mill, generic recommendations at the CEO or founder level like &amp;ldquo;Lean Product&amp;rdquo;, &amp;ldquo;Hooked&amp;rdquo;, &amp;ldquo;Launch&amp;rdquo; or &amp;ldquo;Ship it&amp;rdquo;, No. these four books provide the kind of food for thought and actionable ideas that you can start thinking about, experimenting with, and implementing right away, regardless of the stage you are currently in your product management career.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Time Series Forecasting App</title>
-      <link>https://dibyendupm.com/projects/time-series-forecasting-app/</link>
+      <link>http://localhost:52022/projects/time-series-forecasting-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/time-series-forecasting-app/</guid>
+      <guid>http://localhost:52022/projects/time-series-forecasting-app/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>LLM-Driven Hotel Booking Chatbot</title>
-      <link>https://dibyendupm.com/projects/llm-driven-hotel-booking-chatbot/</link>
+      <link>http://localhost:52022/projects/llm-driven-hotel-booking-chatbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/llm-driven-hotel-booking-chatbot/</guid>
+      <guid>http://localhost:52022/projects/llm-driven-hotel-booking-chatbot/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Automated Traffic Signal Duration Simulator</title>
-      <link>https://dibyendupm.com/projects/automated-traffic-signal-duration-simulator/</link>
+      <link>http://localhost:52022/projects/automated-traffic-signal-duration-simulator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/automated-traffic-signal-duration-simulator/</guid>
+      <guid>http://localhost:52022/projects/automated-traffic-signal-duration-simulator/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Delivery Route Optimization</title>
-      <link>https://dibyendupm.com/projects/delivery-route-optimization/</link>
+      <link>http://localhost:52022/projects/delivery-route-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/delivery-route-optimization/</guid>
+      <guid>http://localhost:52022/projects/delivery-route-optimization/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
   </channel>

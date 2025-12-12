@@ -2,407 +2,422 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</loc>
+    <loc>http://localhost:52022/tech-for-pm/how-decision-tree-works/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:52022/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</loc>
+    <loc>http://localhost:52022/art-of-pm/how-ai-re-engineered-product-management/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</loc>
+    <loc>http://localhost:52022/tech-for-pm/types-of-problems-where-ml-can-be-applied/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</loc>
+    <loc>http://localhost:52022/art-of-pm/lessons-in-product-management-from-game-of-thrones/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</loc>
+    <loc>http://localhost:52022/art-of-pm/the-evolution-of-product-management/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</loc>
+    <loc>http://localhost:52022/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/chat-with-local-documents/</loc>
+    <loc>http://localhost:52022/projects/chat-with-local-documents/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</loc>
+    <loc>http://localhost:52022/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tech-for-pm/an-intuition-for-machine-learning/</loc>
+    <loc>http://localhost:52022/tech-for-pm/an-intuition-for-machine-learning/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tech-for-pm/brief-history-of-ai/</loc>
+    <loc>http://localhost:52022/tech-for-pm/brief-history-of-ai/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/do-you-have-a-product-strategy/</loc>
+    <loc>http://localhost:52022/art-of-pm/do-you-have-a-product-strategy/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/impact-outcome-output/</loc>
+    <loc>http://localhost:52022/art-of-pm/impact-outcome-output/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/is-product-management-bs-job/</loc>
+    <loc>http://localhost:52022/art-of-pm/is-product-management-bs-job/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</loc>
+    <loc>http://localhost:52022/projects/ai-travel-agent-for-stay-and-itinerary-planning/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/product-manager-interview-simulator/</loc>
+    <loc>http://localhost:52022/projects/product-manager-interview-simulator/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tech-for-pm/authentication-vs-authorization-whats-the-difference/</loc>
+    <loc>http://localhost:52022/tech-for-pm/authentication-vs-authorization-whats-the-difference/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/a-pm-always-pays-his-tech-debt/</loc>
+    <loc>http://localhost:52022/art-of-pm/a-pm-always-pays-his-tech-debt/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</loc>
+    <loc>http://localhost:52022/projects/image-analysis-with-llava-and-llama/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</loc>
+    <loc>http://localhost:52022/projects/adaptive-learning-without-question-answer-dataset/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/blog/byjus-assessed/</loc>
+    <loc>http://localhost:52022/blog/byjus-assessed/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/blog/dearo-wms/</loc>
+    <loc>http://localhost:52022/blog/dearo-wms/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/blog/khan-for-tutors/</loc>
+    <loc>http://localhost:52022/blog/khan-for-tutors/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/blog/automated-assessments/</loc>
+    <loc>http://localhost:52022/blog/automated-assessments/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/4-books-every-product-manager-should-read/</loc>
+    <loc>http://localhost:52022/art-of-pm/4-books-every-product-manager-should-read/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/time-series-forecasting-app/</loc>
+    <loc>http://localhost:52022/projects/time-series-forecasting-app/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/llm-driven-hotel-booking-chatbot/</loc>
+    <loc>http://localhost:52022/projects/llm-driven-hotel-booking-chatbot/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/automated-traffic-signal-duration-simulator/</loc>
+    <loc>http://localhost:52022/projects/automated-traffic-signal-duration-simulator/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/delivery-route-optimization/</loc>
+    <loc>http://localhost:52022/projects/delivery-route-optimization/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/ai/</loc>
+    <loc>http://localhost:52022/tags/ai/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:52022/categories/ai-pm/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:52022/categories/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:52022/tags/decisiontree/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:52022/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:52022/tags/machinelearning/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:52022/tags/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:52022/categories/tech-for-pm/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:52022/tech-for-pm/</loc>
+    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:52022/categories/ai-agents/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/ai-agents/</loc>
+    <loc>http://localhost:52022/tags/google-adk/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/</loc>
+    <loc>http://localhost:52022/tags/multi-agent/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/</loc>
+    <loc>http://localhost:52022/projects/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/google-adk/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/tags/multi-agent/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/projects/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/tags/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/categories/ai-pm/</loc>
+    <loc>http://localhost:52022/art-of-pm/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/</loc>
+    <loc>http://localhost:52022/categories/tech-basics/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/tech-basics/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/categories/tech-for-pm/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/tech-for-pm/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/tags/aiagent/</loc>
+    <loc>http://localhost:52022/tags/aiagent/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/openai/</loc>
+    <loc>http://localhost:52022/tags/openai/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/product-strategy/</loc>
+    <loc>http://localhost:52022/categories/product-strategy/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/productmanagement/</loc>
+    <loc>http://localhost:52022/tags/productmanagement/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/work/</loc>
+    <loc>http://localhost:52022/work/</loc>
     <lastmod>2025-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/ai/</loc>
+    <loc>http://localhost:52022/categories/ai/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/analytics/</loc>
+    <loc>http://localhost:52022/categories/analytics/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/autotech/</loc>
+    <loc>http://localhost:52022/categories/autotech/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/autotech/</loc>
+    <loc>http://localhost:52022/tags/autotech/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/bingmaps/</loc>
+    <loc>http://localhost:52022/tags/bingmaps/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/chatbot/</loc>
+    <loc>http://localhost:52022/tags/chatbot/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/contact/</loc>
+    <loc>http://localhost:52022/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/crewai/</loc>
+    <loc>http://localhost:52022/tags/crewai/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/customgpt/</loc>
+    <loc>http://localhost:52022/tags/customgpt/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/edtech/</loc>
+    <loc>http://localhost:52022/categories/edtech/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/edtech/</loc>
+    <loc>http://localhost:52022/tags/edtech/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/forecasting/</loc>
+    <loc>http://localhost:52022/tags/forecasting/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/genai/</loc>
+    <loc>http://localhost:52022/tags/genai/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/groq/</loc>
+    <loc>http://localhost:52022/tags/groq/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/holt-winters/</loc>
+    <loc>http://localhost:52022/tags/holt-winters/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/imageanalysis/</loc>
+    <loc>http://localhost:52022/tags/imageanalysis/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/langchain/</loc>
+    <loc>http://localhost:52022/tags/langchain/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/llama/</loc>
+    <loc>http://localhost:52022/tags/llama/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/llamaindex/</loc>
+    <loc>http://localhost:52022/tags/llamaindex/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/llava/</loc>
+    <loc>http://localhost:52022/tags/llava/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/llm/</loc>
+    <loc>http://localhost:52022/tags/llm/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/logistics/</loc>
+    <loc>http://localhost:52022/tags/logistics/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/maps/</loc>
+    <loc>http://localhost:52022/tags/maps/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/multimodal/</loc>
+    <loc>http://localhost:52022/tags/multimodal/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/ollama/</loc>
+    <loc>http://localhost:52022/tags/ollama/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/optimization/</loc>
+    <loc>http://localhost:52022/categories/optimization/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/optimization/</loc>
+    <loc>http://localhost:52022/tags/optimization/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/or-tools/</loc>
+    <loc>http://localhost:52022/tags/or-tools/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/ota/</loc>
+    <loc>http://localhost:52022/tags/ota/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/projects/</loc>
+    <loc>http://localhost:52022/categories/projects/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/promptengineering/</loc>
+    <loc>http://localhost:52022/tags/promptengineering/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/python/</loc>
+    <loc>http://localhost:52022/tags/python/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/rag/</loc>
+    <loc>http://localhost:52022/tags/rag/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/resume/</loc>
+    <loc>http://localhost:52022/resume/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/retail/</loc>
+    <loc>http://localhost:52022/categories/retail/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/retailtech/</loc>
+    <loc>http://localhost:52022/tags/retailtech/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/sarimax/</loc>
+    <loc>http://localhost:52022/tags/sarimax/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/search/</loc>
+    <loc>http://localhost:52022/search/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/smartcity/</loc>
+    <loc>http://localhost:52022/categories/smartcity/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/smartcity/</loc>
+    <loc>http://localhost:52022/tags/smartcity/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/streamlit/</loc>
+    <loc>http://localhost:52022/tags/streamlit/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/supplychain/</loc>
+    <loc>http://localhost:52022/tags/supplychain/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/timeseries/</loc>
+    <loc>http://localhost:52022/tags/timeseries/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/trafficsignal/</loc>
+    <loc>http://localhost:52022/tags/trafficsignal/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/traveltech/</loc>
+    <loc>http://localhost:52022/tags/traveltech/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/vrp/</loc>
+    <loc>http://localhost:52022/tags/vrp/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/blog/</loc>
+    <loc>http://localhost:52022/blog/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

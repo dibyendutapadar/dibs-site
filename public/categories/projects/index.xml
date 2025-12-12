@@ -2,107 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Dibyendu Tapadar</title>
-    <link>https://dibyendupm.com/categories/projects/</link>
+    <link>http://localhost:52022/categories/projects/</link>
     <description>Recent content in Projects on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="https://dibyendupm.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52022/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-Powered Email Processing System for a Fashion Retailer</title>
-      <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
+      <link>http://localhost:52022/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
+      <guid>http://localhost:52022/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Chat with Local Documents</title>
-      <link>https://dibyendupm.com/projects/chat-with-local-documents/</link>
+      <link>http://localhost:52022/projects/chat-with-local-documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/chat-with-local-documents/</guid>
+      <guid>http://localhost:52022/projects/chat-with-local-documents/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>AI Travel Agent for Stay and Itinerary Planning</title>
-      <link>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</link>
+      <link>http://localhost:52022/projects/ai-travel-agent-for-stay-and-itinerary-planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</guid>
+      <guid>http://localhost:52022/projects/ai-travel-agent-for-stay-and-itinerary-planning/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Interview Simulator</title>
-      <link>https://dibyendupm.com/projects/product-manager-interview-simulator/</link>
+      <link>http://localhost:52022/projects/product-manager-interview-simulator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/product-manager-interview-simulator/</guid>
+      <guid>http://localhost:52022/projects/product-manager-interview-simulator/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Image Analysis with LLaVA and LLaMA</title>
-      <link>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</link>
+      <link>http://localhost:52022/projects/image-analysis-with-llava-and-llama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</guid>
+      <guid>http://localhost:52022/projects/image-analysis-with-llava-and-llama/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Adaptive Learning without Question-Answer Dataset</title>
-      <link>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</link>
+      <link>http://localhost:52022/projects/adaptive-learning-without-question-answer-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</guid>
+      <guid>http://localhost:52022/projects/adaptive-learning-without-question-answer-dataset/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>AssessEd - Bridging gap between the digital EdTech world and Offline Assessments.</title>
-      <link>https://dibyendupm.com/blog/byjus-assessed/</link>
+      <link>http://localhost:52022/blog/byjus-assessed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/blog/byjus-assessed/</guid>
+      <guid>http://localhost:52022/blog/byjus-assessed/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>DearO - the simplest and smartest Automobile Workshop Management system</title>
-      <link>https://dibyendupm.com/blog/dearo-wms/</link>
+      <link>http://localhost:52022/blog/dearo-wms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/blog/dearo-wms/</guid>
+      <guid>http://localhost:52022/blog/dearo-wms/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Khan Academy for Tutors</title>
-      <link>https://dibyendupm.com/blog/khan-for-tutors/</link>
+      <link>http://localhost:52022/blog/khan-for-tutors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/blog/khan-for-tutors/</guid>
+      <guid>http://localhost:52022/blog/khan-for-tutors/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Revolutionizing Education with Automated Assessment - A Journey in Innovation in Byjus</title>
-      <link>https://dibyendupm.com/blog/automated-assessments/</link>
+      <link>http://localhost:52022/blog/automated-assessments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/blog/automated-assessments/</guid>
+      <guid>http://localhost:52022/blog/automated-assessments/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Time Series Forecasting App</title>
-      <link>https://dibyendupm.com/projects/time-series-forecasting-app/</link>
+      <link>http://localhost:52022/projects/time-series-forecasting-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/time-series-forecasting-app/</guid>
+      <guid>http://localhost:52022/projects/time-series-forecasting-app/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>LLM-Driven Hotel Booking Chatbot</title>
-      <link>https://dibyendupm.com/projects/llm-driven-hotel-booking-chatbot/</link>
+      <link>http://localhost:52022/projects/llm-driven-hotel-booking-chatbot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/llm-driven-hotel-booking-chatbot/</guid>
+      <guid>http://localhost:52022/projects/llm-driven-hotel-booking-chatbot/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Automated Traffic Signal Duration Simulator</title>
-      <link>https://dibyendupm.com/projects/automated-traffic-signal-duration-simulator/</link>
+      <link>http://localhost:52022/projects/automated-traffic-signal-duration-simulator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/automated-traffic-signal-duration-simulator/</guid>
+      <guid>http://localhost:52022/projects/automated-traffic-signal-duration-simulator/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Delivery Route Optimization</title>
-      <link>https://dibyendupm.com/projects/delivery-route-optimization/</link>
+      <link>http://localhost:52022/projects/delivery-route-optimization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/delivery-route-optimization/</guid>
+      <guid>http://localhost:52022/projects/delivery-route-optimization/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
   </channel>
