@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AIAgent on Dibyendu Tapadar</title>
-    <link>https://dibyendupm.com/tags/aiagent/</link>
+    <link>http://localhost:52022/tags/aiagent/</link>
     <description>Recent content in AIAgent on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dibyendupm.com/tags/aiagent/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52022/tags/aiagent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Simple Analytics Agent with MotherDuck &#43; OpenAI Agents SDK</title>
-      <link>https://dibyendupm.com/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</link>
+      <link>http://localhost:52022/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</guid>
+      <guid>http://localhost:52022/projects/simple-analytics-agent-motherduck-openai-agents-sdk/</guid>
       <description>Building a Simple Analytics Agent with MotherDuck + OpenAI Agents SDK</description>
     </item>
   </channel>
