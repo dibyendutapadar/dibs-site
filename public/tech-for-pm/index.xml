@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech for PMs on Dibyendu Tapadar</title>
-    <link>http://localhost:52022/tech-for-pm/</link>
+    <link>https://dibyendupm.com/tech-for-pm/</link>
     <description>Recent content in Tech for PMs on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52022/tech-for-pm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dibyendupm.com/tech-for-pm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Decision Tree Works</title>
-      <link>http://localhost:52022/tech-for-pm/how-decision-tree-works/</link>
+      <link>https://dibyendupm.com/tech-for-pm/how-decision-tree-works/</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tech-for-pm/how-decision-tree-works/</guid>
+      <guid>https://dibyendupm.com/tech-for-pm/how-decision-tree-works/</guid>
       <description>How Decision tree Works</description>
     </item>
     <item>
       <title>Types of problems where ML can be applied</title>
-      <link>http://localhost:52022/tech-for-pm/types-of-problems-where-ml-can-be-applied/</link>
+      <link>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tech-for-pm/types-of-problems-where-ml-can-be-applied/</guid>
+      <guid>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</guid>
       <description>&lt;p&gt;Ever wonder how your email app just  &lt;em&gt;knows&lt;/em&gt;  what spam is? Or how Netflix uncannily suggests the exact B-movie you were secretly in the mood for? The answer is Machine Learning (ML).&lt;/p&gt;
 &lt;p&gt;Before ML, software was a bit of a bureaucrat. You had to write explicit, rigid  &lt;code&gt;if-this-then-that&lt;/code&gt;  rules for every single possibility. This works fine until the real world, in all its messy glory, shows up. ML flips the script. Instead of feeding a machine rules, you feed it  &lt;em&gt;examples&lt;/em&gt;. The machine&amp;rsquo;s job is to look at thousands or millions of examples and figure out the patterns on its own.&lt;/p&gt;</description>
     </item>
     <item>
       <title>An Intuition for Machine Learning</title>
-      <link>http://localhost:52022/tech-for-pm/an-intuition-for-machine-learning/</link>
+      <link>https://dibyendupm.com/tech-for-pm/an-intuition-for-machine-learning/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tech-for-pm/an-intuition-for-machine-learning/</guid>
+      <guid>https://dibyendupm.com/tech-for-pm/an-intuition-for-machine-learning/</guid>
       <description>&lt;h3 id=&#34;part-1-of-ai-aint-magic-its-math&#34;&gt;Part 1 of &amp;ldquo;AI ain&amp;rsquo;t Magic, It&amp;rsquo;s Math&amp;rdquo;&lt;/h3&gt;
 &lt;p&gt;Before AI became what it is today, machines behaved like bureaucrats: they only did what you explicitly told them to do.
 Software was ==Rules Based==.
@@ -39,16 +39,16 @@ Then hard code it&lt;/p&gt;</description>
     </item>
     <item>
       <title>Brief History of AI</title>
-      <link>http://localhost:52022/tech-for-pm/brief-history-of-ai/</link>
+      <link>https://dibyendupm.com/tech-for-pm/brief-history-of-ai/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tech-for-pm/brief-history-of-ai/</guid>
+      <guid>https://dibyendupm.com/tech-for-pm/brief-history-of-ai/</guid>
       <description>&lt;p&gt;..coming soon&lt;/p&gt;</description>
     </item>
     <item>
       <title>Authentication vs. Authorization - What’s the Difference?</title>
-      <link>http://localhost:52022/tech-for-pm/authentication-vs-authorization-whats-the-difference/</link>
+      <link>https://dibyendupm.com/tech-for-pm/authentication-vs-authorization-whats-the-difference/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/tech-for-pm/authentication-vs-authorization-whats-the-difference/</guid>
+      <guid>https://dibyendupm.com/tech-for-pm/authentication-vs-authorization-whats-the-difference/</guid>
       <description>&lt;p&gt;You hear these two words thrown around all the time, and they’re almost always used together. But here’s the thing: they do two completely different jobs. Getting them right is the foundation of all digital security.&lt;/p&gt;
 &lt;p&gt;So what&amp;rsquo;s the deal, exactly?&lt;/p&gt;
 &lt;ul&gt;

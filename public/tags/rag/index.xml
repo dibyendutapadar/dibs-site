@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>RAG on Dibyendu Tapadar</title>
-    <link>http://localhost:52022/tags/rag/</link>
+    <link>https://dibyendupm.com/tags/rag/</link>
     <description>Recent content in RAG on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:52022/tags/rag/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dibyendupm.com/tags/rag/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-Powered Email Processing System for a Fashion Retailer</title>
-      <link>http://localhost:52022/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
+      <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
+      <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Chat with Local Documents</title>
-      <link>http://localhost:52022/projects/chat-with-local-documents/</link>
+      <link>https://dibyendupm.com/projects/chat-with-local-documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/projects/chat-with-local-documents/</guid>
+      <guid>https://dibyendupm.com/projects/chat-with-local-documents/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
   </channel>

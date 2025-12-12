@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ProductManagement on Dibyendu Tapadar</title>
-    <link>http://localhost:52022/tags/productmanagement/</link>
+    <link>https://dibyendupm.com/tags/productmanagement/</link>
     <description>Recent content in ProductManagement on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52022/tags/productmanagement/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dibyendupm.com/tags/productmanagement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lessons in Product Management from Game of Thrones</title>
-      <link>http://localhost:52022/art-of-pm/lessons-in-product-management-from-game-of-thrones/</link>
+      <link>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/art-of-pm/lessons-in-product-management-from-game-of-thrones/</guid>
+      <guid>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</guid>
       <description>&lt;p&gt;If Westeros taught us anything beyond political murder and dragons, it’s that strategy, storytelling, and ruthless clarity matter, especially when you’re shipping products instead of heirs.
 Lets check some direct, and maybe sometimes uncomfortable mappings from the iconic &lt;em&gt;Game of Thrones&lt;/em&gt; lines to what a product manager actually does and shouldn’t do.&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;h2 id=&#34;chaos-is-a-ladder---petyr-littlefinger-baelish&#34;&gt;“Chaos is a ladder.” - Petyr ‘Littlefinger’ Baelish&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:52022/img/chaos-is-a-ladder.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://dibyendupm.com/img/chaos-is-a-ladder.png&#34;&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;GOT context:&lt;/strong&gt; Littlefinger watches disorder and uses it as opportunity to climb.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Evolution of Product Management</title>
-      <link>http://localhost:52022/art-of-pm/the-evolution-of-product-management/</link>
+      <link>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/art-of-pm/the-evolution-of-product-management/</guid>
+      <guid>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</guid>
       <description>The Evolution of Product Management - A Brief History and How the Future Looks Like</description>
     </item>
     <item>
       <title>Do you have a Product Strategy?</title>
-      <link>http://localhost:52022/art-of-pm/do-you-have-a-product-strategy/</link>
+      <link>https://dibyendupm.com/art-of-pm/do-you-have-a-product-strategy/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/art-of-pm/do-you-have-a-product-strategy/</guid>
+      <guid>https://dibyendupm.com/art-of-pm/do-you-have-a-product-strategy/</guid>
       <description>An intuitive take on what Product strategy is. How strategy it is one of the most misunderstood and miscommunicated word.</description>
     </item>
     <item>
       <title>IMPACT, OUTCOME, OUTPUT - A use case</title>
-      <link>http://localhost:52022/art-of-pm/impact-outcome-output/</link>
+      <link>https://dibyendupm.com/art-of-pm/impact-outcome-output/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/art-of-pm/impact-outcome-output/</guid>
+      <guid>https://dibyendupm.com/art-of-pm/impact-outcome-output/</guid>
       <description>A Use case based explanation and deep dive on what are impact, outcome, output in product management. Where they overlap, where they interrelate and how they are fundamentally different.</description>
     </item>
     <item>
       <title>Is Product Management a BS job?</title>
-      <link>http://localhost:52022/art-of-pm/is-product-management-bs-job/</link>
+      <link>https://dibyendupm.com/art-of-pm/is-product-management-bs-job/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/art-of-pm/is-product-management-bs-job/</guid>
+      <guid>https://dibyendupm.com/art-of-pm/is-product-management-bs-job/</guid>
       <description>Why Product Management Might be a BS Job</description>
     </item>
     <item>
       <title>Interview Simulator</title>
-      <link>http://localhost:52022/projects/product-manager-interview-simulator/</link>
+      <link>https://dibyendupm.com/projects/product-manager-interview-simulator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/projects/product-manager-interview-simulator/</guid>
+      <guid>https://dibyendupm.com/projects/product-manager-interview-simulator/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>A PM always pays his (Tech) Debt</title>
-      <link>http://localhost:52022/art-of-pm/a-pm-always-pays-his-tech-debt/</link>
+      <link>https://dibyendupm.com/art-of-pm/a-pm-always-pays-his-tech-debt/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/art-of-pm/a-pm-always-pays-his-tech-debt/</guid>
+      <guid>https://dibyendupm.com/art-of-pm/a-pm-always-pays-his-tech-debt/</guid>
       <description>&lt;h2 id=&#34;some-intro&#34;&gt;Some Intro&lt;/h2&gt;
 &lt;p&gt;Think of it this way. You started working and earning in your early twenties. You were basking in the glory of the newfound financial freedom. You wanted more, and hence you toiled, you learned the industry, learned about business and consumers, and slowly you moved up the ladder, earning more and more. But there was something that kept building up - Taxes and EMIs, responsibilities, deteriorating health and relationships, creeping up depressions and anxieties. You didn’t pay much attention to it earlier and didn’t invest properly (in health, wealth and relationships). Now they have started hurting you. Though the ==influx of wealth has grown, you are not able to enjoy it like you used to do. You want to go out and party, roam the world, and live carefree like you used to do, but things keeps pulling you back.==&lt;/p&gt;</description>
     </item>
     <item>
       <title>4 Books Every Product Manager Should Read (Even If You Hate Reading Books)</title>
-      <link>http://localhost:52022/art-of-pm/4-books-every-product-manager-should-read/</link>
+      <link>https://dibyendupm.com/art-of-pm/4-books-every-product-manager-should-read/</link>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/art-of-pm/4-books-every-product-manager-should-read/</guid>
+      <guid>https://dibyendupm.com/art-of-pm/4-books-every-product-manager-should-read/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s be honest. As a product manager, your to-do list is already miles long, and finding time to read books might seem like a luxury you can&amp;rsquo;t afford. I get it. I&amp;rsquo;ve been there too. But before you dismiss the idea completely, let me share four books that have managed to change my perspective on product management and books in general. These aren&amp;rsquo;t your typical run-of-the-mill, generic recommendations at the CEO or founder level like &amp;ldquo;Lean Product&amp;rdquo;, &amp;ldquo;Hooked&amp;rdquo;, &amp;ldquo;Launch&amp;rdquo; or &amp;ldquo;Ship it&amp;rdquo;, No. these four books provide the kind of food for thought and actionable ideas that you can start thinking about, experimenting with, and implementing right away, regardless of the stage you are currently in your product management career.&lt;/p&gt;</description>
     </item>
   </channel>

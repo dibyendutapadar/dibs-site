@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AutoTech on Dibyendu Tapadar</title>
-    <link>http://localhost:52022/categories/autotech/</link>
+    <link>https://dibyendupm.com/categories/autotech/</link>
     <description>Recent content in AutoTech on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:52022/categories/autotech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dibyendupm.com/categories/autotech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DearO - the simplest and smartest Automobile Workshop Management system</title>
-      <link>http://localhost:52022/blog/dearo-wms/</link>
+      <link>https://dibyendupm.com/blog/dearo-wms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52022/blog/dearo-wms/</guid>
+      <guid>https://dibyendupm.com/blog/dearo-wms/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
   </channel>
