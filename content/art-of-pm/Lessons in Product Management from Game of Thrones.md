@@ -12,8 +12,9 @@ keywords:
 draft: false
 categories:
   - Product Strategy
+  - The Art of PMy
 slug: lessons-in-product-management-from-game-of-thrones
-weight: 1
+weight: 3
 cover:
   image: /img/lessons-in-pm-got.png
   alt: alt

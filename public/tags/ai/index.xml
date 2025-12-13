@@ -6,8 +6,19 @@
     <description>Recent content in AI on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dibyendupm.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Scrum and SAFe Murdered the Concept of Agile</title>
+      <link>https://dibyendupm.com/art-of-pm/how-scrum-and-safe-murdered-the-concept-of-agile/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/art-of-pm/how-scrum-and-safe-murdered-the-concept-of-agile/</guid>
+      <description>&lt;p&gt;Once upon a time (Feb 2001, around 25 years ago), &lt;a href=&#34;https://agilemanifesto.org/history.html#:~:text=The%20Agile%20Manifesto%20for%20Software%20Development%20was,Crystal%20*%20Feature%2DDriven%20Development%20*%20Pragmatic%20Programming&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    Agile manifesto
+&lt;/a&gt;
+ arrived as the superhero in cape for software development: promising speed, adaptability, and a razor-sharp focus on what customers actually wanted.&lt;/p&gt;
+&lt;p&gt;While Agile&amp;rsquo;s soul was anti-framework, yet, in the winding corridors of enterprises, marred by the fear of chaos, the fear of losing control, its cape have been snagged on the rigid hooks of frameworks like Scrum and SAFe, transforming Agile into what? a &amp;ldquo;veiled Waterfall&amp;rdquo; ?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How Decision Tree Works</title>
       <link>https://dibyendupm.com/tech-for-pm/how-decision-tree-works/</link>
@@ -23,13 +34,6 @@
       <description>Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style</description>
     </item>
     <item>
-      <title>How AI Re-Engineered Product Management</title>
-      <link>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</guid>
-      <description>&lt;p&gt;Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind.  Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn&amp;rsquo;t just a trend; it&amp;rsquo;s a fundamental shift that&amp;rsquo;s re-engineering what it means to be a PM, all thanks to AI&amp;rsquo;s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Types of problems where ML can be applied</title>
       <link>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
@@ -43,6 +47,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>How AI Re-Engineered Product Management</title>
+      <link>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</guid>
+      <description>&lt;p&gt;Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind.  Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn&amp;rsquo;t just a trend; it&amp;rsquo;s a fundamental shift that&amp;rsquo;s re-engineering what it means to be a PM, all thanks to AI&amp;rsquo;s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Simple Analytics Agent with MotherDuck &#43; OpenAI Agents SDK</title>

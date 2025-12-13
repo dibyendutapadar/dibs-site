@@ -12,6 +12,7 @@ keywords:
 draft: false
 categories:
   - Product Strategy
+  - The Art of PM
 slug: a-pm-always-pays-his-tech-debt
 weight: 3
 cover:

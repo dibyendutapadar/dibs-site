@@ -12,8 +12,9 @@ keywords:
 draft: false
 categories:
   - Product Strategy
+  - The Art of PM
 slug: impact,-outcome,-output
-weight: 2
+weight: 4
 cover:
   image: /img/output-outcome-impact.png
   alt: output-outcome-impact

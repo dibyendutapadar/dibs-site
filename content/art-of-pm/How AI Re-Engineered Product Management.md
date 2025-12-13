@@ -11,10 +11,10 @@ keywords:
   - Product Manager Portfolio
 draft: false
 categories:
-  - AI PM
-  - Tech for PM
+  - Product Strategy
+  - The Art of PM
 slug: how-ai-re-engineered-product-management
-weight: 1
+weight: 2
 cover:
   image: /img/ai-engineer-pm.png
   alt: alt

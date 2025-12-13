@@ -12,6 +12,7 @@ keywords:
 draft: false
 categories:
   - Product Strategy
+  - The Art of PM
 slug: is-product-management-bs-job
 weight: 2
 cover:

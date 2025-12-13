@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dibyendupm.com/art-of-pm/how-scrum-and-safe-murdered-the-concept-of-agile/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://dibyendupm.com/tech-for-pm/how-decision-tree-works/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -12,23 +17,8 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</loc>
     <lastmod>2025-11-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</loc>
-    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</loc>
-    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -37,6 +27,11 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/projects/chat-with-local-documents/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</loc>
+    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -56,11 +51,6 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/art-of-pm/do-you-have-a-product-strategy/</loc>
-    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/impact-outcome-output/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -88,7 +78,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</loc>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/art-of-pm/impact-outcome-output/</loc>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -117,6 +117,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</loc>
+    <lastmod>2025-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://dibyendupm.com/projects/time-series-forecasting-app/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -134,16 +139,41 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/tags/ai/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/ai-pm/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.com/art-of-pm/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/categories/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/categories/product-strategy/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/tags/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/categories/the-art-of-pm/</loc>
+    <lastmod>2025-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/categories/ai-pm/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -153,17 +183,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://dibyendupm.com/tags/machinelearning/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/tags/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -198,11 +218,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/art-of-pm/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
     <loc>https://dibyendupm.com/categories/tech-basics/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,12 +233,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/categories/product-strategy/</loc>
+    <loc>https://dibyendupm.com/tags/productmanagement/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tags/productmanagement/</loc>
+    <loc>https://dibyendupm.com/categories/the-art-of-pmy/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
