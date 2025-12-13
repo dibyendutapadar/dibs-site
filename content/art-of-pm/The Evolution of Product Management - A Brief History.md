@@ -11,10 +11,10 @@ keywords:
   - Product Manager Portfolio
 draft: false
 categories:
-  - AI PM
-  - Tech for PM
+  - Product Strategy
+  - The Art of PM
 slug: the-evolution-of-product-management
-weight: 1
+weight: 5
 cover:
   image: /img/2025-11-16.png
   alt: alt

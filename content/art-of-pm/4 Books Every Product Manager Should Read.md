@@ -11,6 +11,7 @@ keywords:
 draft: false
 categories:
   - Product Strategy
+  - The Art of PM
 slug: 4-books-every-product-manager-should-read
 weight: 5
 cover:

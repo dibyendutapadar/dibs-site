@@ -6,8 +6,19 @@
     <description>Recent content on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dibyendupm.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Scrum and SAFe Murdered the Concept of Agile</title>
+      <link>https://dibyendupm.com/art-of-pm/how-scrum-and-safe-murdered-the-concept-of-agile/</link>
+      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/art-of-pm/how-scrum-and-safe-murdered-the-concept-of-agile/</guid>
+      <description>&lt;p&gt;Once upon a time (Feb 2001, around 25 years ago), &lt;a href=&#34;https://agilemanifesto.org/history.html#:~:text=The%20Agile%20Manifesto%20for%20Software%20Development%20was,Crystal%20*%20Feature%2DDriven%20Development%20*%20Pragmatic%20Programming&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    Agile manifesto
+&lt;/a&gt;
+ arrived as the superhero in cape for software development: promising speed, adaptability, and a razor-sharp focus on what customers actually wanted.&lt;/p&gt;
+&lt;p&gt;While Agile&amp;rsquo;s soul was anti-framework, yet, in the winding corridors of enterprises, marred by the fear of chaos, the fear of losing control, its cape have been snagged on the rigid hooks of frameworks like Scrum and SAFe, transforming Agile into what? a &amp;ldquo;veiled Waterfall&amp;rdquo; ?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How Decision Tree Works</title>
       <link>https://dibyendupm.com/tech-for-pm/how-decision-tree-works/</link>
@@ -23,40 +34,12 @@
       <description>Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style</description>
     </item>
     <item>
-      <title>How AI Re-Engineered Product Management</title>
-      <link>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</guid>
-      <description>&lt;p&gt;Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind.  Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn&amp;rsquo;t just a trend; it&amp;rsquo;s a fundamental shift that&amp;rsquo;s re-engineering what it means to be a PM, all thanks to AI&amp;rsquo;s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Types of problems where ML can be applied</title>
       <link>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</guid>
       <description>&lt;p&gt;Ever wonder how your email app just  &lt;em&gt;knows&lt;/em&gt;  what spam is? Or how Netflix uncannily suggests the exact B-movie you were secretly in the mood for? The answer is Machine Learning (ML).&lt;/p&gt;
 &lt;p&gt;Before ML, software was a bit of a bureaucrat. You had to write explicit, rigid  &lt;code&gt;if-this-then-that&lt;/code&gt;  rules for every single possibility. This works fine until the real world, in all its messy glory, shows up. ML flips the script. Instead of feeding a machine rules, you feed it  &lt;em&gt;examples&lt;/em&gt;. The machine&amp;rsquo;s job is to look at thousands or millions of examples and figure out the patterns on its own.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lessons in Product Management from Game of Thrones</title>
-      <link>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</link>
-      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</guid>
-      <description>&lt;p&gt;If Westeros taught us anything beyond political murder and dragons, it’s that strategy, storytelling, and ruthless clarity matter, especially when you’re shipping products instead of heirs.
-Lets check some direct, and maybe sometimes uncomfortable mappings from the iconic &lt;em&gt;Game of Thrones&lt;/em&gt; lines to what a product manager actually does and shouldn’t do.&lt;/p&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;h2 id=&#34;chaos-is-a-ladder---petyr-littlefinger-baelish&#34;&gt;“Chaos is a ladder.” - Petyr ‘Littlefinger’ Baelish&lt;/h2&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://dibyendupm.com/img/chaos-is-a-ladder.png&#34;&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;GOT context:&lt;/strong&gt; Littlefinger watches disorder and uses it as opportunity to climb.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Evolution of Product Management</title>
-      <link>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</link>
-      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</guid>
-      <description>The Evolution of Product Management - A Brief History and How the Future Looks Like</description>
     </item>
     <item>
       <title>AI-Powered Email Processing System for a Fashion Retailer</title>
@@ -71,6 +54,13 @@ Lets check some direct, and maybe sometimes uncomfortable mappings from the icon
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/chat-with-local-documents/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>How AI Re-Engineered Product Management</title>
+      <link>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</guid>
+      <description>&lt;p&gt;Product Managers (PMs) used to treat AI like a distant, complex cousin – interesting if you were building the AI itself, but mostly irrelevant to the daily grind.  Now, nearly every PM is wrestling with GenAI tools, and a surprising number are even trying to build their own. This isn&amp;rsquo;t just a trend; it&amp;rsquo;s a fundamental shift that&amp;rsquo;s re-engineering what it means to be a PM, all thanks to AI&amp;rsquo;s knack for demolishing the tedious, repetitive tasks that sucked the life out of our days.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building a Simple Analytics Agent with MotherDuck &#43; OpenAI Agents SDK</title>
@@ -106,13 +96,6 @@ Then hard code it&lt;/p&gt;</description>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/art-of-pm/do-you-have-a-product-strategy/</guid>
       <description>An intuitive take on what Product strategy is. How strategy it is one of the most misunderstood and miscommunicated word.</description>
-    </item>
-    <item>
-      <title>IMPACT, OUTCOME, OUTPUT - A use case</title>
-      <link>https://dibyendupm.com/art-of-pm/impact-outcome-output/</link>
-      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/art-of-pm/impact-outcome-output/</guid>
-      <description>A Use case based explanation and deep dive on what are impact, outcome, output in product management. Where they overlap, where they interrelate and how they are fundamentally different.</description>
     </item>
     <item>
       <title>Is Product Management a BS job?</title>
@@ -158,11 +141,32 @@ Then hard code it&lt;/p&gt;</description>
 &lt;p&gt;Think of it this way. You started working and earning in your early twenties. You were basking in the glory of the newfound financial freedom. You wanted more, and hence you toiled, you learned the industry, learned about business and consumers, and slowly you moved up the ladder, earning more and more. But there was something that kept building up - Taxes and EMIs, responsibilities, deteriorating health and relationships, creeping up depressions and anxieties. You didn’t pay much attention to it earlier and didn’t invest properly (in health, wealth and relationships). Now they have started hurting you. Though the ==influx of wealth has grown, you are not able to enjoy it like you used to do. You want to go out and party, roam the world, and live carefree like you used to do, but things keeps pulling you back.==&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Lessons in Product Management from Game of Thrones</title>
+      <link>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</link>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/art-of-pm/lessons-in-product-management-from-game-of-thrones/</guid>
+      <description>&lt;p&gt;If Westeros taught us anything beyond political murder and dragons, it’s that strategy, storytelling, and ruthless clarity matter, especially when you’re shipping products instead of heirs.
+Lets check some direct, and maybe sometimes uncomfortable mappings from the iconic &lt;em&gt;Game of Thrones&lt;/em&gt; lines to what a product manager actually does and shouldn’t do.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&#34;chaos-is-a-ladder---petyr-littlefinger-baelish&#34;&gt;“Chaos is a ladder.” - Petyr ‘Littlefinger’ Baelish&lt;/h2&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://dibyendupm.com/img/chaos-is-a-ladder.png&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;GOT context:&lt;/strong&gt; Littlefinger watches disorder and uses it as opportunity to climb.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Image Analysis with LLaVA and LLaMA</title>
       <link>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>IMPACT, OUTCOME, OUTPUT - A use case</title>
+      <link>https://dibyendupm.com/art-of-pm/impact-outcome-output/</link>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/art-of-pm/impact-outcome-output/</guid>
+      <description>A Use case based explanation and deep dive on what are impact, outcome, output in product management. Where they overlap, where they interrelate and how they are fundamentally different.</description>
     </item>
     <item>
       <title>Adaptive Learning without Question-Answer Dataset</title>
@@ -205,6 +209,13 @@ Then hard code it&lt;/p&gt;</description>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/art-of-pm/4-books-every-product-manager-should-read/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s be honest. As a product manager, your to-do list is already miles long, and finding time to read books might seem like a luxury you can&amp;rsquo;t afford. I get it. I&amp;rsquo;ve been there too. But before you dismiss the idea completely, let me share four books that have managed to change my perspective on product management and books in general. These aren&amp;rsquo;t your typical run-of-the-mill, generic recommendations at the CEO or founder level like &amp;ldquo;Lean Product&amp;rdquo;, &amp;ldquo;Hooked&amp;rdquo;, &amp;ldquo;Launch&amp;rdquo; or &amp;ldquo;Ship it&amp;rdquo;, No. these four books provide the kind of food for thought and actionable ideas that you can start thinking about, experimenting with, and implementing right away, regardless of the stage you are currently in your product management career.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Evolution of Product Management</title>
+      <link>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</link>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/art-of-pm/the-evolution-of-product-management/</guid>
+      <description>The Evolution of Product Management - A Brief History and How the Future Looks Like</description>
     </item>
     <item>
       <title>Time Series Forecasting App</title>

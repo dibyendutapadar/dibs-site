@@ -12,6 +12,7 @@ keywords:
 draft: false
 categories:
   - Product Strategy
+  - The Art of PM
 slug: do-you-have-a-product-strategy
 weight: 2
 cover:

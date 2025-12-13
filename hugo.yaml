@@ -54,10 +54,10 @@ params:
     imageWidth: 240
     imageHeight: 240
     ShowDate: false
-    buttons:
-      - name: "Download Resume"
-        url: "/resume.pdf"
-        style: "primary"
+    # buttons:
+    #   - name: "Download Resume"
+    #     url: "/resume.pdf"
+    #     style: "primary"
 
   socialIcons:
     - name: "LinkedIn"

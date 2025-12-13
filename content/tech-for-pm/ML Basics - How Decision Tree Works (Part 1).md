@@ -159,9 +159,9 @@ Decision tree calcultes the gain or loss at each split and pick the
 ---
 
 Well this raises more question than it answers:
-1. How are the initial split determined, how is the next split determined?
-2. How to know where to stop?
-3. How does this propagate for other features?
+> 1. How are the initial split determined, how is the next split determined?
+> 2. How to know where to stop?
+> 3. How does this propagate for other features?
 
 We will try to explore them in part 2.
 
@@ -200,6 +200,10 @@ $$ H = -p_clog_2(p_c) - p_nlog_2(p_n)$$
 
 $$ H= -0.2 \times log_2(0.2) - 0.8 \times log_2(0.8) $$
 $$ H = 0.7219 $$
+
+**Parent Entropy = 0.7219**
+
+Now for each split, in similar ways Gini or Entropy is calculated and the gain is measured to check if this is a viable split.
 
 
 
