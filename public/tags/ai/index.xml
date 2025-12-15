@@ -42,13 +42,6 @@
 &lt;p&gt;Before ML, software was a bit of a bureaucrat. You had to write explicit, rigid  &lt;code&gt;if-this-then-that&lt;/code&gt;  rules for every single possibility. This works fine until the real world, in all its messy glory, shows up. ML flips the script. Instead of feeding a machine rules, you feed it  &lt;em&gt;examples&lt;/em&gt;. The machine&amp;rsquo;s job is to look at thousands or millions of examples and figure out the patterns on its own.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AI-Powered Email Processing System for a Fashion Retailer</title>
-      <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
-      <description>Product Manager Portfolio showcasing my work</description>
-    </item>
-    <item>
       <title>How AI Re-Engineered Product Management</title>
       <link>https://dibyendupm.com/art-of-pm/how-ai-re-engineered-product-management/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
@@ -82,6 +75,13 @@ Then hard code it&lt;/p&gt;</description>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/tech-for-pm/brief-history-of-ai/</guid>
       <description>&lt;p&gt;..coming soon&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI-Powered Email Processing System for a Fashion Retailer</title>
+      <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Authentication vs. Authorization - What’s the Difference?</title>

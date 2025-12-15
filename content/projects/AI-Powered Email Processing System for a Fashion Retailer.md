@@ -26,7 +26,7 @@ keywords:
   - Generative AI Use Cases
   - Intelligent Process Automation
 draft: false
-weight: 1
+weight: 2
 cover:
   image: /img/AIEmailAutomationinFashionStore.png
   alt: AIEmailAutomationinFashionStore

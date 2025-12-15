@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK | Dibyendu Tapadar</title>
+<meta name="keywords" content="AI PM, Tech for PM, Product Manager Portfolio, Agentic AI, AI in Supply Chain">
+<meta name="description" content="TL;DR
+I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google&rsquo;s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle &ldquo;what-if&rdquo; questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.
+🔗  Check out the project on GitHub: : 
+    Github
+
+">
+<meta name="author" content="Dibyendu Tapadar">
+<link rel="canonical" href="https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/">
+<meta property="og:title" content="How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK">
+<meta property="og:description" content="TL;DR
+I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google&rsquo;s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle &ldquo;what-if&rdquo; questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.
+🔗  Check out the project on GitHub: : 
+    Github
+
+">
+<meta property="og:image" content="">
+<meta property="og:url" content="https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="google-site-verification" content="Ksm-dFTFzTkmFmz7MeabjBSLn7pUf19yeCjIFhQXPUM" />
+<link crossorigin="anonymous" href="/assets/css/stylesheet.778196ed6ea6927001e4ec13975e74bafb253d50a9dced5b03a16af10f443477.css" integrity="sha256-d4GW7W6mknAB5OwTl150uvslPVCp3O1bA6Fq8Q9ENHc=" rel="preload stylesheet" as="style">
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5HCHJ7G6');</script>
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TJTELRQR4M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TJTELRQR4M');
+</script>
+<link rel="icon" href="https://dibyendupm.com/img/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://dibyendupm.com/img/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://dibyendupm.com/img/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://dibyendupm.com/img/apple-touch-icon.png">
+<link rel="mask-icon" href="https://dibyendupm.com/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({ startOnLoad: true });</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js" crossorigin="anonymous"
+  onload="renderMathInElement(document.body, {
+    delimiters: [
+      { left: '$$', right: '$$', display: true },
+      { left: '$', right: '$', display: false },
+      { left: '\\(', right: '\\)', display: false },
+      { left: '\\[', right: '\\]', display: true }
+    ],
+    throwOnError: false
+  });"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-83JNZXFBJD"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-83JNZXFBJD');
+        }
+      </script><meta property="og:url" content="https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/">
+  <meta property="og:site_name" content="Dibyendu Tapadar">
+  <meta property="og:title" content="How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK">
+  <meta property="og:description" content="TL;DR I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google’s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle “what-if” questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.
+🔗 Check out the project on GitHub: : Github ">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="projects">
+    <meta property="article:published_time" content="2025-12-15T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-12-15T00:00:00+00:00">
+    <meta property="article:tag" content="GenAI">
+    <meta property="article:tag" content="GurobiOptimization">
+    <meta property="article:tag" content="Google-Adk">
+    <meta property="article:tag" content="AIAgent">
+    <meta property="article:tag" content="Multi-Agent">
+    <meta property="og:image" content="https://dibyendupm.com/img/supplyChainAgent.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://dibyendupm.com/img/supplyChainAgent.png">
+<meta name="twitter:title" content="How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK">
+<meta name="twitter:description" content="TL;DR
+I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google&rsquo;s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle &ldquo;what-if&rdquo; questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.
+🔗  Check out the project on GitHub: : 
+    Github
+
+">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Personal Projects",
+      "item": "https://dibyendupm.com/projects/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK",
+      "item": "https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK",
+  "name": "How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK",
+  "description": "TL;DR I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google\u0026rsquo;s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle \u0026ldquo;what-if\u0026rdquo; questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.\n🔗 Check out the project on GitHub: : Github ",
+  "keywords": [
+    "AI PM", "Tech for PM", "Product Manager Portfolio", "Agentic AI", "AI in Supply Chain"
+  ],
+  "articleBody": "TL;DR I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google’s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle “what-if” questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.\n🔗 Check out the project on GitHub: : Github Lately, I’ve been fiddling with AI agent frameworks, and I’ve really taken a liking to Google’s Agent Development Kit (ADK). The main reason? It’s just so easy to get started. It comes with a pre-built web interface, chat, tracing, and even a graph view of your agent’s logic—all neatly packaged.\nWhile wondering what useful things I could build, I stumbled upon a research paper that threw me right back to my MBA Decision Modeling class:\n“Large Language Models for Supply Chain Optimization” by Beibin Li, et al. I remember spending hours meticulously designing complex Excel sheets for solver-based optimizations. The paper highlighted a problem I knew all too well: business operators spend a ton of effort trying to explain optimization results to stakeholders who don’t live and breathe this stuff.\nTheir solution, OptiGuide, was a framework that takes plain text queries and spits out easy-to-understand insights, and I thought Why not build an agent that does just that?\nThe result is a simple, sequential agent that uses the powerful [Gurobi Optimizer] to run the numbers and ADK to manage the workflow. It can perform sophisticated optimizations and even run “what-if” scenarios, all from a simple chat prompt.\n–\nHow the Agent came Together My agent, “SupplyChainOptimizationPipeline,” is a straightforward sequential flow that breaks the problem into three smaller, manageable sub-agents:\nInterpreter Agent: Figures out what you’re asking. Optimizer Agent: Does the math. Result Formatter Agent: Explains the answer in plain English. Let’s break them down.\n1. The Interpreter Agent: This is where the user’s request, written in plain text, gets translated into something a machine can understand. The Interpreter’s job is to pull out the key pieces of the puzzle:\nParameters: Fixed values like costs, capacities, and demands. Decision Variables: The things we need to figure out (e.g., how many units to ship). Constraints: The rules of the game (e.g., budget limits, factory capacity). Objective Function: The ultimate goal (e.g., minimize cost, maximize profit). Once it has this structured data, it hands it off to the next agent in the line.\n2. The Optimizer Agent: This agent is the computational powerhouse. I gave it two simple tools to do its job:\nGet Gurobi Syntax: A cheat sheet for the agent. Instead of having to “know” Gurobi’s Python syntax, it can look up examples to frame the problem correctly. Code Executor: A simple tool that takes the generated Python code and runs it in my local virtual environment. This lets the agent write and execute Gurobi scripts on the fly. The Optimizer agent takes the structured problem from the Interpreter, uses its syntax tool to write the Gurobi code, and then runs it with the Code Executor. The raw results are then passed to our final agent.\n(Note: For this project, a simple local executor is fine. In a real-world production app, you’d absolutely want to use a sandboxed environment for security!)\n3. The Result Formatter Agent: Raw optimization output can look like gibberish to someone who isn’t a data scientist. This agent’s only job is to translate that output into a clear, concise, and human-readable explanation, highlighting the optimal solution and its business implications. This closes the loop, bringing us back to the goal of the OptiGuide paper.\nHow about Follow-up Questions? One of the neat features of ADK is its session memory (InMemorySessionService). When a user asks a follow-up question (like a “what-if” scenario), the agent remembers the entire conversation. The whole pipeline runs again, but with the full context, so you don’t have to start from scratch.\nWant to Try It Yourself? You can fork the GitHub repository and get this running in just a few steps:\nAPI Keys: Grab your API keys (I used a mix of OpenAI and Gemini) and drop them in a .env file. Virtual Environment: Create and activate a Python virtual environment. Dependencies: Run pip install -r requirements.txt. Run ADK: From your terminal, just execute adk run. The Road Ahead: Where Could This Go? This is a fairly simple implementation focused on network or flow-based problems where you can pass data via text or CSV. But it does show the potential of combining LLMs with powerful solvers. Some use case might be\nDynamic Route Optimization: Rerouting delivery fleets in real-time based on traffic and weather. How much time and fuel could that save? Predictive Inventory Management: Combining demand forecasting with optimization to decide how much stock to keep in which warehouse. This could be a game-changer for reducing holding costs and preventing stockouts. Smarter Production Scheduling: Creating factory schedules that adapt on the fly to machine breakdowns or supply shortages. Think of the increased throughput and reduced downtime! Supply Chain Risk Simulation: Modeling potential disruptions (like a factory fire or a port closure) and finding the best mitigation plan. This offers invaluable resilience. ",
+  "wordCount" : "878",
+  "inLanguage": "en",
+  "image":"https://dibyendupm.com/img/supplyChainAgent.png","datePublished": "2025-12-15T00:00:00Z",
+  "dateModified": "2025-12-15T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Dibyendu Tapadar"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Dibyendu Tapadar",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://dibyendupm.com/img/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+<body id="top">
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HCHJ7G6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://dibyendupm.com/" accesskey="h" title="Dibyendu Tapadar (Alt + H)">Dibyendu Tapadar</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://dibyendupm.com/" title="Home">
+                    <span>Home</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.com/work/" title="Experience">
+                    <span><i class="fa-solid fa-briefcase"></i>Experience</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.com/projects/" title="Side Projects">
+                    <span>Side Projects</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.com/art-of-pm/" title="Art of PMing">
+                    <span>Art of PMing</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.com/tech-for-pm/" title="Tech for PM">
+                    <span>Tech for PM</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://dibyendupm.com/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK
+    </h1>
+    
+    <div class="post-meta"><span title='2025-12-15 00:00:00 +0000 UTC'>December 15, 2025</span>&nbsp;·&nbsp;<span>5 min</span>&nbsp;·&nbsp;<span>Dibyendu Tapadar</span>
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" src="https://dibyendupm.com/img/supplyChainAgent.png" alt="alt">
+        
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#tldr" aria-label="TL;DR">TL;DR</a></li>
+                <li>
+                    <a href="#how-the-agent-came-together" aria-label="How the Agent came Together">How the Agent came Together</a><ul>
+                        
+                <li>
+                    <a href="#1-the-interpreter-agent" aria-label="1. The Interpreter Agent:">1. The Interpreter Agent:</a></li>
+                <li>
+                    <a href="#2-the-optimizer-agent" aria-label="2. The Optimizer Agent:">2. The Optimizer Agent:</a></li>
+                <li>
+                    <a href="#3-the-result-formatter-agent" aria-label="3. The Result Formatter Agent:">3. The Result Formatter Agent:</a></li></ul>
+                </li>
+                <li>
+                    <a href="#how-about-follow-up-questions" aria-label="How about Follow-up Questions?">How about Follow-up Questions?</a><ul>
+                        
+                <li>
+                    <a href="#want-to-try-it-yourself" aria-label="Want to Try It Yourself?">Want to Try It Yourself?</a></li>
+                <li>
+                    <a href="#the-road-ahead-where-could-this-go" aria-label="The Road Ahead: Where Could This Go?">The Road Ahead: Where Could This Go?</a>
+                </li>
+            </ul>
+            </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
+  <div class="post-content"><h2 id="tldr"><strong>TL;DR</strong><a hidden class="anchor" aria-hidden="true" href="#tldr">#</a></h2>
+<p>I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google&rsquo;s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle &ldquo;what-if&rdquo; questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.</p>
+<p>🔗  <strong>Check out the project on GitHub:</strong> : <a href="https://github.com/dibyendutapadar/supply-chain-optimization-agent-gurobi-google-adk"target="_blank" rel="noopener">
+    Github
+</a>
+</p>
+<hr>
+<p>Lately, I&rsquo;ve been fiddling with AI agent frameworks, and I’ve really taken a liking to Google&rsquo;s Agent Development Kit (ADK). The main reason? It’s just so easy to get started. It comes with a pre-built web interface, chat, tracing, and even a graph view of your agent&rsquo;s logic—all neatly packaged.</p>
+<p>While wondering what useful things I could build, I stumbled upon a research paper that threw me right back to my MBA Decision Modeling class:</p>
+<p><a href="https://arxiv.org/abs/2307.03875"target="_blank" rel="noopener">
+    <strong>&ldquo;Large Language Models for Supply Chain Optimization&rdquo;</strong>  by Beibin Li, et al.
+</a>
+</p>
+<p><img loading="lazy" src="/img/LLM-for-SC.png"></p>
+<p>I remember spending  <em>hours</em>  meticulously designing complex Excel sheets for solver-based optimizations. The paper highlighted a problem I knew all too well: business operators spend a ton of effort trying to explain optimization results to stakeholders who don&rsquo;t live and breathe this stuff.</p>
+<p>Their solution, OptiGuide, was a framework that takes plain text queries and spits out easy-to-understand insights, and I thought Why not build an agent that does just that?</p>
+<p>The result is a simple, sequential agent that uses the powerful [Gurobi Optimizer] to run the numbers and ADK to manage the workflow. It can perform sophisticated optimizations and even run &ldquo;what-if&rdquo; scenarios, all from a simple chat prompt.</p>
+<p>&ndash;</p>
+<h2 id="how-the-agent-came-together">How the Agent came Together<a hidden class="anchor" aria-hidden="true" href="#how-the-agent-came-together">#</a></h2>
+<p>My agent, &ldquo;SupplyChainOptimizationPipeline,&rdquo; is a straightforward sequential flow that breaks the problem into three smaller, manageable sub-agents:</p>
+<ol>
+<li><strong>Interpreter Agent:</strong>  Figures out what you&rsquo;re asking.</li>
+<li><strong>Optimizer Agent:</strong>  Does the math.</li>
+<li><strong>Result Formatter Agent:</strong>  Explains the answer in plain English.</li>
+</ol>
+<p>Let&rsquo;s break them down.</p>
+<h3 id="1-the-interpreter-agent">1. The Interpreter Agent:<a hidden class="anchor" aria-hidden="true" href="#1-the-interpreter-agent">#</a></h3>
+<p><img loading="lazy" src="/img/interpreter-agent.png"></p>
+<p>This is where the user&rsquo;s request, written in plain text, gets translated into something a machine can understand. The  <strong>Interpreter’s</strong>  job is to pull out the key pieces of the puzzle:</p>
+<ul>
+<li><strong>Parameters:</strong>  Fixed values like costs, capacities, and demands.</li>
+<li><strong>Decision Variables:</strong>  The things we need to figure out (e.g., how many units to ship).</li>
+<li><strong>Constraints:</strong>  The rules of the game (e.g., budget limits, factory capacity).</li>
+<li><strong>Objective Function:</strong>  The ultimate goal (e.g., minimize cost, maximize profit).</li>
+</ul>
+<p>Once it has this structured data, it hands it off to the next agent in the line.</p>
+<h3 id="2-the-optimizer-agent">2. The Optimizer Agent:<a hidden class="anchor" aria-hidden="true" href="#2-the-optimizer-agent">#</a></h3>
+<p><img loading="lazy" src="/img/optimizer-agent.png"></p>
+<p>This agent is the computational powerhouse. I gave it two simple tools to do its job:</p>
+<ul>
+<li><strong>Get Gurobi Syntax:</strong>  A cheat sheet for the agent. Instead of having to &ldquo;know&rdquo; Gurobi&rsquo;s Python syntax, it can look up examples to frame the problem correctly.</li>
+<li><strong>Code Executor:</strong>  A simple tool that takes the generated Python code and runs it in my local virtual environment. This lets the agent write and execute Gurobi scripts on the fly.</li>
+</ul>
+<p>The  <strong>Optimizer agent</strong>  takes the structured problem from the Interpreter, uses its syntax tool to write the Gurobi code, and then runs it with the Code Executor. The raw results are then passed to our final agent.</p>
+<p><em>(<strong>Note:</strong>  For this project, a simple local executor is fine. In a real-world production app, you&rsquo;d absolutely want to use a sandboxed environment for security!)</em></p>
+<h3 id="3-the-result-formatter-agent">3. The Result Formatter Agent:<a hidden class="anchor" aria-hidden="true" href="#3-the-result-formatter-agent">#</a></h3>
+<p><img loading="lazy" src="/img/formater-agent.png"></p>
+<p>Raw optimization output can look like gibberish to someone who isn&rsquo;t a data scientist. This agent&rsquo;s only job is to translate that output into a clear, concise, and human-readable explanation, highlighting the optimal solution and its business implications. This closes the loop, bringing us back to the goal of the OptiGuide paper.</p>
+<h2 id="how-about-follow-up-questions">How about Follow-up Questions?<a hidden class="anchor" aria-hidden="true" href="#how-about-follow-up-questions">#</a></h2>
+<p>One of the neat features of ADK is its session memory (<code>InMemorySessionService</code>). When a user asks a follow-up question (like a &ldquo;what-if&rdquo; scenario), the agent remembers the entire conversation. The whole pipeline runs again, but with the full context, so you don&rsquo;t have to start from scratch.</p>
+<hr>
+<h3 id="want-to-try-it-yourself">Want to Try It Yourself?<a hidden class="anchor" aria-hidden="true" href="#want-to-try-it-yourself">#</a></h3>
+<p>You can fork the GitHub repository and get this running in just a few steps:</p>
+<ol>
+<li><strong>API Keys:</strong>  Grab your API keys (I used a mix of OpenAI and Gemini) and drop them in a  <code>.env</code>  file.</li>
+<li><strong>Virtual Environment:</strong>  Create and activate a Python virtual environment.</li>
+<li><strong>Dependencies:</strong>  Run  <code>pip install -r requirements.txt</code>.</li>
+<li><strong>Run ADK:</strong>  From your terminal, just execute  <code>adk run</code>.</li>
+</ol>
+<h3 id="the-road-ahead-where-could-this-go">The Road Ahead: Where Could This Go?<a hidden class="anchor" aria-hidden="true" href="#the-road-ahead-where-could-this-go">#</a></h3>
+<p>This is a fairly simple implementation focused on network or flow-based problems where you can pass data via text or CSV. But it  does show the potential of combining LLMs with powerful solvers.
+Some use case might be</p>
+<ul>
+<li><strong>Dynamic Route Optimization:</strong>  Rerouting delivery fleets in real-time based on traffic and weather. How much time and fuel could that save?</li>
+<li><strong>Predictive Inventory Management:</strong>  Combining demand forecasting with optimization to decide how much stock to keep in which warehouse. This could be a game-changer for reducing holding costs and preventing stockouts.</li>
+<li><strong>Smarter Production Scheduling:</strong>  Creating factory schedules that adapt on the fly to machine breakdowns or supply shortages. Think of the increased throughput and reduced downtime!</li>
+<li><strong>Supply Chain Risk Simulation:</strong>  Modeling potential disruptions (like a factory fire or a port closure) and finding the best mitigation plan. This offers invaluable resilience.</li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://dibyendupm.com/tags/genai/">GenAI</a></li>
+      <li><a href="https://dibyendupm.com/tags/gurobioptimization/">GurobiOptimization</a></li>
+      <li><a href="https://dibyendupm.com/tags/google-adk/">Google-Adk</a></li>
+      <li><a href="https://dibyendupm.com/tags/aiagent/">AIAgent</a></li>
+      <li><a href="https://dibyendupm.com/tags/multi-agent/">Multi-Agent</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="https://dibyendupm.com/">Dibyendu Tapadar</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> |
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a> |
+        <a href="https://obsidian.md/" rel="noopener" target="_blank">Obsidian</a> |
+        <a href="https://obsidian.md/" rel="noopener" target="_blank">Netlify</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+
+<script>
+document.querySelectorAll('p, li, h1, h2, h3, h4, h5, h6').forEach(node => {
+  node.innerHTML = node.innerHTML.replace(/==([^=]+)==/g, '<mark>$1</mark>');
+});
+</script>
+</body>
+
+</html>

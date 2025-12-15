@@ -4,6 +4,7 @@ date: 2025-12-07
 summary: Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style
 tags:
   - AI
+  - GenAI
   - google-adk
   - multi-agent
 description:

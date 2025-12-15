@@ -6,8 +6,20 @@
     <description>Recent content on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dibyendupm.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK</title>
+      <link>https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/</guid>
+      <description>&lt;h2 id=&#34;tldr&#34;&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google&amp;rsquo;s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle &amp;ldquo;what-if&amp;rdquo; questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.&lt;/p&gt;
+&lt;p&gt;🔗  &lt;strong&gt;Check out the project on GitHub:&lt;/strong&gt; : &lt;a href=&#34;https://github.com/dibyendutapadar/supply-chain-optimization-agent-gurobi-google-adk&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    Github
+&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How Scrum and SAFe Murdered the Concept of Agile</title>
       <link>https://dibyendupm.com/art-of-pm/how-scrum-and-safe-murdered-the-concept-of-agile/</link>
@@ -40,20 +52,6 @@
       <guid>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</guid>
       <description>&lt;p&gt;Ever wonder how your email app just  &lt;em&gt;knows&lt;/em&gt;  what spam is? Or how Netflix uncannily suggests the exact B-movie you were secretly in the mood for? The answer is Machine Learning (ML).&lt;/p&gt;
 &lt;p&gt;Before ML, software was a bit of a bureaucrat. You had to write explicit, rigid  &lt;code&gt;if-this-then-that&lt;/code&gt;  rules for every single possibility. This works fine until the real world, in all its messy glory, shows up. ML flips the script. Instead of feeding a machine rules, you feed it  &lt;em&gt;examples&lt;/em&gt;. The machine&amp;rsquo;s job is to look at thousands or millions of examples and figure out the patterns on its own.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI-Powered Email Processing System for a Fashion Retailer</title>
-      <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
-      <description>Product Manager Portfolio showcasing my work</description>
-    </item>
-    <item>
-      <title>Chat with Local Documents</title>
-      <link>https://dibyendupm.com/projects/chat-with-local-documents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/chat-with-local-documents/</guid>
-      <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>How AI Re-Engineered Product Management</title>
@@ -109,6 +107,13 @@ Then hard code it&lt;/p&gt;</description>
       <link>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>AI-Powered Email Processing System for a Fashion Retailer</title>
+      <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
@@ -180,6 +185,13 @@ Lets check some direct, and maybe sometimes uncomfortable mappings from the icon
       <link>https://dibyendupm.com/blog/byjus-assessed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/blog/byjus-assessed/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>Chat with Local Documents</title>
+      <link>https://dibyendupm.com/projects/chat-with-local-documents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/chat-with-local-documents/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>

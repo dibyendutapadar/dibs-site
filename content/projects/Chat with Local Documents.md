@@ -20,7 +20,7 @@ keywords:
   - AI in Enterprise
   - Generative AI Use Cases
 draft: false
-weight: 1
+weight: 4
 cover:
   image: /img/20251109185651.png
   alt: Chat with Local Documents

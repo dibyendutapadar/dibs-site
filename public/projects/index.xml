@@ -6,28 +6,26 @@
     <description>Recent content in Personal Projects on Dibyendu Tapadar</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://dibyendupm.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK</title>
+      <link>https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/</guid>
+      <description>&lt;h2 id=&#34;tldr&#34;&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google&amp;rsquo;s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle &amp;ldquo;what-if&amp;rdquo; questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.&lt;/p&gt;
+&lt;p&gt;🔗  &lt;strong&gt;Check out the project on GitHub:&lt;/strong&gt; : &lt;a href=&#34;https://github.com/dibyendutapadar/supply-chain-optimization-agent-gurobi-google-adk&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+    Github
+&lt;/a&gt;
+&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How I Built a Writing Agent using Google ADK to Match My Writing Style</title>
       <link>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</link>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</guid>
       <description>Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style</description>
-    </item>
-    <item>
-      <title>AI-Powered Email Processing System for a Fashion Retailer</title>
-      <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
-      <description>Product Manager Portfolio showcasing my work</description>
-    </item>
-    <item>
-      <title>Chat with Local Documents</title>
-      <link>https://dibyendupm.com/projects/chat-with-local-documents/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/chat-with-local-documents/</guid>
-      <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>Building a Simple Analytics Agent with MotherDuck &#43; OpenAI Agents SDK</title>
@@ -41,6 +39,13 @@
       <link>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>AI-Powered Email Processing System for a Fashion Retailer</title>
+      <link>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/ai-powered-email-processing-system-for-a-fashion-retailer/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
@@ -62,6 +67,13 @@
       <link>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>Chat with Local Documents</title>
+      <link>https://dibyendupm.com/projects/chat-with-local-documents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/chat-with-local-documents/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
