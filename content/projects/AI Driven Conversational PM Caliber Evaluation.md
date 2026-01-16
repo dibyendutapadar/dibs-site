@@ -26,6 +26,7 @@ cover:
 > Imposter syndrome is exceptionally common in product management, affecting an estimated 60% to 92% of professionals at some stage of their career.
 
   
+[Link to app](https://pm-evaluator.dibyendupm.com/)
 
 It is a psychological pattern where individuals doubt their accomplishments and fear being exposed as a "fraud"—even when they are driving real impact.
 
