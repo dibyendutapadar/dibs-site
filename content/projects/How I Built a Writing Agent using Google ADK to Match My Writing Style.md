@@ -19,7 +19,7 @@ draft: false
 categories:
   - AI Agents
 slug: how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style
-weight: 1
+weight: 2
 cover:
   image: /img/blog-writer.png
   alt: alt

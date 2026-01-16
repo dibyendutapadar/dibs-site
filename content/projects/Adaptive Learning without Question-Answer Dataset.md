@@ -19,7 +19,7 @@ keywords:
   - EdTech
   - AI Automation
 draft: false
-weight: 4
+weight: 3
 cover:
   image: /img/20251113213630.png
   alt: Adaptive Learning without Question-Answer Dataset

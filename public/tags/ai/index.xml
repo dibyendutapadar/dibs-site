@@ -27,19 +27,19 @@
       <description>How Decision tree Works</description>
     </item>
     <item>
-      <title>How I Built a Writing Agent using Google ADK to Match My Writing Style</title>
-      <link>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</guid>
-      <description>Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style</description>
-    </item>
-    <item>
       <title>Types of problems where ML can be applied</title>
       <link>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</guid>
       <description>&lt;p&gt;Ever wonder how your email app just  &lt;em&gt;knows&lt;/em&gt;  what spam is? Or how Netflix uncannily suggests the exact B-movie you were secretly in the mood for? The answer is Machine Learning (ML).&lt;/p&gt;
 &lt;p&gt;Before ML, software was a bit of a bureaucrat. You had to write explicit, rigid  &lt;code&gt;if-this-then-that&lt;/code&gt;  rules for every single possibility. This works fine until the real world, in all its messy glory, shows up. ML flips the script. Instead of feeding a machine rules, you feed it  &lt;em&gt;examples&lt;/em&gt;. The machine&amp;rsquo;s job is to look at thousands or millions of examples and figure out the patterns on its own.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How I Built a Writing Agent using Google ADK to Match My Writing Style</title>
+      <link>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</guid>
+      <description>Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style</description>
     </item>
     <item>
       <title>How AI Re-Engineered Product Management</title>

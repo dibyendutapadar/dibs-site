@@ -13,12 +13,7 @@
       <link>https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/</guid>
-      <description>&lt;h2 id=&#34;tldr&#34;&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google&amp;rsquo;s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle &amp;ldquo;what-if&amp;rdquo; questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.&lt;/p&gt;
-&lt;p&gt;🔗  &lt;strong&gt;Check out the project on GitHub:&lt;/strong&gt; : &lt;a href=&#34;https://github.com/dibyendutapadar/supply-chain-optimization-agent-gurobi-google-adk&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-    Github
-&lt;/a&gt;
-&lt;/p&gt;</description>
+      <description>AI agent that uses natural language to solve complex supply chain optimization problems.</description>
     </item>
     <item>
       <title>How Decision Tree Works</title>

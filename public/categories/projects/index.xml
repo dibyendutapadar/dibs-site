@@ -8,6 +8,20 @@
     <language>en-us</language>
     <atom:link href="https://dibyendupm.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>AI Driven Conversational PM Caliber Evaluation</title>
+      <link>https://dibyendupm.com/projects/ai-driven-conversational-pm-caliber-evaluation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/ai-driven-conversational-pm-caliber-evaluation/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>Building Frontend AI Agents, Letting LLMs Operate the UI</title>
+      <link>https://dibyendupm.com/projects/building-frontend-ai-agents-letting-llms-operate-the-ui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/building-frontend-ai-agents-letting-llms-operate-the-ui/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
       <title>AI Travel Agent for Stay and Itinerary Planning</title>
       <link>https://dibyendupm.com/projects/ai-travel-agent-for-stay-and-itinerary-planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,17 +43,17 @@
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
-      <title>Image Analysis with LLaVA and LLaMA</title>
-      <link>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</guid>
-      <description>Product Manager Portfolio showcasing my work</description>
-    </item>
-    <item>
       <title>Adaptive Learning without Question-Answer Dataset</title>
       <link>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>Image Analysis with LLaVA and LLaMA</title>
+      <link>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</guid>
       <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>

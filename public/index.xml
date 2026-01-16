@@ -13,12 +13,7 @@
       <link>https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/projects/how-i-built-a-supply-chain-optimization-agent-with-gurobi-and-google-adk/</guid>
-      <description>&lt;h2 id=&#34;tldr&#34;&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;I built a simple AI agent that uses natural language to solve complex supply chain optimization problems. By combining Google&amp;rsquo;s Agent Development Kit (ADK) for the framework and the Gurobi Optimizer for the heavy math, I created a tool that can interpret plain English, run optimizations, and even handle &amp;ldquo;what-if&amp;rdquo; questions. It’s a fun throwback to my MBA days, but way more powerful than my old Excel sheets.&lt;/p&gt;
-&lt;p&gt;🔗  &lt;strong&gt;Check out the project on GitHub:&lt;/strong&gt; : &lt;a href=&#34;https://github.com/dibyendutapadar/supply-chain-optimization-agent-gurobi-google-adk&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-    Github
-&lt;/a&gt;
-&lt;/p&gt;</description>
+      <description>AI agent that uses natural language to solve complex supply chain optimization problems.</description>
     </item>
     <item>
       <title>How Scrum and SAFe Murdered the Concept of Agile</title>
@@ -39,19 +34,33 @@
       <description>How Decision tree Works</description>
     </item>
     <item>
-      <title>How I Built a Writing Agent using Google ADK to Match My Writing Style</title>
-      <link>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</guid>
-      <description>Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style</description>
-    </item>
-    <item>
       <title>Types of problems where ML can be applied</title>
       <link>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</guid>
       <description>&lt;p&gt;Ever wonder how your email app just  &lt;em&gt;knows&lt;/em&gt;  what spam is? Or how Netflix uncannily suggests the exact B-movie you were secretly in the mood for? The answer is Machine Learning (ML).&lt;/p&gt;
 &lt;p&gt;Before ML, software was a bit of a bureaucrat. You had to write explicit, rigid  &lt;code&gt;if-this-then-that&lt;/code&gt;  rules for every single possibility. This works fine until the real world, in all its messy glory, shows up. ML flips the script. Instead of feeding a machine rules, you feed it  &lt;em&gt;examples&lt;/em&gt;. The machine&amp;rsquo;s job is to look at thousands or millions of examples and figure out the patterns on its own.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Driven Conversational PM Caliber Evaluation</title>
+      <link>https://dibyendupm.com/projects/ai-driven-conversational-pm-caliber-evaluation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/ai-driven-conversational-pm-caliber-evaluation/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>Building Frontend AI Agents, Letting LLMs Operate the UI</title>
+      <link>https://dibyendupm.com/projects/building-frontend-ai-agents-letting-llms-operate-the-ui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/building-frontend-ai-agents-letting-llms-operate-the-ui/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
+      <title>How I Built a Writing Agent using Google ADK to Match My Writing Style</title>
+      <link>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</guid>
+      <description>Mult Agent Orchestrated Blog writer using Google ADK, that learns and matches users writing style</description>
     </item>
     <item>
       <title>How AI Re-Engineered Product Management</title>
@@ -160,6 +169,13 @@ Lets check some direct, and maybe sometimes uncomfortable mappings from the icon
 &lt;p&gt;&lt;strong&gt;GOT context:&lt;/strong&gt; Littlefinger watches disorder and uses it as opportunity to climb.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Adaptive Learning without Question-Answer Dataset</title>
+      <link>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</guid>
+      <description>Product Manager Portfolio showcasing my work</description>
+    </item>
+    <item>
       <title>Image Analysis with LLaVA and LLaMA</title>
       <link>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -172,13 +188,6 @@ Lets check some direct, and maybe sometimes uncomfortable mappings from the icon
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://dibyendupm.com/art-of-pm/impact-outcome-output/</guid>
       <description>A Use case based explanation and deep dive on what are impact, outcome, output in product management. Where they overlap, where they interrelate and how they are fundamentally different.</description>
-    </item>
-    <item>
-      <title>Adaptive Learning without Question-Answer Dataset</title>
-      <link>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</guid>
-      <description>Product Manager Portfolio showcasing my work</description>
     </item>
     <item>
       <title>AssessEd - Bridging gap between the digital EdTech world and Offline Assessments.</title>

@@ -1,7 +1,7 @@
 ---
 title: How I Built a Supply Chain Optimization Agent with Gurobi and Google ADK
 date: 2025-12-15
-summary:
+summary: AI agent that uses natural language to solve complex supply chain optimization problems.
 tags:
   - GenAI
   - GurobiOptimization

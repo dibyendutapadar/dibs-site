@@ -17,13 +17,21 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</loc>
+    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
-    <loc>https://dibyendupm.com/tech-for-pm/types-of-problems-where-ml-can-be-applied/</loc>
-    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
+    <loc>https://dibyendupm.com/projects/ai-driven-conversational-pm-caliber-evaluation/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/projects/building-frontend-ai-agents-letting-llms-operate-the-ui/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/projects/how-i-built-a-writing-agent-using-google-adk-to-match-my-writing-style/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -84,16 +92,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://dibyendupm.com/projects/image-analysis-with-llava-and-llama/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/art-of-pm/impact-outcome-output/</loc>
     <lastmod>2025-11-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url><url>
-    <loc>https://dibyendupm.com/projects/adaptive-learning-without-question-answer-dataset/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -271,6 +279,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://dibyendupm.com/tags/automation/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://dibyendupm.com/categories/autotech/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -308,6 +320,10 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/tags/forecasting/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/tags/gemini/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -436,6 +452,10 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://dibyendupm.com/tags/traveltech/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dibyendupm.com/tags/vertex/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url><url>
